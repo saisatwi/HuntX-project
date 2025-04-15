@@ -1,0 +1,4 @@
+id,name,type,location,rarity,species
+1,Lion,predator,Desert,Rare,Carnivora
+2,Elephant,herbivore,Forest,Common,Herbivora
+3,Wolf,predator,Jungle,Uncommon,Carnivora
