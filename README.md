@@ -1,82 +1,62 @@
-# HuntX-project
-# Project Overview
-HuntX is a gamified data engineering project built to showcase proficiency in Python, SQL, Snowflake, AWS (S3 & QuickSight), and data pipeline management. The project simulates a story-driven data model that analyzes the hunting of rare animals, capturing data for various species, rarity, and locations, then processing it for use in business insights.
+# 🏹 HuntX Project – Data Engineering Adventure
 
-# Technologies Used:
+A futuristic, story-driven data project where you play as a legendary hunter navigating through AI-powered terrains, hunting rare species, and collecting data along the way. Designed to master real-world data engineering & analytics skills through an immersive game simulation.
 
-Python (Data Cleaning, Processing, ETL Pipelines)
+---
 
-SQL (Data Analysis, Querying)
+## 🔥 Project Summary
 
-Snowflake (Cloud Data Warehousing)
+**Tech Stack:** Python · Pandas · Snowflake · AWS S3 · SQL · QuickSight
 
-AWS S3 (Data Storage)
+- Built with a gamified storyline involving futuristic terrains, AI interactions, and rare creature encounters.
+- Designed for learning data engineering (pipelines, ETL, cloud) and analytics (EDA, dashboards, storytelling).
 
-AWS QuickSight (Data Visualization)
+---
 
-Pandas & NumPy (Data Handling)
+## 📅 Progress Log
 
-Faker (Data Generation)
+### ✅ Day 1 – Project Setup
+- Created HuntX folder structure.
+- Set up `data/`, `pipeline/`, and virtual environment.
+- Initialized Git and VSCode workspace.
 
-# Project Goals
-Design an end-to-end data pipeline using Python and AWS tools.
+### ✅ Day 2 – Data Ingestion
+- Created `animals.csv` with 10 species, types, rarity.
+- Wrote `ingest_data.py` to load raw data and preview it.
 
-Build a cloud-based solution for storing, processing, and analyzing large-scale data.
+### ✅ Day 3 – Synthetic Data Generation
+- Generated 1000 synthetic animal entries using Python.
+- Included ID, name, species, breed, danger level, rarity.
+- Wrote `generate_data.py` to automate the process.
 
-Apply data engineering and data analytics skills to deliver actionable insights from simulated gaming data.
+### ✅ Day 4 – Data Transformation
+- Cleaned and structured the generated data.
+- Removed duplicates, handled missing values.
+- Wrote `transform_data.py` for full transformation pipeline.
 
-Use real-world technologies to handle synthetic game event data, ensuring that it aligns with industry standards.
+### ✅ Day 5 – Terrain Creation
+- Defined 10 terrain types (e.g., Jungle, Desert, Arctic).
+- Created `terrain.csv` with climate, hazards, and rarity.
+- Added difficulty levels (1–50) to terrains.
 
-# Key Features
-Data Ingestion: Collects game event data from multiple sources and processes it through automated pipelines.
+### ✅ Day 6 – Linking Animals to Terrains
+- Mapped animals to terrains randomly.
+- Integrated terrain and animal datasets.
+- Added `terrain_main.csv` to simulate game-world linkages.
 
-Data Transformation: Cleans and structures data for analysis, creating key insights into player behaviors and game mechanics.
+---
 
-Cloud Integration: Stores the data in AWS S3 and uses Snowflake for data warehousing.
+## 🚀 Coming Next
+- Introduce the **Universal Travel Key** (realm shifting).
+- Generate **hunter stats** (XP, health, kills, fame).
+- Add **voice assistant** (mother AI tracking vitals).
+- Simulate **event logs** and **rare encounters**.
 
-Data Visualization: Displays insightful metrics using AWS QuickSight dashboards.
+---
 
+## 🧠 Story Element
+The hunter is guided by his AI bike and a voice assistant (based on his mother) through dangerous realms. One day, he discovers a mysterious **Universal Travel Key** that sends him into unknown worlds—opening the gateway for advanced data scenarios and visual storytelling.
 
-├── data/
-│   ├── raw/
-│   │   └── animals.csv      # Raw game event data
-│   ├── processed/
-│   │   ├── cleaned_animals.csv  # Cleaned data ready for analysis
-│   │   └── transformed_animals.csv  # Transformed data for reporting
-│
-├── pipelines/
-│   ├── ingest_data.py        # Ingest data from raw sources
-│   ├── generate_data.py      # Generate synthetic game data
-│   ├── load_to_snowflake.py  # Load processed data to Snowflake
-│   └── transform_data.py     # Transform data for analysis
-│
-├── README.md                 # Project description and setup instructions
-└── .gitignore                # Files and directories to exclude from Git tracking
+---
 
-
-# Future Enhancements
-Integrate Real-Time Data from external sources (e.g., APIs, databases).
-
-Add Machine Learning capabilities to predict animal behavior based on historical data.
-
-Expand the cloud infrastructure to include AWS Lambda for serverless computing and more automation.
-
-# Contributing
-Contributions are always welcome! If you would like to contribute to this project, feel free to fork it, submit pull requests, or raise an issue with suggestions for improvement.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Contact
-Email: saisatwikstk@gmail.com
-
-
-
-
-
-
-
-
-
-
-
+## 📂 Folder Structure
