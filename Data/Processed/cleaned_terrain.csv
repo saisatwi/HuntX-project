@@ -1,0 +1,11 @@
+id,terrain_name,climate,danger_level,rarity_factor,description
+1,Jungle,Humid,High,1.5,Dense forest with dangerous wild predators
+2,Desert,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+3,Forest,Mild,Low,1.0,Balanced area with common animals
+4,Swamp,Wet,High,1.6,Murky lands with hidden threats
+5,Mountains,Cold,Medium,1.3,Rocky regions with agile animals
+6,Savanna,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+7,Tundra,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+8,City Ruins,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+9,Canyon,Hot,Medium,1.4,Narrow passages with ambush threats
+10,Volcanic Zone,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
