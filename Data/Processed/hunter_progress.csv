@@ -1,0 +1,101 @@
+hunter_id,terrain_explored,animals_hunted,xp_earned,money_earned,fame
+1,Volcanic Zone,101,64,327,Medium
+2,Mountains,963,135,389,Medium
+3,Volcanic Zone,875,109,179,High
+4,Forest,866,106,456,High
+5,Mountains,713,77,412,Medium
+6,City Ruins,329,83,377,Medium
+7,Desert,178,150,451,Medium
+8,Canyon,123,115,465,Low
+9,Tundra,720,101,446,High
+10,Swamp,809,79,202,Low
+11,Swamp,145,94,367,Low
+12,Swamp,916,130,345,High
+13,Savanna,538,131,151,Low
+14,Forest,46,134,234,Medium
+15,City Ruins,871,60,108,Medium
+16,Jungle,69,104,406,High
+17,Savanna,819,67,392,Medium
+18,Desert,815,65,150,High
+19,Desert,352,144,382,Low
+20,Savanna,882,104,146,Low
+21,Tundra,801,84,275,Medium
+22,Mountains,519,71,267,Low
+23,Jungle,224,101,207,High
+24,Desert,528,121,170,Medium
+25,Jungle,741,108,185,Medium
+26,Tundra,206,143,277,High
+27,Savanna,294,109,154,High
+28,Savanna,143,59,449,Medium
+29,City Ruins,668,141,280,High
+30,Mountains,676,58,230,High
+31,Desert,763,89,265,Medium
+32,Mountains,489,64,431,High
+33,Mountains,882,108,445,Medium
+34,Swamp,39,146,449,High
+35,City Ruins,874,112,202,Low
+36,Forest,501,107,369,Low
+37,Desert,95,124,287,Low
+38,Swamp,638,125,186,High
+39,Savanna,224,124,132,Medium
+40,Swamp,9,112,117,Medium
+41,Tundra,580,102,131,High
+42,Canyon,835,120,198,Medium
+43,Tundra,469,85,350,Medium
+44,Tundra,595,135,414,Medium
+45,Swamp,951,99,303,High
+46,Mountains,631,63,429,Low
+47,Swamp,228,100,328,Low
+48,Mountains,584,51,373,High
+49,Tundra,812,130,253,Medium
+50,Desert,511,79,187,Low
+51,Desert,299,76,126,Medium
+52,Jungle,930,62,479,Medium
+53,Tundra,978,91,377,Medium
+54,Savanna,39,70,375,High
+55,Desert,934,96,424,Low
+56,Savanna,241,94,497,Medium
+57,Swamp,438,139,232,Low
+58,Swamp,747,97,155,High
+59,Desert,490,108,293,High
+60,Canyon,504,130,339,Low
+61,Tundra,667,103,228,Low
+62,Forest,623,111,212,High
+63,Desert,326,146,344,Low
+64,Tundra,174,141,184,Low
+65,City Ruins,108,146,363,High
+66,Tundra,192,82,473,Medium
+67,Volcanic Zone,77,96,168,Medium
+68,Mountains,315,113,389,Low
+69,Savanna,484,144,446,Medium
+70,City Ruins,913,97,427,Low
+71,City Ruins,124,143,486,Low
+72,Volcanic Zone,60,145,458,Medium
+73,City Ruins,276,86,202,High
+74,City Ruins,370,105,399,High
+75,Jungle,182,135,397,Low
+76,Jungle,808,98,127,Low
+77,Forest,886,122,392,Medium
+78,Savanna,72,86,108,Low
+79,City Ruins,283,85,496,Low
+80,Savanna,241,76,498,Medium
+81,Canyon,178,140,360,Low
+82,Volcanic Zone,666,94,271,High
+83,Savanna,954,140,204,Low
+84,Mountains,691,119,465,Low
+85,Volcanic Zone,660,91,396,Medium
+86,Desert,632,70,184,High
+87,Volcanic Zone,336,95,442,High
+88,Jungle,56,148,269,Medium
+89,Forest,704,132,355,Medium
+90,Canyon,343,111,130,Low
+91,Desert,987,145,339,Medium
+92,Volcanic Zone,929,55,154,High
+93,Volcanic Zone,235,115,493,Low
+94,Savanna,923,75,190,High
+95,City Ruins,423,114,171,Medium
+96,Canyon,868,57,450,Medium
+97,Jungle,468,57,397,Medium
+98,Swamp,654,108,341,High
+99,City Ruins,560,109,140,High
+100,City Ruins,486,70,188,Medium

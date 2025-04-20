@@ -1,0 +1,101 @@
+encounter_id,hunter_id,animal,location,date,rarity_score
+d281faaa-dae1-40a2-9bb3-7c392617b3a1,H001,Ghost Serpent,Deannaside,2025-04-15,9.64
+c4bb2041-e82a-493c-87e5-b4326b36ff5c,H001,Ghost Serpent,Josephtown,2025-02-25,9.07
+0a275caf-a139-4c9a-93f3-8f9801c9cf9b,H001,Shadow Panther,Port Jonathanville,2025-01-17,9.43
+2cd45def-618d-4c40-bad7-eab61c7149f9,H001,Ghost Serpent,North Eric,2025-02-07,9.63
+7e2bd64d-f599-48d8-adb9-e7094eda3643,H001,Storm Eagle,Jessicaview,2025-03-06,8.72
+8374298a-2796-47cc-a114-b6f1e5abcd1a,H001,Ghost Serpent,North Ericstad,2025-04-17,8.8
+a1646efa-ed5d-42ea-8125-4a72e83d2633,H001,Ghost Serpent,Destinymouth,2025-04-10,8.72
+899c6378-eaca-4c3b-83a2-bae53cc3b39d,H001,Storm Eagle,Markmouth,2025-03-30,8.92
+835403f5-74b1-4888-b239-ce1ed6ce6abc,H001,Shadow Panther,Erinshire,2025-02-03,9.63
+b2ab1b4c-51e1-456c-80a7-958d28bded1d,H001,Storm Eagle,West Scott,2025-04-10,9.04
+955baaf5-7a1d-4719-838f-c0b55f16bc2b,H001,Ghost Serpent,North Jeremymouth,2025-03-29,8.64
+515c7da6-794d-450b-8139-8c94acc85131,H001,Titan Wolf,New Mitchell,2025-01-31,8.86
+05dd9701-afb4-4eee-9b28-495c368d8a0f,H001,Storm Eagle,New Felicia,2025-03-03,9.21
+0cbc6178-4b07-4a5a-86d3-87c41835d7cc,H001,Crystal Tiger,East Sethbury,2025-01-13,8.51
+e32fb26e-e895-4a1c-b4fe-8c4033089d9c,H001,Titan Wolf,Merrittside,2025-02-15,9.26
+b0ebff5f-cefb-49a8-bbe5-384667ef3e66,H001,Storm Eagle,New Cheryl,2025-02-03,8.98
+862bffa5-85ac-46f8-a5b3-8ebdd5e1e90f,H001,Crystal Tiger,West Stephen,2025-01-12,9.1
+4502aa26-036e-4847-a935-c54c907bebc9,H001,Storm Eagle,Cheyennehaven,2025-02-13,9.18
+6d4097d9-addd-4c9d-b452-c3a5f4b4f042,H001,Crystal Tiger,Prestonburgh,2025-04-12,9.52
+afa53d70-2f6e-4d59-99f0-a5b8480feb38,H001,Shadow Panther,South Johnton,2025-02-19,8.96
+5cc20786-7a39-474a-8913-3500e8bf7ab0,H001,Shadow Panther,Lake Terri,2025-03-28,9.21
+f4642528-47c0-414b-886c-66585bbdee53,H001,Storm Eagle,West Vincent,2025-04-15,9.94
+f70e4261-6c73-4433-b737-e6cc3479bb79,H001,Storm Eagle,West Sarahview,2025-01-07,9.43
+8ec6c4f7-6599-45ff-99fa-643c114f5dd7,H001,Titan Wolf,Steventon,2025-02-18,8.99
+9bb2e1d2-1a6a-4a4b-b3dc-97408866c1c4,H001,Crystal Tiger,Ericshire,2025-03-20,8.51
+36de41df-44de-438b-b52f-2b3b5b0d8fee,H001,Shadow Panther,North Jessica,2025-01-21,9.62
+b0e9946a-cbd6-4b1a-90ae-7d988c87c9f5,H001,Titan Wolf,Brooksville,2025-02-11,9.6
+3eaf3693-0527-4b92-a504-dae91ba5da89,H001,Shadow Panther,Jillianville,2025-01-12,9.3
+288d37b0-6722-4fa7-b67e-e3b554f69ad9,H001,Storm Eagle,Sherryhaven,2025-02-27,9.22
+c539c84d-a3fb-437a-bbfd-92ecbfba49ba,H001,Ghost Serpent,Jimmybury,2025-03-14,8.87
+61e37a5c-bcc6-45f1-a2f7-cbb8dce3df1e,H001,Storm Eagle,Chamberston,2025-04-14,8.73
+d8809630-ce35-4166-b09e-273d4477ad0c,H001,Storm Eagle,Nelsonburgh,2025-01-07,9.11
+8dfcd982-4d2f-4ddb-8b5c-44240f866196,H001,Titan Wolf,East Julieview,2025-03-10,9.36
+40463131-ca57-44b0-9c9c-f98ed2c1a349,H001,Shadow Panther,Makaylaside,2025-02-23,9.05
+9eba686c-cb77-4795-b756-16248ad7247b,H001,Titan Wolf,Lake Patricia,2025-04-03,8.75
+b514058e-39ca-404a-a417-f4121a030445,H001,Ghost Serpent,Hernandezville,2025-02-01,9.33
+0608a75c-66f1-4543-8b82-508a191e6312,H001,Shadow Panther,Dianechester,2025-04-06,9.43
+3bc7f992-f189-4fad-af29-80cc5afdaf64,H001,Storm Eagle,New Samuel,2025-01-17,9.85
+d7bd3cce-b6a2-41a6-a713-beba21d859ad,H001,Ghost Serpent,Gentryview,2025-01-06,8.88
+2a2f2f59-fcc0-4c7f-8c88-02f1d0f26db7,H001,Storm Eagle,Onealfort,2025-02-16,9.25
+5c27ff76-33e3-459e-b619-694e8c1d2ab2,H001,Shadow Panther,Garciashire,2025-01-18,8.75
+61df372f-57b6-4ac9-8b99-11fa3de210c7,H001,Crystal Tiger,Laurenport,2025-02-26,9.46
+a5be3c90-eabb-40ae-9d83-da78b2eec11f,H001,Crystal Tiger,Marytown,2025-01-14,8.58
+93a4f60b-d992-4649-8ef1-11ce1e456678,H001,Crystal Tiger,Jensentown,2025-03-15,9.19
+5c21a2d3-2d40-4ec9-85b5-9f09e0d7cf43,H001,Crystal Tiger,Deniseview,2025-01-06,9.88
+a871c498-bb29-4c02-b117-0c498ea05303,H001,Shadow Panther,Lindseyborough,2025-03-26,9.38
+d19cdb97-48b6-4145-bf14-672bfd125d56,H001,Ghost Serpent,Rodneyfurt,2025-01-10,8.79
+85dd6259-2baf-4f57-b352-1dce8b8dde81,H001,Ghost Serpent,Johnview,2025-03-30,8.74
+dfdc50d7-eaed-4b14-a4f1-64a82a25f85e,H001,Shadow Panther,Philipborough,2025-04-18,9.41
+c79f66c8-ee29-43b2-a3c2-b1e0d11a53d1,H001,Crystal Tiger,South Derek,2025-03-29,9.44
+11dca2e4-d9cd-41b1-be1c-e7213fbefec0,H001,Ghost Serpent,New Kimberlyshire,2025-01-15,8.82
+3c3ce01a-73d4-43eb-87f4-ca8890214e2d,H001,Crystal Tiger,Weaverside,2025-01-16,9.83
+12b072cd-f514-4589-8048-d30735694706,H001,Crystal Tiger,West Jenniferberg,2025-01-05,9.84
+c610c9bc-36fe-457a-997c-2582fa3d7519,H001,Crystal Tiger,Kristinaport,2025-03-27,8.77
+c83ad007-f225-4cea-b398-6a536bf61a16,H001,Ghost Serpent,East Mandyhaven,2025-01-02,9.97
+0ba3572c-d769-4e07-8ebd-2d38f8995872,H001,Crystal Tiger,Crosstown,2025-04-11,9.8
+ece51e09-8240-4ef5-b58d-89540f44dfb6,H001,Storm Eagle,New Kevinside,2025-03-26,9.26
+765214bb-bf33-4d94-b790-9f1c6d1583d6,H001,Ghost Serpent,Smithland,2025-02-11,9.67
+0967afce-ae94-40d9-9ed1-89ec95eb9db4,H001,Ghost Serpent,Hughesport,2025-01-23,9.58
+77f8858f-8ce9-439f-98f6-51c80774f0f6,H001,Shadow Panther,Chadborough,2025-04-09,8.85
+aff526cc-90e0-4576-af5f-a52480bd6b31,H001,Crystal Tiger,Claireview,2025-02-23,8.6
+0576fb52-e183-4146-9a45-8a0a580cc31a,H001,Shadow Panther,Robertchester,2025-01-28,9.36
+c2fa275b-f357-45f0-829f-f57fadc05b9e,H001,Ghost Serpent,Port Bianca,2025-04-11,9.24
+8bb05a8b-615e-4415-a6cf-b1664c91bec6,H001,Crystal Tiger,North Lisa,2025-02-12,9.38
+f85a3dce-1446-47eb-ae7d-7ef853e21d51,H001,Titan Wolf,Joannaborough,2025-01-26,8.8
+4882aeef-aee1-46ef-8952-ce3f9e9747b7,H001,Titan Wolf,Holderville,2025-02-20,9.59
+e12bbb67-b429-4f39-b0ef-1588dd99f7b2,H001,Shadow Panther,East Christineview,2025-03-21,8.96
+00fcfde5-d56e-48b3-a0df-182b6bf5516a,H001,Crystal Tiger,Port James,2025-02-24,9.96
+fafc8d7d-7e7f-4733-b65d-6e1145267be5,H001,Storm Eagle,Bradville,2025-03-22,9.59
+e59315b5-273d-466b-a529-daa4860f8b54,H001,Crystal Tiger,South Elizabethchester,2025-04-06,8.54
+cc3b921b-8fae-4444-b9e3-60ffe8e5bc7b,H001,Crystal Tiger,Port Elizabethbury,2025-04-16,9.99
+6e62e23f-58d9-44c4-9a54-a5a1921952b7,H001,Crystal Tiger,Mccannport,2025-02-02,9.62
+faab2d7e-8571-4d3e-90ba-ed0531ac35c4,H001,Titan Wolf,South Jeremymouth,2025-01-27,8.72
+ef17e35d-1685-432a-a024-09e5c6ce306f,H001,Crystal Tiger,Ortizhaven,2025-03-14,8.93
+fc31a543-cb19-4379-9181-223dfc2df7a9,H001,Shadow Panther,Port Jennifermouth,2025-04-02,9.03
+dfbfef14-71e5-4426-aa2a-89cf0be58263,H001,Titan Wolf,Mckaytown,2025-02-24,9.33
+3a48b8f1-1108-4b75-b379-e38e54f6cdc4,H001,Storm Eagle,Morafort,2025-02-22,9.83
+a3e5dd44-15af-4910-a862-4cd0533bb596,H001,Ghost Serpent,Johnsonland,2025-03-19,8.93
+729ad4a0-2f74-4cbc-9d3a-c4b15f4bf6ae,H001,Ghost Serpent,Vincentside,2025-01-15,8.78
+03d208b5-0487-4d4d-952d-2194c09adecc,H001,Storm Eagle,Michaelfort,2025-03-29,8.71
+e5ceb345-1eb5-4d73-adf2-6c2abd55c866,H001,Shadow Panther,East Elizabeth,2025-03-25,9.97
+bbcfbf65-f549-4800-b156-b4910beabf38,H001,Crystal Tiger,Williamsport,2025-02-11,9.81
+e609b820-bb88-4885-9f73-1e585c618e31,H001,Shadow Panther,South Samanthaside,2025-02-28,9.09
+5b2083bd-33af-435e-a4f6-750f5f93253e,H001,Ghost Serpent,Davidview,2025-04-16,8.5
+b8d7086b-c9c4-457f-ae9b-ef7facd8d336,H001,Titan Wolf,Royborough,2025-01-21,9.21
+7b74ac2e-388e-405f-b620-3145e1a89700,H001,Shadow Panther,East Kimberly,2025-01-14,9.44
+df8e76e4-2272-4924-89b9-7a78d245a2aa,H001,Ghost Serpent,Erikaview,2025-02-17,9.61
+a23070da-1ab6-4aad-9fdb-d8340eba74dd,H001,Ghost Serpent,South Thomasland,2025-02-12,8.99
+e6314e30-e725-42e8-91d2-8b425a87f3e2,H001,Shadow Panther,New Roberttown,2025-01-28,9.69
+02104e11-5f66-4a84-88a3-825722924ca6,H001,Storm Eagle,Victorfort,2025-03-14,9.71
+3a2e1931-baa0-4a1c-8828-8ff3985d5c3f,H001,Ghost Serpent,Julieberg,2025-03-23,9.21
+1230a93e-2221-48a9-8f10-f8d2b8d09002,H001,Storm Eagle,West Larrychester,2025-04-09,9.58
+feadff97-eb91-45df-ba42-3dbb6fa4a159,H001,Ghost Serpent,Port Gary,2025-01-25,8.53
+24a5cb8b-faaf-4342-8cce-974072b45a69,H001,Titan Wolf,East Cameron,2025-01-07,8.8
+2f0b7f4e-5932-4f3c-b293-f8d5b76e96db,H001,Crystal Tiger,Glendafort,2025-02-07,9.67
+bf83337a-aa03-481a-877d-af1ac5af6026,H001,Storm Eagle,Websterhaven,2025-02-06,9.02
+5c57c5bd-44f5-46dc-bf48-3be5af5a62f2,H001,Crystal Tiger,Ruizland,2025-01-31,8.98
+3098ed8e-4718-47db-a7c5-6fb9b46c13aa,H001,Titan Wolf,South Dean,2025-02-20,9.57
+abc889ce-3729-4ea5-b649-bbfbddb15893,H001,Storm Eagle,Harrisonland,2025-01-02,8.91
+3e53a890-7d02-4bfc-af55-60982b5555f7,H001,Shadow Panther,Harrischester,2025-02-25,9.88

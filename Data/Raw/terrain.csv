@@ -1,4 +1,4 @@
-id,terrain_name,climate,danger_level,rarity_factor,description
+hunter_id,terrain_name,climate,danger_level,rarity_factor,description
 1,Jungle,Humid,High,1.5,"Dense forest with dangerous wild predators"
 2,Desert,Arid,Medium,1.2,"Hot and dry terrain with limited animal life"
 3,Forest,Mild,Low,1.0,"Balanced area with common animals"

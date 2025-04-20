@@ -1,0 +1,1001 @@
+event_id,event_type,animal_id,terrain_name,event_time,result,reward
+921261a5-b2d9-4f32-97fe-d249c900b106,encounter,514,Savanna,2025-03-07 03:06:28,hunter_defeated,63
+a87ffc0c-ce54-4e06-aec3-44a6d9a27163,danger,579,Jungle,2025-01-01 17:15:13,animal_fled,27
+f3df8db3-acda-40c6-bdbd-04c70d74462b,encounter,139,Volcanic Zone,2025-03-03 20:39:49,hunter_escaped,39
+d473c9f4-a736-47d1-aeb2-21f0819398be,danger,969,Forest,2025-04-06 03:17:20,animal_fled,59
+5d227a93-481e-4810-ae68-ecf174251d14,encounter,898,City Ruins,2025-02-11 12:39:23,hunter_defeated,43
+a98cb349-d858-4b74-b43d-c82f600fc5bc,danger,545,Volcanic Zone,2025-03-02 22:09:14,hunter_defeated,35
+a11ab9a8-aead-4abf-ae7e-10d353edc3db,danger,545,Tundra,2025-04-16 01:40:09,hunter_escaped,41
+a2bb0126-625d-494b-bb18-f5bf2c0d6d80,danger,402,Savanna,2025-03-06 15:38:09,animal_fled,53
+6576876f-5db5-44ea-97e5-5f9dec1fcdfc,encounter,956,Mountains,2025-01-12 23:31:49,hunter_defeated,30
+e51932cc-225f-421e-a27b-a4dbef590fd4,danger,304,Swamp,2025-01-16 19:59:55,hunter_defeated,53
+bf5cdf4a-f06b-4ec6-b7b8-5ab7cd6473ce,danger,560,Forest,2025-01-17 01:46:42,animal_fled,66
+e7c597b1-7209-405b-af8e-4446d2cc1780,boss_battle,796,City Ruins,2025-04-14 14:22:28,hunter_escaped,90
+7244b393-ace4-41d4-b1da-cc9ada0a545e,encounter,983,Canyon,2025-01-19 21:53:05,animal_fled,69
+93453396-1de0-437e-ba1c-b451acdff433,encounter,5,Jungle,2025-02-28 18:56:13,hunter_escaped,88
+478adcff-87f1-428a-b39b-f5e65751eaef,boss_battle,561,City Ruins,2025-01-25 18:34:07,animal_fled,95
+9fa02ae2-03ef-43a5-b2e5-4f24d78e02f8,encounter,402,Desert,2025-03-16 01:23:53,animal_fled,91
+eb7078d1-5a46-478a-abd1-c3b36bb7c8f8,encounter,314,Forest,2025-01-05 00:13:14,hunter_defeated,87
+839e7811-17c7-4bf4-9667-2c44f49a802e,encounter,687,Canyon,2025-01-21 15:08:50,hunter_escaped,84
+45e87a0c-b1cd-46b9-80a5-b694c2fae482,boss_battle,706,Swamp,2025-03-16 18:25:25,hunter_escaped,64
+cee96fcc-37c5-4509-a58e-aee85111aaae,boss_battle,734,Volcanic Zone,2025-01-26 03:09:03,hunter_defeated,33
+bc1824d3-912e-4ea1-a7cf-e82072feb14f,encounter,843,Tundra,2025-02-07 19:14:09,hunter_escaped,92
+3d4623cd-673a-4372-9542-ee51f88e54b6,boss_battle,137,Mountains,2025-02-06 08:23:56,hunter_defeated,73
+5ebf3c3e-4471-4378-be3e-4aec1e77addd,encounter,362,Desert,2025-03-23 12:30:03,animal_fled,38
+a5f7782a-71a3-4ef9-a04c-e8bf0fecca95,boss_battle,442,Savanna,2025-04-04 20:18:56,animal_fled,48
+e1699554-7be3-4f06-9b4d-a967f47358d6,danger,574,Desert,2025-01-02 07:05:29,animal_fled,45
+d7f643d5-440a-4892-a2aa-be1ff596fc9e,danger,843,Canyon,2025-02-11 03:53:39,hunter_escaped,12
+1794e8ac-5a47-473f-8628-ffe21241727d,boss_battle,101,Volcanic Zone,2025-01-29 01:04:37,hunter_defeated,73
+07b4ebc9-2f32-49b2-a55e-9faec4d676c6,encounter,948,Forest,2025-03-16 15:05:05,hunter_defeated,89
+b7103089-b829-4fc5-a655-ed4edc4a9c5e,encounter,375,Desert,2025-04-20 09:27:25,hunter_defeated,93
+f4582dcc-f0ab-4566-ac65-d98cb8230d9c,danger,293,Forest,2025-04-17 18:48:14,animal_fled,86
+52e9c547-8846-45de-9410-64cdf095dd2a,boss_battle,212,Canyon,2025-04-06 08:48:17,hunter_escaped,13
+dfab70bc-c696-4f0b-ba4d-fae6d59ee182,danger,366,Tundra,2025-04-10 15:40:33,hunter_escaped,13
+3dec8f9d-a2e3-43b7-90a7-bcaf45b78696,danger,622,Jungle,2025-03-10 09:34:09,hunter_defeated,11
+2d650d3c-d554-4366-8a1a-4aafa474c87e,danger,694,Canyon,2025-03-19 19:30:18,hunter_escaped,14
+6b021f86-0453-497f-9fa7-7af23c595152,danger,596,Savanna,2025-02-17 15:58:08,hunter_defeated,70
+135fe2ff-3361-48ba-b46d-07d0b3b414e3,encounter,870,Canyon,2025-01-17 22:18:27,hunter_defeated,35
+d6804e9c-7f5a-4f5a-a0fc-8530da1c4f3b,boss_battle,303,Volcanic Zone,2025-01-21 08:54:17,hunter_escaped,26
+0356651f-67ca-4915-a91c-52baee1bf554,encounter,787,City Ruins,2025-02-10 02:19:26,hunter_defeated,31
+720b371f-7feb-451e-b1b8-99fb62c16b70,boss_battle,798,Jungle,2025-02-12 07:05:07,hunter_defeated,60
+cc62759b-11af-4408-aa4e-4628097993f8,boss_battle,689,Savanna,2025-02-04 04:38:35,hunter_escaped,33
+b0dfc0e7-2080-4ec3-bdf9-e48cd40c6c55,boss_battle,760,Canyon,2025-03-12 09:32:01,hunter_escaped,68
+f83e07c3-efa8-4610-8b47-331c705b83c4,encounter,305,Forest,2025-02-25 05:48:06,hunter_defeated,41
+bf9cf870-6499-4e80-b4f6-89ee220c3b31,boss_battle,67,Volcanic Zone,2025-02-22 17:15:27,hunter_defeated,65
+0fa029ae-d732-4668-8287-bfa882e2832c,encounter,593,Savanna,2025-01-07 21:18:46,hunter_escaped,36
+ec799e5d-c5a2-4453-b341-172abb59ddab,encounter,850,Desert,2025-02-24 20:21:55,hunter_defeated,84
+f21d5a33-a8e0-4793-a14e-b4c647931c38,danger,27,Desert,2025-02-23 01:41:27,hunter_escaped,85
+23742f06-33db-498f-9f74-0ca89e8c1332,danger,227,City Ruins,2025-01-30 07:13:35,hunter_defeated,60
+fe18e5aa-01d2-4250-8b8c-e2f236a454f5,boss_battle,767,Savanna,2025-04-19 22:20:19,animal_fled,19
+a0efe69c-12ba-4c75-bf31-12045636cf8c,encounter,833,Savanna,2025-03-14 08:01:42,animal_fled,87
+92232867-3dff-4cb7-8da1-544df37c6388,encounter,778,Savanna,2025-01-22 01:44:20,hunter_escaped,59
+0c4cd6a3-67cd-4730-93de-b0ab630d6870,encounter,212,Swamp,2025-03-13 03:17:27,animal_fled,93
+dfd4f468-53f3-40e8-842e-26d0c4991fe0,danger,28,Tundra,2025-03-27 22:02:47,animal_fled,73
+e5ca4b82-a0de-44f7-8de1-e17ab92d96c6,boss_battle,987,Forest,2025-02-04 03:13:13,hunter_escaped,44
+53be00aa-6dd6-461a-8fdf-29d98e2735ec,encounter,610,Canyon,2025-03-15 10:32:03,hunter_defeated,79
+b4e24465-8dc4-451e-87f3-e48449f21a00,boss_battle,31,Desert,2025-02-23 07:27:20,hunter_escaped,38
+e22ea6d1-d31c-4c67-a3c5-342855f19a49,encounter,891,Canyon,2025-03-22 17:34:22,animal_fled,45
+150b837c-678c-4f5f-a2f2-a58e79fc026b,encounter,10,Desert,2025-03-11 14:39:28,animal_fled,73
+f135a2ae-49d1-46e4-98c1-365885dae478,boss_battle,370,Swamp,2025-03-04 10:28:08,hunter_escaped,61
+b982b8f1-33fc-4f34-a6a6-2461877ef49d,boss_battle,530,Swamp,2025-04-05 18:44:22,animal_fled,82
+8baa7a56-f7dc-4bc1-8950-2ce7aad39aab,encounter,996,City Ruins,2025-04-07 22:58:19,hunter_defeated,54
+bdb640ab-caaa-4f1d-8496-a9091680313d,danger,210,Mountains,2025-02-22 09:36:22,hunter_defeated,27
+5b4ef23a-c899-451d-907b-2e63fa6edfa9,encounter,255,Mountains,2025-01-27 23:32:01,hunter_escaped,16
+718a0631-ba62-41fe-8b2d-d48ff82a129e,encounter,584,Jungle,2025-04-04 00:01:38,hunter_escaped,42
+8ee78ff3-8e22-4779-823f-6a5d560e0f7e,boss_battle,682,Canyon,2025-02-15 06:17:37,hunter_escaped,92
+d8cc9fc3-72df-4f68-896a-ee2ed94f020c,boss_battle,159,Mountains,2025-04-19 00:45:20,hunter_escaped,100
+139fac1f-b8c9-46bc-83a3-36647a9ffc2a,danger,18,Swamp,2025-01-30 06:53:00,hunter_escaped,41
+22c68e14-93f6-4280-b8c1-987ed9c72992,danger,811,City Ruins,2025-01-25 22:08:04,animal_fled,16
+08512e5e-bf30-487a-adc0-64d5262d7a24,danger,765,Jungle,2025-03-31 03:23:10,animal_fled,20
+a455b045-87c6-486c-80c1-c9dd9f8767f4,boss_battle,620,Forest,2025-03-26 07:42:07,animal_fled,32
+a5e1382a-a964-4827-b146-096f77218799,boss_battle,141,Canyon,2025-01-28 02:46:38,animal_fled,40
+b5f96f74-8b53-4219-9d6c-c0e32f9c212a,danger,938,Forest,2025-03-31 23:02:48,hunter_defeated,58
+90916d29-98c3-4f7b-88ae-b90d5bccae95,danger,543,Jungle,2025-03-07 00:47:30,animal_fled,60
+c232f568-4a0e-4347-a2fd-922191b7afa1,encounter,755,Forest,2025-01-06 12:11:23,animal_fled,68
+bd193d64-4304-43d6-a023-78ab97197f93,danger,138,City Ruins,2025-02-01 01:42:19,animal_fled,52
+ca3bb329-c7ac-4751-8bae-6675da4201bb,encounter,54,City Ruins,2025-03-14 19:41:06,hunter_defeated,53
+b549f74e-4686-4e7b-a83b-7a2f50c99ed2,encounter,284,Canyon,2025-01-29 12:43:30,hunter_escaped,10
+9d125c1c-b120-490f-af07-a1ab01380fcf,danger,73,Swamp,2025-01-09 11:15:03,hunter_escaped,53
+27960240-4a07-413d-bc56-62a8fcf99717,boss_battle,449,Volcanic Zone,2025-02-25 22:13:12,animal_fled,19
+580cb838-5a33-4bc3-b4fe-a240cb692635,danger,683,Canyon,2025-03-16 19:57:49,animal_fled,83
+98859fa6-4d51-4b60-8aa7-93fdbce861f9,danger,487,Tundra,2025-03-18 00:59:05,animal_fled,33
+7502e6dd-7af8-49e5-a67b-1645755d2d78,boss_battle,290,City Ruins,2025-01-20 17:42:52,hunter_defeated,55
+c08355c5-e825-47fc-9c50-bd6453b66728,danger,729,Desert,2025-04-01 10:40:24,hunter_defeated,13
+34e0955e-2b1a-4533-91b5-4bef892ee0ca,encounter,80,Forest,2025-04-07 15:42:34,animal_fled,93
+593c6b11-e90d-4ef4-b424-e95ee5b97e69,boss_battle,837,Forest,2025-04-16 09:54:25,hunter_defeated,79
+76a5bd6f-a6db-46b8-b92d-dd6138e9fb54,danger,628,Swamp,2025-04-02 13:44:29,hunter_defeated,48
+f654f3cb-d491-4800-860d-505f94947027,danger,538,Jungle,2025-04-19 18:11:42,hunter_escaped,45
+9c76823a-56f9-490b-89ff-7c30c68c5d3d,danger,701,Canyon,2025-03-07 15:49:15,hunter_escaped,72
+851c7903-66aa-4f7d-b055-1d9df057e011,boss_battle,175,Forest,2025-04-08 15:16:05,hunter_escaped,47
+9b7e3796-c7f9-4c27-a176-9fd58bc32c63,encounter,201,Canyon,2025-03-16 08:00:22,animal_fled,47
+fa1ee29c-4bac-4c12-a9d1-9c7cc4cca75a,boss_battle,183,Savanna,2025-01-10 15:09:02,hunter_defeated,47
+8e382a4e-0de8-4e51-a2cd-df72688231c8,danger,921,Jungle,2025-03-18 12:55:56,hunter_defeated,90
+2a8c4381-8eb8-4b63-9163-bcb8163239d4,boss_battle,941,Mountains,2025-04-06 23:24:54,animal_fled,44
+a5f3c3d0-9af4-4d90-a1ee-6a049dc9e175,encounter,919,Volcanic Zone,2025-02-12 22:42:10,hunter_defeated,50
+7cda0fd5-45c0-4756-97b1-06dc507636e9,encounter,141,Swamp,2025-03-07 18:19:59,hunter_defeated,67
+eb157651-3818-4eb7-aeea-418c3360f250,encounter,858,Savanna,2025-03-20 18:56:11,hunter_defeated,63
+ed2b7003-e7b1-4e41-b585-f38971beaddf,boss_battle,902,Swamp,2025-01-18 00:53:15,animal_fled,12
+7cecced7-7dc6-4996-ab61-9793f10f7894,encounter,110,Jungle,2025-02-16 08:12:48,hunter_defeated,54
+9965a91e-eb75-47c8-8176-7eea472f991e,encounter,389,Desert,2025-02-09 15:56:59,hunter_escaped,54
+5df4eb79-346a-4024-aa47-cbdce143fbad,danger,718,Tundra,2025-03-10 20:12:15,hunter_escaped,95
+386175c5-9187-405f-950b-343d8c8e0cc8,danger,491,City Ruins,2025-01-02 18:23:47,animal_fled,39
+42b81c72-6181-4a11-b73e-82a00d77814f,encounter,821,City Ruins,2025-01-15 17:45:09,hunter_escaped,27
+5f2d8672-fa7c-4914-8ab1-e7af91ece827,danger,388,Canyon,2025-04-09 05:42:42,hunter_escaped,81
+efab4dd1-993f-4df7-91ba-d1ff6e0eb9c2,encounter,536,Mountains,2025-01-11 02:42:16,hunter_escaped,46
+65035f6f-c12d-4724-b08b-588c045aee85,encounter,96,City Ruins,2025-02-06 05:51:49,animal_fled,13
+fe03ca9b-7ab4-4865-9a81-1e7667403379,danger,73,Forest,2025-01-09 21:32:36,animal_fled,63
+bf3f077a-a81a-423e-a313-c948d28b8ac2,danger,428,Jungle,2025-02-01 05:48:37,hunter_defeated,89
+8c5fad67-c0b8-4c47-b99e-d5de846679fe,boss_battle,723,Volcanic Zone,2025-01-18 08:28:06,hunter_escaped,57
+f2e34fe3-2048-4783-b4d9-d8a5de99e82a,encounter,904,Desert,2025-03-30 08:07:15,animal_fled,10
+7099a706-6923-44ed-908a-c9f864f24ca4,danger,275,Volcanic Zone,2025-01-29 00:38:59,animal_fled,48
+65eeb39c-0d10-4f35-a712-2a35594d6075,boss_battle,787,Tundra,2025-04-17 03:36:03,hunter_defeated,15
+c776efa4-4a06-4954-b441-7bb44bbb28e8,danger,1000,City Ruins,2025-01-08 17:56:41,hunter_defeated,81
+b4faba8e-6188-4e99-a071-21da80978a1b,encounter,488,Mountains,2025-01-18 08:32:56,hunter_escaped,82
+cb85fc1a-ad46-4ff4-b4fe-4afc6bc66133,encounter,662,City Ruins,2025-01-03 02:43:46,hunter_defeated,59
+381f49bf-8bef-4830-8d9d-f567070d992a,boss_battle,75,Canyon,2025-03-25 12:26:02,hunter_escaped,37
+c852a406-5ff8-4267-b9f7-5d4da512017c,encounter,523,Desert,2025-02-21 08:03:54,animal_fled,84
+46e617e1-73eb-44c6-b953-e7b5daa61871,boss_battle,486,Desert,2025-01-25 17:37:09,hunter_defeated,76
+e2476f07-2d8a-4c83-aba5-6c64bd471790,boss_battle,127,Canyon,2025-03-03 03:52:34,hunter_defeated,92
+6eb90e74-c039-4423-8c13-32482360e638,encounter,52,Savanna,2025-02-04 16:33:14,hunter_defeated,52
+294408de-2ad2-492e-ad91-a124e3283eb6,encounter,542,Desert,2025-04-14 19:28:05,hunter_escaped,23
+ff064d54-a660-4e92-9b58-f790bf455176,encounter,61,Volcanic Zone,2025-03-29 21:10:34,hunter_escaped,65
+cc24fad0-1489-4407-816e-ac352577de09,boss_battle,547,Desert,2025-01-22 12:14:20,hunter_escaped,74
+1374df3c-8035-4820-a54d-a0f5f00b28c4,boss_battle,501,Mountains,2025-01-24 01:10:35,animal_fled,14
+a098b81e-8e96-4075-8a64-df4e7ffab4f6,boss_battle,852,Forest,2025-03-24 15:35:34,hunter_escaped,99
+30e1a817-a538-40ef-9496-b0d4166664b6,boss_battle,475,Jungle,2025-03-27 11:45:12,hunter_defeated,83
+992fe18e-b520-483c-b3e4-514d4ef72f49,danger,246,Mountains,2025-02-24 21:02:31,animal_fled,14
+db76aedb-b431-4464-8ea3-076b0e830d0a,danger,717,Tundra,2025-03-13 01:50:11,hunter_defeated,23
+a853d072-2803-4609-95c1-0bf760e4fc76,danger,607,Volcanic Zone,2025-03-30 08:26:16,animal_fled,14
+20a44afb-77a5-4aa1-aa59-b6d3472f156e,encounter,6,Jungle,2025-01-13 12:26:09,animal_fled,100
+a46a8eef-29ad-4a31-9e7e-95acd03cd53e,danger,177,Desert,2025-03-02 17:48:16,hunter_escaped,56
+1519f14c-de16-40e3-bcc2-0d5b0c965843,danger,775,Forest,2025-04-10 04:04:44,hunter_defeated,92
+10353fd4-d31f-492f-ab4f-5abd82fdcea1,encounter,939,Tundra,2025-03-05 09:25:14,hunter_defeated,34
+a0d5e132-022a-4343-a81f-4291276d09c7,encounter,613,Mountains,2025-03-19 10:16:05,hunter_escaped,46
+e1602e8f-4374-4400-9c15-0a252e3859ec,boss_battle,717,Volcanic Zone,2025-03-17 10:59:51,hunter_defeated,83
+240952f9-314d-4503-8360-05d860521022,danger,920,Tundra,2025-02-20 10:28:42,hunter_defeated,100
+ec8e2f7f-cb7c-4e8c-b6b9-84eec82086f8,boss_battle,444,Tundra,2025-01-29 02:48:47,hunter_escaped,96
+8025ee5f-9e9a-4c9c-9cfc-784f24963d32,danger,832,Savanna,2025-02-06 15:15:10,animal_fled,99
+84c86a0f-58b7-4c44-a94f-b03da0a943b9,encounter,746,Mountains,2025-02-01 06:06:39,hunter_escaped,84
+b1a234ad-49bc-4f6e-879f-7fef12d1b0bc,boss_battle,518,Desert,2025-01-01 03:44:14,animal_fled,11
+9ebc8187-c318-48ef-a64d-3c22bbca344b,danger,981,Swamp,2025-02-16 03:34:02,animal_fled,78
+0dc2fc84-797c-4c8c-8e61-21dc0b1180bb,encounter,234,Jungle,2025-03-10 21:15:09,hunter_escaped,24
+74227473-7d6c-4d88-8707-e83c0d1ca505,boss_battle,107,Tundra,2025-04-12 03:13:44,hunter_defeated,35
+6c2a6309-c4e0-418e-b2f8-8af8770626eb,encounter,415,City Ruins,2025-02-15 05:55:32,animal_fled,56
+d0385a39-30ac-4365-86d3-53ca5a59034d,boss_battle,67,Volcanic Zone,2025-02-23 09:33:07,animal_fled,54
+ae63ad85-b9b4-4332-ab01-ab9b57c150f6,danger,119,Volcanic Zone,2025-03-07 22:23:40,animal_fled,46
+36bfc0ce-70aa-495a-bfa9-c2a936d528dc,danger,214,Mountains,2025-01-22 02:24:43,hunter_defeated,86
+710f2e71-31af-40ca-9d83-ce206da85f82,boss_battle,793,Canyon,2025-01-09 13:25:09,hunter_escaped,48
+fcf31e3f-45ca-4f74-91c3-73f04c4a3093,boss_battle,959,Jungle,2025-03-31 13:25:56,hunter_defeated,68
+040979ba-a918-4397-994f-cf776283e114,danger,584,Tundra,2025-03-08 08:30:38,hunter_defeated,84
+0495655f-b258-48b6-89f4-b3def4574efb,danger,290,Mountains,2025-02-01 10:01:11,hunter_escaped,44
+7935c88b-36b9-4176-a31f-d1f2cd9608dd,encounter,495,Canyon,2025-01-16 10:06:19,hunter_escaped,96
+e8c61b36-5bf5-4a9c-8c04-261947fa7fa5,danger,222,Volcanic Zone,2025-03-15 21:29:50,hunter_defeated,79
+258778dc-e1ea-4765-af38-fb1bb32838c7,danger,458,Tundra,2025-04-11 10:47:31,animal_fled,19
+028a993b-309b-406b-85ec-0b22b23a2645,danger,89,Volcanic Zone,2025-04-11 00:08:28,hunter_defeated,15
+87411b58-a163-49de-a0c4-cafe95c7752a,encounter,135,Jungle,2025-01-22 07:17:25,hunter_escaped,36
+e9ae5940-8431-4eeb-843f-35bdd2915d81,encounter,33,Desert,2025-03-02 09:07:52,animal_fled,27
+630e1792-40f6-4b38-8dd3-ca3f496839fb,encounter,767,Swamp,2025-01-13 12:58:27,hunter_escaped,88
+05eb1b82-f849-458e-a950-9dc2a9e53345,boss_battle,493,Jungle,2025-01-18 11:20:05,animal_fled,63
+51b8e469-e477-4a49-88b7-fdf2d8747d19,danger,406,Desert,2025-01-04 16:33:19,hunter_escaped,48
+2f01146f-83b7-4989-8dc6-58d5636e193c,encounter,59,Savanna,2025-03-30 12:11:04,hunter_escaped,57
+1edbef44-5a9a-4535-9253-242722893115,danger,562,Volcanic Zone,2025-02-11 03:58:31,animal_fled,83
+8b7a79b8-d195-4726-9048-75a5a4d3c640,danger,727,Desert,2025-02-05 21:01:39,animal_fled,77
+766f2e9f-1d5a-4a38-8b01-2e49363df7c3,encounter,319,Mountains,2025-04-13 18:04:27,hunter_defeated,11
+36bc1100-7a83-4a4b-b07a-1cd2c86e88c5,encounter,487,Swamp,2025-01-06 12:40:38,hunter_defeated,25
+6433d6d6-994e-46cc-87b8-352688bfad2b,encounter,402,Volcanic Zone,2025-04-02 02:13:36,hunter_escaped,75
+7c7fa749-e073-4477-a21f-701d8c968b76,danger,485,Savanna,2025-02-14 10:24:57,animal_fled,71
+f58fae6f-f639-4b9f-8ecd-9994b31f4e3d,boss_battle,466,Mountains,2025-04-04 18:32:33,hunter_defeated,81
+2bf149a7-ef43-4a50-9fd2-0a9758a1e630,encounter,670,Tundra,2025-01-15 04:34:14,hunter_escaped,25
+32d58b60-0458-4b41-80ab-79e26dea8eca,encounter,956,Canyon,2025-01-29 18:06:30,animal_fled,73
+62de810e-ab50-422b-9c80-ae8ba172938c,boss_battle,503,Mountains,2025-03-14 08:35:45,hunter_escaped,24
+79227128-d903-4737-836a-47b0d53d47a1,boss_battle,452,Volcanic Zone,2025-02-23 09:09:48,hunter_escaped,67
+09886223-d4b3-4d2e-b666-00d9e220e503,encounter,417,Savanna,2025-01-13 23:54:42,animal_fled,22
+a3882861-2c5a-4a49-a4cd-b6527825a2bc,danger,241,Desert,2025-02-12 20:08:29,hunter_escaped,53
+6e2422f0-62db-475e-9761-f703f823aba6,encounter,15,Swamp,2025-02-06 05:57:44,hunter_defeated,18
+723cbf3d-2cd9-4948-91e5-560149807978,encounter,276,City Ruins,2025-04-18 05:06:32,hunter_escaped,16
+58cdb18f-a030-4ab5-81aa-d48bbe4d63f5,danger,413,Tundra,2025-03-03 19:58:41,hunter_defeated,36
+af9c309a-8e0e-4f51-ab8b-79bec567581f,danger,267,City Ruins,2025-01-29 02:43:36,hunter_defeated,27
+149b64e7-36ef-49da-89b2-1362ff000c39,danger,142,Swamp,2025-01-10 23:10:57,hunter_defeated,34
+9e828448-88dd-4efb-be15-56f9c572345d,danger,27,Jungle,2025-02-09 11:15:53,hunter_defeated,58
+3f5cb69f-dbae-4686-a1d0-c4fb1fe4ec47,boss_battle,959,Tundra,2025-01-08 03:34:57,animal_fled,95
+c5d910b4-0e97-4ced-a548-d88db8bcb1c8,danger,135,Swamp,2025-03-30 01:07:42,hunter_escaped,86
+236eb4e1-b9e3-4121-a16d-cbc085c69c7e,danger,732,Canyon,2025-01-28 20:51:42,hunter_escaped,60
+4c8b6dbb-5279-465e-b745-95c261f5016b,encounter,752,Canyon,2025-04-08 17:46:39,hunter_defeated,44
+1e3b6a08-97f0-4fb9-9461-88dd84ecb8a1,boss_battle,379,Forest,2025-03-02 09:05:58,hunter_defeated,93
+1e065861-3de8-46d7-80d3-d728a170f28d,encounter,706,Volcanic Zone,2025-03-28 09:29:17,hunter_escaped,44
+a36d4409-809d-4c4c-820d-e9d1fae020cf,boss_battle,649,Canyon,2025-02-22 02:36:28,animal_fled,46
+702b49d0-57a7-4b91-b87c-f3e49acce927,danger,256,Mountains,2025-01-23 05:15:41,hunter_defeated,48
+b1da9fbc-2762-46a7-8d58-acd8cee75b55,danger,358,Canyon,2025-03-23 03:02:07,animal_fled,14
+c59ec15e-3859-488e-b29a-d9e73ab3ac40,encounter,757,Canyon,2025-01-09 00:01:04,animal_fled,90
+99bee132-a98f-49e4-8c85-21543b182fe9,boss_battle,515,Tundra,2025-03-14 07:05:32,hunter_defeated,53
+f047a563-e211-4610-8808-8685ca132445,boss_battle,519,Canyon,2025-04-11 17:33:00,hunter_escaped,69
+48dc0f1e-8c7b-461d-9d1b-99bd4867c4da,boss_battle,284,City Ruins,2025-03-11 14:12:05,animal_fled,64
+763131be-8bcf-43f1-a20d-1cad68df9930,danger,972,Savanna,2025-02-16 20:04:09,hunter_defeated,19
+03954590-4b86-401a-8684-12252cec04a2,danger,156,Tundra,2025-01-16 19:08:04,hunter_defeated,84
+36e70baf-9257-4f67-8205-dc3492463957,danger,14,Savanna,2025-02-19 04:29:33,animal_fled,11
+d8df065b-2278-4cab-b071-612079778947,boss_battle,998,City Ruins,2025-03-22 00:08:17,hunter_defeated,53
+1c16990f-55da-4f99-a567-d8d8ffc494d8,boss_battle,127,Tundra,2025-01-03 14:55:14,hunter_escaped,73
+9a1443d5-6d0c-45c9-9d47-cab078f6939b,encounter,454,Volcanic Zone,2025-02-25 05:10:36,hunter_escaped,69
+2926cfa7-6c41-4c4f-adf1-4d696527f44b,encounter,844,Mountains,2025-02-24 10:27:39,hunter_defeated,76
+91d01076-b021-4da3-921a-3c0096fbc986,boss_battle,949,Volcanic Zone,2025-02-10 21:44:22,hunter_escaped,79
+f6983c26-140c-440b-9145-2e72c6d2fc3e,boss_battle,664,City Ruins,2025-03-18 17:17:52,animal_fled,61
+84c514d7-6304-463f-9edf-6d741ef295ca,encounter,232,Jungle,2025-01-12 18:20:11,animal_fled,98
+77543253-93a4-44b6-a4a9-3e7462209a08,encounter,853,Savanna,2025-04-03 08:22:30,animal_fled,29
+edc62284-fd6e-4ae0-9aa5-97dd4d31c464,encounter,504,Desert,2025-04-15 06:46:30,hunter_defeated,52
+3b8a3ed5-843a-4cc9-9dc5-79a5693fbfb8,danger,588,Jungle,2025-01-17 09:07:40,animal_fled,92
+63c385f2-a518-4d6f-8e5c-377092dee272,encounter,663,Swamp,2025-02-03 16:48:16,animal_fled,57
+f86794a5-0a3a-4a79-b78c-260372656137,danger,856,Canyon,2025-01-02 14:49:52,hunter_escaped,82
+d303b335-8361-47b4-847c-afd60049d2bc,boss_battle,478,City Ruins,2025-03-17 08:13:32,hunter_defeated,63
+9ab7d031-e7cf-4c55-847f-52fad8393782,boss_battle,786,Jungle,2025-04-08 04:57:31,hunter_defeated,17
+c65884c5-b7ac-4022-84c0-6b0c492abbcc,boss_battle,1,Forest,2025-01-15 07:31:58,animal_fled,79
+6bff4b0e-88ee-4de5-9575-d5139637de94,boss_battle,198,Savanna,2025-03-13 16:44:23,animal_fled,46
+9a69c374-2226-4a9d-93a7-5968b010d918,encounter,167,Volcanic Zone,2025-02-08 13:34:27,hunter_escaped,85
+ba2107e6-30a1-453e-97e5-a98ca45c0218,danger,711,Canyon,2025-03-10 22:33:09,hunter_escaped,61
+9102a5e4-d8c6-43e2-b9e2-c8f8d4542fc2,encounter,336,Desert,2025-01-30 08:29:28,hunter_escaped,15
+3bf2d523-b976-4ca5-b6ab-65af2fac535d,encounter,598,Forest,2025-02-11 17:21:18,hunter_escaped,34
+59d3cc8b-1dbc-45d8-b8ed-6a69fdf58063,danger,125,Canyon,2025-02-16 14:57:15,hunter_escaped,47
+0d402b62-6fa6-4fb2-939f-5b9171605f23,danger,936,Canyon,2025-02-02 07:03:44,hunter_escaped,57
+2f43932e-fb47-441c-93d6-a94082035850,encounter,869,Jungle,2025-01-21 08:51:45,hunter_defeated,55
+fa3fbb05-4ab1-4fb1-ba07-587fc71b7cc6,encounter,986,Swamp,2025-01-03 19:33:07,hunter_defeated,25
+a6d38057-aaeb-4a0d-a97b-9eaf02b1d8cb,danger,741,Mountains,2025-02-08 01:57:38,hunter_escaped,33
+3e48cee0-44fb-45cb-8446-74e145fc923b,danger,836,Swamp,2025-02-09 07:45:28,hunter_defeated,71
+28360391-24da-4368-ae68-166293bdb900,encounter,378,Forest,2025-01-14 01:30:11,hunter_defeated,75
+27abe051-88f8-45fb-bd45-70654c0f4a6c,danger,243,Tundra,2025-01-28 05:41:23,hunter_escaped,78
+72e3b782-eb50-4ba3-b563-7233e01ee028,boss_battle,587,Mountains,2025-02-19 11:19:03,hunter_escaped,69
+ddfd53c7-502b-4a34-b53c-da0a202a78b0,encounter,730,City Ruins,2025-02-24 05:48:51,hunter_escaped,12
+77bda10d-4d99-4ed9-98bb-21e76ca3e5d3,danger,799,Swamp,2025-01-02 23:14:18,animal_fled,57
+cbb2de72-ea9b-43c7-abd2-caf32d94fc8e,encounter,166,Tundra,2025-01-08 19:20:46,hunter_escaped,52
+5a1cdfc5-c807-4820-b4a8-8566be62fca2,encounter,708,Swamp,2025-02-13 23:19:50,animal_fled,40
+de84a478-6975-4eb3-b08a-04dd03a5f66d,danger,718,Desert,2025-04-06 12:03:59,animal_fled,99
+3e4d169a-0bf4-424a-9f2d-1d62431d4b1a,boss_battle,331,Desert,2025-02-15 05:10:46,animal_fled,47
+70930a91-239c-472a-8415-955a68be935a,encounter,624,Swamp,2025-03-24 15:56:03,hunter_defeated,36
+43e42a18-18e7-4b17-9b2e-9969ca24e1bc,danger,861,Volcanic Zone,2025-02-21 07:08:42,animal_fled,22
+4c0f0850-1160-4bc6-9711-3d8649690c3c,encounter,569,Desert,2025-03-17 12:26:02,hunter_defeated,100
+b7711030-2bbe-496b-9c8d-f96e8618fbd6,danger,255,Desert,2025-01-22 05:20:08,hunter_defeated,83
+e34f27d4-d6cf-48e2-a995-63b2f6d4f5f8,danger,967,Volcanic Zone,2025-03-01 00:44:15,hunter_escaped,19
+44ac62aa-38d0-43a7-bcf2-5450d254b79c,danger,41,Tundra,2025-01-30 22:08:17,hunter_defeated,12
+a07bee0d-31f2-4d9d-adae-c14f399bbd8a,boss_battle,518,Forest,2025-02-21 12:14:27,animal_fled,17
+d6a5ebb0-003d-46c0-9a6a-f88e1580e46b,boss_battle,208,Desert,2025-04-15 22:04:18,hunter_escaped,100
+0efe8084-f6fc-4669-82dd-7c470cf69b8a,boss_battle,488,City Ruins,2025-01-29 09:18:42,hunter_escaped,90
+e30198ca-b73e-43f2-92fb-444743db6f5d,boss_battle,535,Forest,2025-01-03 13:52:41,hunter_defeated,89
+1a346ce7-b5c1-4038-9ab1-a18ec8440836,encounter,101,Swamp,2025-03-25 19:36:27,hunter_defeated,27
+ebdc2dc6-b444-4128-94c1-5ae363bcb6a2,boss_battle,892,Canyon,2025-03-07 16:04:00,animal_fled,70
+a7f1479e-d3e9-443f-9e5c-ca71e008740f,boss_battle,472,Tundra,2025-03-02 02:15:24,animal_fled,81
+fca588d7-a1d4-4c29-8d92-8291a45e6895,boss_battle,421,Desert,2025-04-01 10:21:16,hunter_defeated,71
+0f2ad721-ed8b-4c7a-8b56-c61b123be63f,boss_battle,921,Savanna,2025-04-20 06:20:36,hunter_defeated,10
+a486b00a-8d6d-45a1-8e4a-586c9318ec4d,encounter,622,Jungle,2025-03-03 05:20:55,animal_fled,11
+8440b31c-5e8b-49d0-a5c0-cd886c18fbd5,encounter,471,Desert,2025-02-08 05:41:09,hunter_escaped,48
+e203fc4c-f0c7-4ddc-9ed3-1ad5b9ecfa04,encounter,641,Desert,2025-03-01 18:34:29,hunter_defeated,50
+7a8c48cb-758b-4ae2-9541-855da550c781,boss_battle,666,Swamp,2025-03-19 23:32:41,hunter_defeated,38
+14ad23c8-1641-4bb0-ae6f-fe0d117c23b4,encounter,994,City Ruins,2025-01-23 03:04:26,animal_fled,23
+0c672086-488a-4971-8823-c5d621053533,boss_battle,108,Jungle,2025-04-19 04:11:35,hunter_escaped,78
+c3c1a786-2c8b-4a91-95d2-7b5811f631d2,danger,708,Savanna,2025-03-03 15:58:42,hunter_defeated,74
+a5c39f65-c6b6-457c-80c8-781aa259b3e9,encounter,332,Savanna,2025-02-23 17:34:27,hunter_escaped,91
+5d7facc5-9807-432e-ada7-7f299a15e8e1,danger,911,Volcanic Zone,2025-01-19 04:34:56,hunter_defeated,63
+e8907542-b16e-4db5-9f09-0a79bc9e5f04,boss_battle,552,Swamp,2025-01-09 15:29:06,animal_fled,92
+b2149bc7-ad0f-4f59-b289-155703299871,boss_battle,326,Swamp,2025-01-28 12:10:09,hunter_defeated,23
+c821da84-f3a6-4bb0-bbc7-16ca057ca037,danger,612,Jungle,2025-03-03 11:33:11,hunter_defeated,12
+bd8f3f8b-1f17-4395-93c4-e830c22585f9,boss_battle,461,Jungle,2025-02-05 00:27:23,hunter_defeated,44
+60eda600-f4df-4f62-85d9-bea467aa2c9f,danger,22,Canyon,2025-02-03 03:04:40,hunter_escaped,41
+1475eb73-1426-45d1-a5f7-ea4ac265b230,danger,235,Desert,2025-03-19 22:46:03,hunter_defeated,18
+9ea847c3-0c0a-4922-8294-f0317c8d3e48,danger,46,Swamp,2025-01-03 13:39:46,animal_fled,20
+753d6cf5-6e38-400b-a829-cdb5e33ce8f2,danger,685,Volcanic Zone,2025-02-12 07:55:25,hunter_escaped,70
+9d41cd86-e58c-4c35-ad46-673c00e7ad8e,encounter,525,Desert,2025-01-21 20:38:20,animal_fled,33
+9b9ffe4d-b91b-42e3-994b-810c931b94e4,boss_battle,937,Desert,2025-03-07 17:10:01,hunter_escaped,14
+53168761-906b-4d32-a2cf-fa4c955a7e60,danger,765,Forest,2025-01-02 06:19:16,hunter_defeated,52
+07e04a14-e26c-40c0-81c3-ee7727412e8f,danger,980,Mountains,2025-04-17 07:58:26,hunter_escaped,76
+57dd7451-8717-4e79-a11e-b15ed66e42b1,encounter,802,Mountains,2025-04-05 11:08:51,hunter_escaped,30
+3d1eab4b-33d2-484c-b72d-dd6a9b1c4380,boss_battle,827,Forest,2025-03-07 10:23:13,hunter_defeated,72
+ba62e987-c767-4e3b-915b-9774e1aa1d1f,danger,152,Mountains,2025-02-23 11:22:34,hunter_escaped,88
+0709c0ae-db83-4910-9879-22a7167d2021,encounter,577,City Ruins,2025-02-01 08:16:21,animal_fled,44
+ab948c28-82c5-4a0b-829d-4c3d99a67cf4,danger,790,City Ruins,2025-03-18 10:05:01,hunter_defeated,69
+ea86fb47-0cec-45c3-8e6e-b67f74b672c1,boss_battle,385,Desert,2025-01-17 01:32:05,animal_fled,11
+0b84b7cb-a5cd-4dda-84e6-bcbf4a7fba8b,encounter,377,Volcanic Zone,2025-01-03 10:24:16,hunter_escaped,12
+da043767-db96-4362-926f-89ec7697e0f8,boss_battle,831,Canyon,2025-04-17 01:04:33,hunter_escaped,63
+cc3a3881-8245-468c-aecd-2d2e73333929,danger,325,City Ruins,2025-03-01 00:22:55,hunter_escaped,60
+76b23e80-0fd6-489c-b5c8-82ff87899294,boss_battle,903,City Ruins,2025-01-18 12:33:46,animal_fled,18
+f97f03b0-1581-409a-87b7-82f178bac323,boss_battle,30,City Ruins,2025-02-15 04:09:57,animal_fled,12
+c5e28d15-4a17-4475-875a-b86908cd871f,boss_battle,434,Forest,2025-01-07 20:00:31,hunter_defeated,61
+5d29d69d-3304-427a-95ef-0415a21533cf,danger,539,Volcanic Zone,2025-01-25 08:15:12,hunter_defeated,55
+2bf5667a-aeb3-49e3-b546-c64002a2846c,encounter,502,Forest,2025-01-12 22:34:13,animal_fled,90
+744b4fb3-20e7-436d-8c75-42c61d9a7f07,encounter,445,Swamp,2025-02-21 19:22:02,hunter_defeated,73
+76e04040-9883-470f-92e8-b85117657a8b,encounter,423,Jungle,2025-04-15 03:09:16,animal_fled,72
+029ff340-03b0-4a4b-8fc2-ef790a589f8c,danger,158,Jungle,2025-04-05 11:35:21,hunter_escaped,84
+2bd802bb-0f63-4b02-823f-606c9c8b8eb0,encounter,239,Savanna,2025-01-15 18:16:15,hunter_defeated,66
+494a239a-429b-4dac-8d25-6959493785e0,encounter,421,Canyon,2025-02-05 20:21:39,hunter_escaped,51
+b4dcd51a-098b-421e-b893-ccfa094e623a,encounter,480,Swamp,2025-03-11 13:26:51,animal_fled,20
+d63bdf29-4c73-4a97-979a-b96ce95208ad,danger,250,Canyon,2025-02-23 13:06:24,animal_fled,35
+65fcfa4f-d8c5-44fe-8e12-ad53989afa02,danger,789,Forest,2025-02-28 20:13:33,hunter_defeated,28
+488fda4b-eb3e-471d-b460-7ffe71ce051a,danger,606,Tundra,2025-03-19 05:36:37,hunter_escaped,97
+751ffaa6-cd37-41ad-ba3e-383c964f406b,encounter,316,Mountains,2025-03-18 19:52:19,animal_fled,25
+8e495ef6-de10-4b39-bcb7-b41e8b01756f,danger,724,Jungle,2025-03-02 21:54:28,hunter_escaped,53
+112b2d83-ae9d-42b6-9eee-f2adb93f60f1,boss_battle,327,Swamp,2025-01-19 19:32:12,hunter_defeated,48
+c5f9b4e4-50cb-46a1-8c75-d5eda7be8ee8,danger,877,Tundra,2025-03-31 03:48:22,hunter_defeated,89
+c9ccd02d-e073-4665-8662-e07d225169d3,danger,782,City Ruins,2025-04-17 03:05:18,animal_fled,82
+357a64ba-958f-4256-a29e-28b921529190,encounter,883,City Ruins,2025-03-02 16:45:42,animal_fled,82
+36aaba40-1c08-4dc8-99fb-2db07ff655e3,encounter,968,City Ruins,2025-02-05 04:18:33,animal_fled,97
+143a0871-b348-4a11-bb41-5d65052a99c3,boss_battle,907,Desert,2025-02-01 04:38:30,hunter_escaped,28
+bf3b86e0-8c7c-453b-9d31-78aecf259b11,encounter,308,Mountains,2025-03-07 09:59:51,hunter_defeated,65
+d883b021-8293-4a1d-95ef-30e30663450a,encounter,632,Volcanic Zone,2025-04-06 05:24:41,hunter_escaped,85
+7f429f01-e510-4f5e-af89-bca079843031,encounter,285,Desert,2025-02-15 00:25:25,hunter_defeated,63
+5c085b78-320b-4023-80a5-b11346b703ff,encounter,720,Jungle,2025-01-02 18:03:29,hunter_defeated,32
+8cd5f813-c361-4397-a269-5bee73b5aae9,danger,540,Savanna,2025-04-16 18:29:13,hunter_defeated,35
+413b3874-b397-4131-86e6-0612b1cc9f6b,danger,89,Mountains,2025-04-05 16:13:33,hunter_defeated,80
+f8bc1291-26b7-4644-b777-0c7222738ed2,boss_battle,55,Tundra,2025-03-08 04:38:18,animal_fled,17
+efae1f85-5362-4085-8299-4d01e9662b11,boss_battle,95,Volcanic Zone,2025-02-08 15:37:56,hunter_defeated,16
+6624d873-2ebc-43be-a170-c9ebe1d80841,boss_battle,971,Mountains,2025-01-07 23:11:51,hunter_defeated,77
+b135a102-8abb-47cb-bbb4-0c647f304779,danger,709,Mountains,2025-03-12 04:52:18,hunter_defeated,46
+17e0b922-17a5-48df-a7a3-01c8d5496bbe,danger,852,Savanna,2025-02-15 10:44:48,hunter_escaped,20
+d8fbb389-822e-4076-8a2a-efa422cf39c1,encounter,28,Forest,2025-03-02 18:48:03,hunter_escaped,33
+5ad298a8-a2b8-4e05-858c-1492fa24d294,encounter,106,Forest,2025-04-11 07:18:35,hunter_defeated,97
+c91e97a2-3702-40ef-b166-ca94e48a70a4,boss_battle,249,Mountains,2025-01-16 09:25:24,hunter_escaped,65
+919c253a-e5a2-4529-afdb-e4667aa69c92,danger,238,Forest,2025-02-11 10:20:18,hunter_defeated,51
+f4ba239e-52c9-4ee4-b717-4ace07b040e1,encounter,307,Tundra,2025-03-03 03:46:43,animal_fled,100
+939f1b0b-c425-4e3e-9277-3b72309a5e82,boss_battle,251,City Ruins,2025-04-15 20:55:50,hunter_escaped,80
+5bb454ad-79ed-4881-ab60-e5658ecd2f50,boss_battle,58,Volcanic Zone,2025-03-06 00:17:58,hunter_escaped,79
+4b6e8bcc-0a32-4429-a0ca-3bcafdbe5b70,boss_battle,565,Desert,2025-01-03 22:41:22,hunter_defeated,64
+1edae265-7fe6-478b-a4bd-e57d9ea02b63,encounter,948,City Ruins,2025-02-03 18:35:42,animal_fled,26
+eec0a54d-0f91-43ab-9dab-d79c32a8176c,danger,477,Tundra,2025-03-19 01:51:38,hunter_defeated,75
+d05c810a-412d-41ea-938b-b48d31a80705,boss_battle,52,Savanna,2025-04-04 20:13:14,animal_fled,45
+bae1ae12-81d0-4f3e-9ce0-8970944102b4,danger,865,City Ruins,2025-03-20 14:24:34,hunter_escaped,62
+7595a0c8-9388-4312-a83d-fc4a28b8eaf6,encounter,874,Swamp,2025-03-28 14:20:58,hunter_defeated,89
+c588e23e-35e3-4b9b-81bd-95081f9ff732,boss_battle,356,City Ruins,2025-03-18 17:05:55,hunter_defeated,40
+49cf9058-87d8-4f6e-98f2-045334ad896b,boss_battle,445,Volcanic Zone,2025-03-10 17:43:53,hunter_escaped,31
+6c33e4cd-39f2-4eaa-9746-dcae797af75a,boss_battle,780,Jungle,2025-03-30 20:26:53,hunter_defeated,46
+b65bfe21-b9d7-4344-87b5-8c75918e655b,boss_battle,424,Swamp,2025-01-01 18:38:31,animal_fled,13
+9de4c1db-3b70-4e0a-a4c9-851608f74815,encounter,171,Volcanic Zone,2025-01-07 10:29:58,hunter_defeated,30
+82fd720f-8f29-432f-9359-64fdb42a5e67,danger,748,Tundra,2025-02-05 08:16:43,hunter_escaped,78
+81bede74-07fc-415a-962f-2854a18bf219,boss_battle,826,Jungle,2025-02-21 16:05:36,hunter_defeated,34
+50765649-1781-4e17-a1e9-bd51e41f9ff0,danger,45,Jungle,2025-03-25 02:49:21,hunter_escaped,74
+25c14f7a-fed1-4e5a-b58b-dfe4860c2702,boss_battle,500,Tundra,2025-03-31 13:33:17,hunter_defeated,46
+52c7e2ee-402b-48b8-90c7-fc42e8fe1d99,danger,792,City Ruins,2025-02-09 00:19:27,hunter_defeated,46
+e683ff0c-413e-493a-b233-0bac14837794,encounter,407,Jungle,2025-01-04 17:53:34,hunter_escaped,96
+a701b0c3-268f-451c-ad0e-4dc8ffb59a5d,danger,323,Canyon,2025-01-17 17:58:05,animal_fled,56
+82de4670-ad21-4eda-b7ab-3822e32d4d3d,encounter,239,Jungle,2025-02-18 05:27:34,hunter_defeated,93
+1c511a01-d41b-47e2-92cd-b1f7bf0e891c,boss_battle,393,Tundra,2025-03-13 09:55:10,hunter_defeated,84
+04b044d9-d240-403a-a762-4c3355fea66d,danger,744,Canyon,2025-03-14 19:49:19,hunter_escaped,76
+81b1c2ca-0dce-4a42-943a-7c8bb1684b33,danger,572,Savanna,2025-02-11 05:46:46,hunter_defeated,36
+4c8efa44-f299-4313-a737-a20236e80635,boss_battle,626,Savanna,2025-02-25 02:20:23,hunter_defeated,79
+890b7ae2-3481-4cf2-ad55-84abc2c7510b,encounter,400,Swamp,2025-01-29 23:16:36,hunter_defeated,45
+274ed96f-4a89-46eb-a3d9-922f18d57707,danger,155,Forest,2025-03-04 09:50:04,hunter_defeated,63
+af224b8f-5984-469c-9b47-557d118299c2,encounter,279,Mountains,2025-03-30 07:31:20,hunter_escaped,30
+a987bea2-2221-41fc-b44a-363691d97b86,boss_battle,345,Tundra,2025-04-10 18:50:39,hunter_escaped,13
+29694030-387a-4562-8606-3809695fd717,danger,656,Mountains,2025-04-08 18:24:47,animal_fled,68
+4bb7ead5-8302-45dc-880e-ef9ba66a71a4,danger,568,Savanna,2025-01-11 02:48:21,animal_fled,45
+cd46d36d-5219-47b6-be53-db5b73bdc383,boss_battle,465,Mountains,2025-02-21 08:25:19,hunter_escaped,99
+2958a8f3-76eb-4538-877c-5b206b45cf08,encounter,259,Forest,2025-04-06 02:26:19,hunter_defeated,34
+047395cd-14d4-4b64-b05e-2a752880c9f5,danger,525,City Ruins,2025-04-12 08:16:40,animal_fled,68
+e2bae78e-f00f-44af-95ba-5451ddfd1f4e,danger,601,Swamp,2025-02-07 07:56:35,hunter_escaped,82
+75e451cc-b290-4b61-9c62-8e1bd23cecff,boss_battle,97,Tundra,2025-03-13 10:02:33,animal_fled,61
+5936afbb-82e2-468f-ac95-509fc8835030,danger,720,Tundra,2025-03-13 20:35:28,hunter_defeated,80
+61bf5e24-264a-41c1-ae2f-2566b807a049,danger,636,Swamp,2025-03-25 11:35:37,animal_fled,100
+37f7d076-fa61-4c15-b3b8-534048f21be2,boss_battle,359,Jungle,2025-04-02 15:28:25,hunter_defeated,60
+02f59d71-0a87-4fbc-ace1-199dfadecfc9,boss_battle,226,Tundra,2025-03-20 14:48:39,hunter_escaped,44
+2bd9406a-212f-4490-8528-dbb634aa4adb,danger,65,Tundra,2025-03-01 17:34:12,hunter_defeated,60
+0f04fa88-0670-4c2f-930c-ecc45c6abc2c,boss_battle,55,Jungle,2025-03-13 23:02:30,hunter_defeated,49
+00e2b66d-2007-4501-918f-e265b9446beb,encounter,476,Mountains,2025-03-27 17:35:52,hunter_defeated,77
+afa84ddd-c73a-4640-a3c6-a4615bcc3625,encounter,519,Savanna,2025-01-27 06:32:57,hunter_escaped,76
+cd2759d2-8f1e-4329-8d15-c38bfbbeb393,encounter,593,Volcanic Zone,2025-01-03 14:22:44,hunter_escaped,76
+7dceb5ae-4ac2-4f0e-b703-40347e92686c,danger,352,Volcanic Zone,2025-02-19 14:47:41,animal_fled,92
+9b0573c3-babc-436a-93f4-b0dc9a24f735,danger,451,Volcanic Zone,2025-01-25 02:17:38,animal_fled,64
+9d1a1073-d395-43c9-94e1-6ecd9e0bc09f,danger,388,Mountains,2025-03-25 23:19:59,animal_fled,79
+d694bab4-ea1b-4c65-9f9a-ca36ad039c82,encounter,284,Tundra,2025-04-06 15:23:41,animal_fled,36
+88d23198-caf4-4911-8ab7-8ffe8f82769c,encounter,991,Savanna,2025-02-20 15:41:34,hunter_escaped,45
+ef155a42-7bc1-4be7-b21e-a3b5e6b9167e,encounter,983,Canyon,2025-02-20 22:02:21,animal_fled,91
+e9e2b90e-3079-43ff-a415-e42b585f2933,boss_battle,171,Jungle,2025-03-26 03:56:29,hunter_defeated,57
+9945978b-81c0-4516-8725-534cc98a1a21,boss_battle,205,Desert,2025-03-17 03:59:24,animal_fled,31
+90ccc738-4dc0-4734-b678-65628c24718c,boss_battle,938,Swamp,2025-03-22 17:20:13,hunter_defeated,47
+971aa71c-7039-4a15-98af-7d1107e16538,danger,979,Desert,2025-03-10 01:56:23,animal_fled,52
+e24184ae-883d-4894-8d2c-832c63f1bc99,boss_battle,146,Mountains,2025-03-15 23:22:40,hunter_defeated,93
+ed82490e-7735-4b2a-bce6-5c998deff1ed,boss_battle,256,Forest,2025-03-16 22:54:05,hunter_defeated,13
+308ef380-31aa-4b2b-a904-7797492ec4af,danger,206,Desert,2025-01-30 05:52:05,hunter_escaped,59
+dd5e315f-e3ce-4a55-a45b-ba4a1b9e77e1,boss_battle,302,Jungle,2025-03-14 18:43:35,hunter_defeated,93
+12804230-9f15-436f-82cc-b7f3e158be98,boss_battle,674,Desert,2025-03-25 20:01:18,hunter_escaped,56
+926a9b1f-563f-4929-aa5c-8ce3365b58b1,boss_battle,516,City Ruins,2025-01-28 13:46:32,hunter_defeated,98
+5486e1cc-9de0-4d4f-8e6f-6c4225e69e00,boss_battle,27,Canyon,2025-01-19 14:19:45,hunter_escaped,56
+b6a8d878-62a1-4c53-9deb-bafa572e1c7c,encounter,989,Tundra,2025-03-18 19:13:06,animal_fled,36
+2ec7d451-13e0-42b0-8688-fbe07d2c31e9,danger,382,Desert,2025-02-04 11:33:13,animal_fled,90
+8b42f4bf-4d62-4515-b6fd-e640d1ca9409,encounter,862,Jungle,2025-01-20 08:12:45,hunter_defeated,80
+84747f16-6fc5-47d2-bfd6-34a37e692c15,boss_battle,356,Savanna,2025-02-11 10:49:46,animal_fled,81
+3c160c7b-09da-4858-becd-486050780df3,danger,216,Mountains,2025-02-22 20:38:29,hunter_defeated,81
+8cfe4f1f-ec3e-4f57-b696-6d37948ca4ab,encounter,380,Jungle,2025-02-26 13:17:26,hunter_escaped,14
+366eadcf-6e63-40e7-883a-7ca0f074b56f,encounter,712,Swamp,2025-02-24 20:07:22,hunter_defeated,40
+ceef2036-c6b4-43e4-9414-4e526e8f8e92,encounter,97,Tundra,2025-01-20 09:49:50,hunter_escaped,29
+39e015ce-800a-4673-a3b3-f2f3aaa5b2fa,boss_battle,69,Volcanic Zone,2025-04-20 11:44:16,hunter_defeated,74
+08a624c7-0cec-4f5b-9734-02b0a650b49e,encounter,360,City Ruins,2025-01-29 15:21:17,animal_fled,25
+5ce946ce-30a6-48fb-9165-4d0a23bf7fb9,danger,32,Forest,2025-01-03 06:57:16,hunter_defeated,18
+c0bf5a44-1ef8-4a3c-b56b-730183c6d685,danger,343,Jungle,2025-02-07 06:48:04,hunter_escaped,42
+94e8c754-c841-4100-ac52-506083688a0f,danger,930,Volcanic Zone,2025-01-24 19:20:51,animal_fled,25
+dd8ba884-6738-4b3d-bf31-e7317550f115,danger,755,Forest,2025-01-03 00:32:00,hunter_escaped,61
+cc91011c-1804-4eda-b6d8-9d8fe3a797d5,encounter,923,Swamp,2025-04-11 05:31:58,hunter_defeated,82
+f2f58946-cdb2-444e-8e2f-93a4f68e779f,boss_battle,122,Canyon,2025-02-10 18:54:19,animal_fled,23
+4233e3d6-f08d-43a6-a2db-077e1d343e6a,danger,107,Jungle,2025-01-30 01:24:40,hunter_escaped,78
+cf7de62c-032d-47a4-9026-5c8e400bda81,encounter,844,Savanna,2025-01-12 23:47:51,hunter_defeated,24
+3d15c51d-7bb7-4d48-af7d-aa251a2972e3,danger,727,Canyon,2025-02-28 08:20:38,animal_fled,100
+16d65098-8450-4fe7-ba97-905cd5951540,encounter,352,Savanna,2025-01-01 19:19:11,animal_fled,39
+78fb8f2e-39bc-44f2-b5aa-1c9650da456e,boss_battle,896,Canyon,2025-02-01 18:12:18,animal_fled,22
+a4bc4a9a-1334-4e8b-a73a-805191c8a92a,boss_battle,851,Desert,2025-03-25 14:33:28,hunter_defeated,94
+21e9b3cb-f0cf-403e-ba1c-42af709418cc,danger,334,Savanna,2025-03-21 19:37:41,hunter_defeated,43
+ea58401d-2c15-48f3-9c6c-c499f7ee2c26,boss_battle,684,City Ruins,2025-04-07 20:27:19,animal_fled,56
+2bbe74a7-0990-442f-a14e-666234b838ff,boss_battle,386,Tundra,2025-01-06 09:36:11,hunter_defeated,70
+8632e39e-9570-452b-9edf-0ebfe7c3c7ca,boss_battle,336,Forest,2025-02-13 07:36:02,hunter_defeated,50
+e38a53f7-2358-4a29-9ce6-faa984f9d188,boss_battle,30,Mountains,2025-03-31 01:16:52,animal_fled,33
+8b4577aa-f432-457c-867b-5531ffa427b7,boss_battle,567,Desert,2025-03-20 01:19:51,animal_fled,42
+a5a4d041-10ef-45ae-95be-7215e6800be3,encounter,410,Mountains,2025-01-08 02:54:53,hunter_defeated,19
+8593f263-3e04-4299-9dc6-93f5fc937fa1,encounter,439,Tundra,2025-01-03 17:54:27,hunter_defeated,47
+044bbdd6-9cf2-482a-a357-81382f6c4ea0,boss_battle,218,Mountains,2025-02-25 11:31:37,animal_fled,49
+837a831a-1ca4-4400-86c2-dda97c498d4b,encounter,124,Savanna,2025-03-06 20:34:54,hunter_escaped,87
+5e2009b3-bba4-4249-b223-905c641459ae,boss_battle,852,Canyon,2025-04-09 17:03:58,hunter_defeated,97
+9bfe808e-0ed9-46eb-901c-193ffc986e7b,boss_battle,399,Tundra,2025-01-17 12:27:07,hunter_escaped,67
+f1fe8b94-01d8-4765-85b5-7960be8869dc,encounter,709,City Ruins,2025-02-27 01:58:54,hunter_escaped,26
+90b11585-ca88-44a9-90a4-132525f62f88,boss_battle,483,Savanna,2025-01-01 01:21:34,hunter_escaped,65
+8362ca5b-3fa4-44f5-a45a-65d8d890338b,boss_battle,993,Desert,2025-01-22 11:10:23,hunter_escaped,14
+a5d87d8b-0279-40d0-8856-ace05f21c5d9,encounter,471,Savanna,2025-03-07 01:09:44,hunter_defeated,67
+005f98a9-f2bb-4b0d-8f69-826d578977ef,boss_battle,633,Desert,2025-01-24 07:15:15,hunter_escaped,33
+e70e8952-4353-4df1-b4f9-efc16ce85083,boss_battle,545,Swamp,2025-03-14 19:28:43,hunter_escaped,57
+6f616507-ad1f-4c06-9386-c5114c5e02e2,encounter,606,Mountains,2025-04-12 14:01:35,animal_fled,44
+950e538b-2e19-4bab-8809-b77c16fa1d51,encounter,935,Desert,2025-03-05 18:59:19,hunter_escaped,28
+f003f0f6-fc9d-4395-a46f-49f6ae6f9d3b,boss_battle,197,Jungle,2025-01-15 22:21:08,hunter_defeated,96
+ca1754b0-a123-4bf4-891b-87054262f510,danger,980,Swamp,2025-01-29 23:04:23,animal_fled,46
+d157bdad-d47b-4bb8-8dd6-8e5f86546027,danger,11,Volcanic Zone,2025-03-19 07:47:30,animal_fled,57
+0aa3661f-8322-4615-a6a4-24c978240e1c,encounter,135,Forest,2025-04-17 00:11:46,hunter_escaped,13
+7004bede-1334-4e60-8a82-c69004a763a1,danger,934,City Ruins,2025-01-25 21:53:04,hunter_escaped,73
+205a66fa-1eff-4411-88aa-85c7d2f39d08,encounter,410,Jungle,2025-02-13 22:21:28,hunter_escaped,33
+e06b7ecb-8cfc-48c9-b174-bfdc9fb4b23a,danger,96,City Ruins,2025-02-24 01:01:05,animal_fled,79
+693a3bc9-7f17-4a85-b53f-e1e899d90041,boss_battle,263,Swamp,2025-03-18 05:40:28,animal_fled,75
+869389ed-7a66-420f-bf71-92f6a0008e5e,boss_battle,151,Savanna,2025-02-02 02:12:16,hunter_escaped,96
+d8c5b3f4-b6b5-4422-a4ee-20d81a9024a0,danger,178,City Ruins,2025-01-26 16:35:09,animal_fled,70
+2c322ceb-2eb2-4a9a-9095-3bf620d7ccd8,boss_battle,695,Mountains,2025-01-07 17:21:40,hunter_defeated,74
+516b723b-e792-4d4d-9558-c5e5d4eb2fd9,encounter,949,Swamp,2025-01-02 22:05:34,animal_fled,18
+a1681a34-cf94-4b3f-9ad5-a28662486999,encounter,325,Mountains,2025-01-05 10:03:59,animal_fled,55
+1637a6b7-917c-4f97-9519-60eaf0b3f007,encounter,758,Forest,2025-04-02 14:45:58,hunter_defeated,79
+a7c1d1bd-e2ed-47c0-9685-20fcabe58c04,encounter,879,Swamp,2025-02-14 09:31:15,hunter_escaped,72
+0b72a840-21a6-4d5d-b9c5-c20faa8371bb,boss_battle,203,Mountains,2025-02-05 11:49:25,animal_fled,34
+9c7e5339-6f1d-428f-8780-376477aad3e0,boss_battle,298,Tundra,2025-03-16 05:14:01,animal_fled,14
+3314965a-99de-4ac5-b6cc-bd70057f4158,danger,413,Tundra,2025-02-27 12:20:43,hunter_escaped,55
+00b451e3-d60a-46ea-80d5-598867920f9f,boss_battle,969,Forest,2025-01-15 05:40:49,hunter_escaped,35
+2cab027a-f860-4d69-b984-ce07621fba16,boss_battle,843,Canyon,2025-01-02 12:11:30,hunter_defeated,64
+dba14e76-7fe7-4237-9d1f-32e788ca4847,boss_battle,173,Volcanic Zone,2025-03-26 12:24:47,animal_fled,26
+2cf00c60-6b40-4582-b4c0-d88fbf1c1d82,encounter,55,Desert,2025-01-20 12:11:05,hunter_defeated,57
+5b31d3fa-795d-48f6-83db-5ada3f876a84,encounter,344,Savanna,2025-02-25 15:59:48,animal_fled,34
+6976dddf-7e82-418f-bbee-4354de5eb2a8,danger,148,Desert,2025-02-26 19:13:42,animal_fled,32
+b19df2fa-34ca-4dbb-88ff-0e7045271a38,danger,270,Swamp,2025-03-26 12:51:31,hunter_defeated,11
+5dab9954-15a3-497d-be81-8843939b12a5,danger,650,Tundra,2025-04-18 23:44:17,animal_fled,67
+07a082c7-61c6-4675-8b88-5eed9a2da1ff,boss_battle,419,City Ruins,2025-01-04 06:52:22,animal_fled,34
+694759dc-4bc9-4f0a-bdbd-5e944e195e1b,encounter,972,Forest,2025-02-23 11:16:00,hunter_escaped,69
+afe85ca0-2230-4466-bbed-3499652e53db,encounter,761,Savanna,2025-01-05 04:28:18,hunter_escaped,48
+7f6fc17b-a848-4519-8d31-c72cb658cf75,boss_battle,648,Jungle,2025-03-02 07:08:41,hunter_escaped,85
+62148ef1-1d77-4a56-9d53-c2ecc60a5742,encounter,679,Jungle,2025-01-24 05:37:47,hunter_escaped,89
+f2f27948-d8c2-47e3-8369-66d726363f9f,danger,665,Mountains,2025-01-27 10:10:15,animal_fled,54
+d77b22f5-2801-48fd-949a-83da71b6b5fd,encounter,320,City Ruins,2025-01-06 14:38:42,hunter_escaped,57
+b603b7df-d73f-41a5-be76-0a6f5b62b5d3,danger,7,Jungle,2025-03-01 08:34:16,hunter_escaped,20
+62c86e10-2be3-4710-9134-2bf80516cde3,danger,334,Tundra,2025-01-10 18:40:11,hunter_defeated,60
+9cbf25ec-2693-434b-a68c-b742c45a788f,danger,139,Volcanic Zone,2025-01-26 20:06:44,animal_fled,22
+16459194-4576-4f69-9ac0-719a91bcefb8,encounter,615,Volcanic Zone,2025-03-24 21:22:24,hunter_escaped,68
+2710f0b1-4c4a-4ada-8ca6-af887a306a29,boss_battle,940,Desert,2025-03-19 22:49:56,hunter_escaped,35
+cf194efc-61a2-4fdb-8412-79d435fdfd41,danger,671,Swamp,2025-04-11 19:11:18,hunter_escaped,71
+d6a21eb5-10ca-4989-84d1-1a5a86260243,boss_battle,684,Volcanic Zone,2025-02-18 11:49:15,animal_fled,47
+9aa578dd-1023-4940-9d4f-f44de5b6cf2d,boss_battle,304,Jungle,2025-03-29 10:30:13,animal_fled,98
+2244a2fc-c315-4732-bb61-e2d1d3eff412,encounter,454,Volcanic Zone,2025-03-05 21:57:06,animal_fled,42
+2c7943fd-bb19-4073-8c4c-eeb011bc97c2,boss_battle,632,City Ruins,2025-02-04 20:57:23,hunter_defeated,80
+7b2399d6-7a0a-40f7-bbc2-63b89f212886,boss_battle,718,Desert,2025-01-28 09:19:08,animal_fled,41
+857fbd28-50cd-4079-a0fd-8076fa3f64f0,danger,607,Tundra,2025-01-30 17:30:39,hunter_escaped,79
+31887aab-3d1a-4980-b719-177fca2b9d1b,danger,724,Savanna,2025-02-19 20:39:19,hunter_escaped,84
+63d2d30c-f43f-4a8c-bc49-7d5a39941818,danger,503,Desert,2025-02-01 18:29:25,hunter_escaped,63
+3c50686a-bc25-4824-858a-741d3a8224a8,boss_battle,970,Jungle,2025-01-26 19:42:59,hunter_escaped,79
+1c24e472-3f26-469b-889e-0e6ff6fc6470,danger,337,Savanna,2025-01-11 18:56:01,animal_fled,31
+9890134d-31ee-4fb3-b251-e4c917be961e,encounter,688,Canyon,2025-01-21 16:44:27,animal_fled,55
+3d497f3d-9bf9-41f3-aa36-3f321d5109a2,boss_battle,191,Tundra,2025-02-02 21:51:57,hunter_defeated,30
+07d0c0a9-69e4-4aa5-954a-246d49e32ab3,encounter,197,Canyon,2025-01-06 08:23:00,animal_fled,44
+c6ab3f2c-65ac-4546-8234-62b0cf4c1735,boss_battle,371,Jungle,2025-03-13 07:50:05,hunter_defeated,45
+f1da88e1-56a7-47ce-99ef-cc8adf711ddc,danger,941,Swamp,2025-02-20 12:00:40,hunter_defeated,34
+d24d0e2c-58ab-4be6-9ab4-84db5ac907ce,boss_battle,820,Savanna,2025-03-26 15:41:21,animal_fled,47
+c5ccc232-47f6-4805-907a-bcb9b1992f55,boss_battle,82,Volcanic Zone,2025-03-03 19:37:18,hunter_escaped,52
+6c6bc1a7-ee2e-4f10-a4cc-d7a3df70641a,boss_battle,917,Tundra,2025-02-26 10:02:24,hunter_defeated,43
+8f015e74-8e20-4c2d-9931-dd7d0973452c,boss_battle,119,Forest,2025-02-25 05:50:12,hunter_escaped,86
+db5e4086-5ed7-4cdc-8b05-167be36e4efa,danger,473,Mountains,2025-01-26 09:01:52,animal_fled,26
+db569559-6642-44cb-9395-95074804867b,danger,931,Swamp,2025-03-16 19:17:25,hunter_escaped,100
+a7ba6f82-10e9-49ab-8b06-51b5ccaee78b,boss_battle,434,Tundra,2025-03-18 23:23:03,animal_fled,29
+46b0f883-6eea-4d7a-8dc0-da70434e492f,danger,556,Savanna,2025-02-01 09:13:26,hunter_escaped,99
+5c44e473-1f47-4a7a-87c2-64eb9c76c0fe,boss_battle,617,Desert,2025-01-21 13:13:03,hunter_defeated,99
+09d1ab31-719f-4ce4-8c5b-448a196e0dea,danger,722,Swamp,2025-02-28 02:50:24,hunter_escaped,76
+8561d9e8-a7c7-44b3-8967-f4b52d6c5885,danger,514,Volcanic Zone,2025-03-30 00:22:55,hunter_defeated,42
+650f0839-b2c1-4b2e-919c-fda3f5081c22,danger,242,Swamp,2025-02-26 12:18:24,hunter_defeated,55
+1ac196ac-db7a-4455-82b2-973c1a8c6aa7,boss_battle,193,Mountains,2025-03-10 10:15:25,animal_fled,52
+3bf796a2-f24e-42e7-b709-e44e2dff2993,encounter,438,Canyon,2025-03-23 11:11:45,animal_fled,50
+4a3abdce-c9bf-4d7c-af71-bda67ff7069b,boss_battle,565,Swamp,2025-02-04 17:28:48,animal_fled,77
+3d654220-e643-47bc-9eea-facc1792c6ff,boss_battle,95,Volcanic Zone,2025-01-26 18:26:25,hunter_escaped,17
+60bf05b0-b0ae-4e69-933c-4e54523bb2ff,danger,867,Volcanic Zone,2025-03-24 19:56:56,hunter_escaped,98
+1645da75-f525-475d-8183-c2494cffa760,encounter,598,Savanna,2025-03-13 15:19:29,animal_fled,56
+e411fc05-9341-408a-8666-222cd08fa2d1,danger,708,Canyon,2025-02-24 03:18:45,animal_fled,90
+895f18c2-2714-4b48-b12b-05f9cdd60a81,encounter,85,City Ruins,2025-04-01 06:06:28,hunter_defeated,11
+531907d2-06d3-4b25-ae00-6d70691d8007,encounter,624,City Ruins,2025-03-19 20:26:45,hunter_defeated,36
+aba23817-74ec-4ef1-aa4b-2d798e0a90ef,danger,388,Canyon,2025-03-21 03:05:38,hunter_escaped,36
+2ba9a732-9d5c-48ec-a15e-994fb1207c9a,encounter,462,Desert,2025-02-24 09:20:50,hunter_escaped,20
+e3b1d55a-58b1-430e-8f37-6b4d7d491ff0,boss_battle,260,Canyon,2025-02-14 18:01:54,animal_fled,40
+2787795f-9cc2-4ba4-bb3a-49ddd956b638,encounter,783,Desert,2025-03-21 03:00:29,animal_fled,58
+10ae0acb-0f7b-4386-9b48-e68f3b342f91,danger,119,Mountains,2025-02-19 13:19:17,hunter_defeated,22
+59a4e711-c7e5-4f45-8222-993b49a24c5b,boss_battle,571,Jungle,2025-03-28 21:20:49,animal_fled,59
+056f8e3e-ac8b-4356-b764-9a0d11fe6ac3,danger,277,Desert,2025-01-09 00:01:18,animal_fled,87
+53009578-59cf-4a20-a04b-1d2dd3b0761b,danger,137,Jungle,2025-04-10 14:07:52,animal_fled,71
+82a4d404-f018-4894-8213-fb6ee51f221d,boss_battle,905,Tundra,2025-01-05 20:58:51,animal_fled,30
+f926aa0c-45e4-45cb-8f71-efc8505dc8d7,boss_battle,768,City Ruins,2025-03-28 06:00:50,hunter_escaped,59
+593afee5-3748-4ed9-9a5f-19c7ec8ca56f,encounter,57,Savanna,2025-03-15 22:50:05,animal_fled,64
+b73a2589-c31f-4de7-a3d9-d5b8cf7e7c20,boss_battle,758,Forest,2025-04-18 13:26:45,hunter_escaped,20
+236a1be0-1c9c-49eb-a4a4-ce0430fde017,encounter,685,City Ruins,2025-01-15 10:02:17,animal_fled,10
+304a93cc-8a7a-4792-8282-0d293a09fd9b,boss_battle,1,Desert,2025-02-20 01:13:07,hunter_escaped,42
+381284d4-917e-47ea-9c87-dbc8ca74b129,encounter,228,Desert,2025-04-09 18:47:28,hunter_defeated,87
+4617302e-b1d4-4805-9008-b36a554d813e,encounter,382,Desert,2025-03-15 00:58:41,hunter_escaped,72
+72bfc424-0e51-438f-bd4d-31ad0c308dd4,danger,803,Volcanic Zone,2025-01-30 14:20:35,animal_fled,94
+dc94ee33-ec16-4cc5-8742-1682d4761eb8,encounter,881,Volcanic Zone,2025-03-13 18:49:24,animal_fled,43
+41f36990-c59e-4394-9ba0-853579287e15,encounter,81,Mountains,2025-04-02 15:50:38,hunter_escaped,42
+c35181e7-d0c2-4dcb-a885-0595e0cef8e9,danger,780,Canyon,2025-01-06 10:50:07,animal_fled,79
+3047fe07-32e1-4cb4-9d46-b61307be6fd0,boss_battle,356,Canyon,2025-02-25 14:22:22,hunter_defeated,93
+b314331d-280f-451d-baf9-e8f975e59368,danger,567,Volcanic Zone,2025-03-29 13:05:59,hunter_defeated,33
+3931da64-02e0-4db8-ba1a-45608c655585,danger,695,Mountains,2025-03-02 21:30:35,hunter_escaped,25
+a47cf897-34d0-45c6-8a39-c3940e1c431b,danger,752,Canyon,2025-01-03 21:18:24,hunter_defeated,37
+ffb737f4-2d94-4c1f-8090-b15d6ec3806f,danger,51,Forest,2025-01-10 15:54:56,hunter_escaped,55
+4e91a22c-1332-4903-831e-47a94057c6e9,boss_battle,737,Jungle,2025-01-18 16:55:56,hunter_defeated,73
+46655064-6c5e-41df-bbd9-0d1bc6b3b9fa,encounter,108,Mountains,2025-04-12 17:41:07,hunter_escaped,60
+90ac0962-122c-4667-9f7d-704eb3f627a5,boss_battle,138,Tundra,2025-01-23 02:31:01,hunter_defeated,65
+9995de2f-25d2-4c39-911a-4e5e91ed7211,danger,131,Tundra,2025-03-31 18:54:06,hunter_defeated,86
+b0f562c6-7096-48f2-941f-c0ff26a65bb6,danger,554,Mountains,2025-01-10 11:12:16,hunter_defeated,67
+f3eb758f-bb2b-48fa-a81d-63eb91b7eb3a,danger,152,City Ruins,2025-04-14 14:05:57,hunter_escaped,39
+d839cf19-a23e-49b5-8303-0a47866642d5,boss_battle,573,Desert,2025-03-08 09:17:36,hunter_defeated,36
+b27c646e-998c-420f-a746-a34a9c83e967,danger,529,Canyon,2025-04-18 19:51:26,hunter_escaped,75
+21488891-4ee3-4b39-94c9-d0b3bc74cc04,boss_battle,859,City Ruins,2025-03-03 22:44:26,animal_fled,36
+1064af42-6913-4840-bc82-734c3efbf6dc,boss_battle,739,Jungle,2025-02-07 20:28:58,animal_fled,90
+9b9bf43b-0d1c-4e7a-a253-5e2f28d06e38,boss_battle,555,Forest,2025-03-14 15:04:00,hunter_escaped,16
+b3cfce38-b6c9-4909-95cd-dac4a930d285,encounter,410,Mountains,2025-01-18 09:40:34,hunter_defeated,13
+268fc89a-905d-476d-8072-f640d18b09c4,danger,859,Savanna,2025-03-23 05:00:28,animal_fled,19
+df0ace76-4408-4949-b8b9-c60532fcc271,danger,102,City Ruins,2025-01-04 09:16:18,hunter_escaped,52
+bd974a2d-2799-4018-996f-d3992bd6a17b,boss_battle,940,Tundra,2025-02-13 14:36:52,hunter_defeated,72
+e71fb451-2fc9-4878-a41f-881d6da0db94,danger,934,City Ruins,2025-01-17 17:14:22,hunter_escaped,63
+5eade509-5408-4e3f-9e07-f17b0e3d9b22,encounter,86,Jungle,2025-04-04 00:42:19,hunter_escaped,83
+c72c89d3-2c02-4db9-8065-4cded3de2e5d,danger,203,Savanna,2025-03-31 01:09:47,animal_fled,43
+31cfaefb-40b7-4fd2-b83e-1e7ab42a6307,encounter,813,City Ruins,2025-04-08 12:53:51,hunter_defeated,70
+5707554b-2b0e-44a8-957a-a5f5316441a7,danger,170,Savanna,2025-02-02 01:54:03,animal_fled,67
+38e454e1-e80b-40a5-86af-8d042e0f9f91,encounter,332,Savanna,2025-03-10 02:40:04,hunter_escaped,95
+d0a68a74-662d-4ed1-a49d-7b2078401b0e,danger,63,Desert,2025-04-13 23:58:42,hunter_defeated,82
+f76f299d-a4e6-4c52-bd14-f3c6a9ee4554,encounter,81,Jungle,2025-01-04 11:49:56,animal_fled,80
+4786411e-5ad6-453f-972b-6c81b39f3d4a,danger,583,Volcanic Zone,2025-02-01 17:35:57,hunter_escaped,16
+7bf73a88-7fd3-4d89-a396-b430f9bc4bf9,danger,567,Jungle,2025-04-12 08:22:22,hunter_defeated,98
+84a2c85c-2451-4912-8948-d5fd2a6ffb42,boss_battle,931,Swamp,2025-03-27 00:33:27,hunter_escaped,37
+0a72c4ee-1246-4cba-b2e0-21bacad1403d,encounter,827,Swamp,2025-02-08 17:31:00,animal_fled,40
+af787b8c-2443-43e0-9f06-ff0bb7e285bf,boss_battle,379,Swamp,2025-03-09 22:32:52,hunter_escaped,95
+8e97db9c-00aa-45d5-83e2-04775babd1ae,encounter,437,Tundra,2025-01-11 01:15:57,hunter_escaped,77
+4d466314-8dac-4791-9f59-8300eb524d44,encounter,840,Tundra,2025-04-02 20:40:22,hunter_defeated,61
+a4bd6f84-f8f4-4183-be93-eed7b72db46c,boss_battle,616,Swamp,2025-01-04 02:12:50,animal_fled,40
+f685058c-2625-49c1-917a-7c52eee1fd9c,encounter,663,Volcanic Zone,2025-01-03 06:25:34,hunter_escaped,66
+809203c6-1d6f-4b76-a4ba-66d7d3023cb3,encounter,654,Volcanic Zone,2025-03-22 21:09:22,hunter_defeated,28
+f7c18419-db12-4367-ae4b-27a320e29fbd,boss_battle,120,Swamp,2025-01-04 17:18:19,animal_fled,94
+815b8aa7-7d4e-44c2-a914-e246599d754c,encounter,28,Desert,2025-02-01 17:52:33,animal_fled,81
+8b642fc9-236d-414c-8cd7-6451f5503847,encounter,460,Jungle,2025-03-16 08:28:26,hunter_escaped,95
+0ad387ae-c3fe-4196-8ae1-8e30b4e7c7dd,boss_battle,778,Jungle,2025-03-03 11:20:35,animal_fled,68
+f4f2b5e0-f9e9-481d-bfba-856a2dfd6551,boss_battle,473,Canyon,2025-03-14 14:06:18,hunter_escaped,93
+3a45510d-c600-40f9-a168-1fca6fb60a56,danger,612,Swamp,2025-01-03 02:46:48,hunter_defeated,94
+469a622f-8dad-4f30-88dc-a377841dffe2,boss_battle,272,Forest,2025-04-16 14:34:00,animal_fled,43
+ff2adc82-bc91-4395-af90-294c86ee8db5,encounter,675,City Ruins,2025-01-21 04:17:49,hunter_defeated,66
+e2acb7e4-fee3-4ec5-83fc-c3c9dd5e66eb,encounter,308,Forest,2025-03-06 09:25:11,hunter_escaped,74
+8070ee2b-ceac-42b3-acff-df7672f0bdd5,encounter,152,Tundra,2025-04-04 21:51:33,hunter_defeated,86
+e144ba82-6a46-40a2-b341-a9114967796b,danger,243,Savanna,2025-01-31 08:47:56,animal_fled,42
+dcb231e1-60b8-438a-b8b8-a95389968e4a,danger,925,Canyon,2025-03-21 13:40:15,animal_fled,93
+812387d5-6c53-41a1-a49e-f562d95ea45a,encounter,916,Forest,2025-03-09 09:40:10,hunter_escaped,89
+399ef718-ca2a-4366-8a4a-37a7ae89c311,danger,96,Tundra,2025-01-09 17:57:44,hunter_defeated,100
+3f00f31d-dff3-4c5b-80d4-6e2879c6f762,encounter,766,Desert,2025-03-14 06:12:14,animal_fled,77
+018dc384-a94f-40de-b9b2-8dbbbe9480d1,encounter,54,Swamp,2025-02-21 16:27:38,animal_fled,10
+7c277c6b-fd13-4d32-b3ae-fa29544ea7c9,boss_battle,404,Savanna,2025-03-22 05:54:15,hunter_defeated,50
+4b9c99ca-df9c-41c1-a43f-c2b1f402a2c6,danger,4,Desert,2025-03-12 05:17:28,hunter_defeated,13
+a1cbe1f2-0fea-4395-9742-1c7cb46d7c64,encounter,857,Tundra,2025-03-13 16:33:40,hunter_escaped,88
+b1294396-c182-490a-aa8b-db073c1a8aa3,boss_battle,921,City Ruins,2025-01-23 18:35:35,hunter_defeated,14
+324d95b1-b0d4-434f-825f-61515a7f326c,danger,698,City Ruins,2025-02-11 06:07:13,animal_fled,92
+412d7c6f-1f43-48a0-9cae-aa1d6951c174,danger,595,Jungle,2025-01-01 10:30:54,hunter_escaped,11
+3c81d6d7-27fa-4b08-95d7-930a70b81aed,danger,870,Forest,2025-01-08 02:34:17,animal_fled,42
+3b69fab3-d3d7-4b08-8c43-4ecb9bbbf3e2,encounter,629,Savanna,2025-04-07 02:19:46,animal_fled,29
+8f5ac386-d802-4ddd-babb-aad192ba2e53,encounter,938,Swamp,2025-04-12 03:57:42,hunter_escaped,71
+858d9c8f-c28b-4ef4-9c86-9a78ba4483e1,boss_battle,267,Forest,2025-01-11 00:40:21,hunter_escaped,83
+dbb09580-ad2f-4093-8a6d-07567542fec4,boss_battle,573,Mountains,2025-04-02 10:30:24,hunter_defeated,50
+b7e2381d-8697-4a3a-92f1-1b299646e448,encounter,423,City Ruins,2025-02-16 22:17:28,hunter_escaped,26
+508d04d3-b334-4bff-af9c-34600a188484,encounter,853,Desert,2025-02-08 06:52:09,hunter_escaped,14
+42503d8d-f364-49bc-8c7d-3a173b484f07,danger,730,Savanna,2025-01-17 19:01:25,hunter_defeated,19
+ff28a4a5-4ab7-4a66-8b0e-f7bd525464fe,encounter,212,Mountains,2025-01-03 23:22:31,animal_fled,34
+5decf1bd-0d60-4f7a-aaf4-526ec69b4312,danger,156,Savanna,2025-01-11 02:20:12,hunter_defeated,10
+f0d1e697-77d1-4fd0-bc70-4bdd23a73d7c,boss_battle,199,Canyon,2025-03-21 10:27:56,hunter_defeated,77
+21588ae0-d947-47bb-afbb-8ab2eb89f21d,danger,659,Canyon,2025-01-25 19:05:05,animal_fled,54
+44c307a9-bff9-4d4a-83df-837f30df451c,encounter,943,Jungle,2025-02-16 15:13:31,hunter_defeated,91
+cd3b4397-adeb-4468-b180-e44cbff7959a,encounter,87,City Ruins,2025-01-29 00:32:39,animal_fled,34
+05d2c144-1bd7-4650-b45f-11a6d9205766,boss_battle,203,Canyon,2025-03-29 10:21:11,hunter_escaped,83
+f933cbec-5de3-401a-83e0-0e34780b605c,danger,710,Mountains,2025-03-23 16:21:06,animal_fled,86
+14d10cc7-fdef-4070-adbe-bdce60202d59,danger,716,Mountains,2025-02-20 17:11:28,animal_fled,46
+bba5d06f-3f63-4e4c-98c5-41ebb1de7bdb,boss_battle,191,Tundra,2025-03-14 13:33:27,animal_fled,81
+b48080af-7bd9-4aea-bbe5-8ca1f73d1d1d,boss_battle,541,Volcanic Zone,2025-01-31 02:42:55,animal_fled,44
+650f1aaf-e88e-43f0-be6e-d0ae4ffd3aaf,danger,539,Tundra,2025-02-04 13:02:30,hunter_escaped,92
+bfb418b0-a246-4a13-b45f-8c774248aedd,boss_battle,960,Canyon,2025-01-27 22:56:58,hunter_defeated,10
+3ce28b69-9a99-49b4-9036-99666d6f2a43,danger,167,Volcanic Zone,2025-03-09 05:09:28,hunter_escaped,27
+0cfa2d6d-5bb5-4d70-89d9-6bcd21efc63d,danger,180,Swamp,2025-03-24 18:50:06,hunter_escaped,51
+87684f10-b56b-4006-b900-74c07281af0d,danger,855,Volcanic Zone,2025-01-18 03:23:51,animal_fled,51
+f1ca424f-f877-4ba0-b456-20b424facc16,boss_battle,324,Mountains,2025-04-08 00:15:21,animal_fled,66
+46903f6e-e053-4852-b856-70ba1b6c490b,encounter,238,Mountains,2025-03-31 13:28:28,hunter_escaped,65
+b0c14c01-a72b-4351-b795-d3e4113d29ab,boss_battle,703,Desert,2025-01-01 02:20:37,hunter_escaped,65
+4d201825-78f8-475d-9b4f-644ffb40bccf,boss_battle,921,Mountains,2025-02-08 08:36:34,hunter_defeated,94
+65c7afc8-a5b6-45a4-8adc-9bb4b9f5dd6e,boss_battle,929,Desert,2025-02-02 17:51:33,hunter_escaped,25
+6aea5f62-2693-4b66-87de-ca89aa6a8978,danger,454,City Ruins,2025-04-19 10:27:34,hunter_defeated,44
+c41e2439-b286-46c2-aacb-be321ecf1cc3,encounter,525,Tundra,2025-04-18 07:02:58,hunter_defeated,92
+4bdc8292-df75-43d7-a101-4a641c223cf5,danger,992,Canyon,2025-03-11 01:57:14,hunter_defeated,18
+8103ca9a-a3a9-42e6-98b1-aa67b88a5386,boss_battle,325,Swamp,2025-03-30 22:10:19,hunter_escaped,92
+2759b8d5-2e46-473e-9160-e8cf05e10a90,danger,173,Volcanic Zone,2025-01-30 10:05:02,hunter_defeated,77
+6933a280-cdf8-47d7-b733-7951b5894f56,encounter,800,Jungle,2025-04-01 01:24:19,hunter_escaped,25
+7d556037-698c-4cd0-83c8-10e7d57c5290,danger,215,Volcanic Zone,2025-01-20 14:32:38,hunter_defeated,54
+3ab11ada-44bf-4d12-88c1-984cf64c77b6,encounter,241,Volcanic Zone,2025-03-03 06:52:43,animal_fled,98
+c165f824-3ff0-48f5-8b42-d37342d8a27a,boss_battle,720,Swamp,2025-03-19 16:25:49,hunter_escaped,16
+c52798ad-1cd3-43ed-a6c1-86f4419316c8,danger,405,Volcanic Zone,2025-03-30 08:06:16,hunter_defeated,33
+b9b242c5-4b1c-409a-a01b-1e3cb7b48af8,danger,49,Jungle,2025-03-18 01:52:35,hunter_escaped,95
+72b05e1c-fbc6-4fc1-a60f-8c8fc61aa38a,boss_battle,303,Volcanic Zone,2025-03-10 06:08:53,animal_fled,20
+461add02-0d16-4cc0-87c8-87d6fa6bbf30,encounter,232,Savanna,2025-04-06 07:28:26,animal_fled,11
+c802886d-f0cc-4ffe-a104-f6fd966ed5bb,boss_battle,355,Canyon,2025-03-23 09:36:58,animal_fled,89
+0a68b149-5454-4d00-aad8-98e517a4c6f8,encounter,510,Mountains,2025-04-09 15:05:43,hunter_defeated,98
+66e556a2-2eba-41ee-8cf2-f27bf618a203,boss_battle,806,Canyon,2025-03-23 00:11:01,hunter_defeated,18
+98bca33e-39ed-4383-87fa-3ed803c3c0a6,boss_battle,327,Jungle,2025-03-06 07:07:16,hunter_escaped,46
+acffd391-d753-4a0c-810b-885ae665516b,encounter,369,Canyon,2025-01-10 16:49:13,hunter_escaped,58
+5bf3bbbb-9226-4544-8abe-69262fb7e8bf,danger,325,Jungle,2025-04-18 19:28:07,hunter_defeated,11
+14c950da-b36a-4948-ad29-b21fa2299d6a,boss_battle,757,Canyon,2025-02-01 20:16:46,hunter_defeated,83
+d89bda05-ed37-4d1a-a667-d316749c312e,encounter,133,Forest,2025-03-22 20:36:13,hunter_defeated,67
+9a601c7a-041a-442e-9cb7-6a12fbf9fd69,boss_battle,355,Forest,2025-03-30 00:33:49,hunter_escaped,31
+99cf4c03-b666-43a1-84b7-cc0bdd048e54,encounter,47,Swamp,2025-02-24 16:09:37,hunter_escaped,80
+9e575f6f-c5bf-40a0-91a6-2b37573ef2de,danger,521,Mountains,2025-01-29 13:07:43,hunter_defeated,49
+eba65ce7-159f-4b6e-9b2c-a84d7910d36c,encounter,430,Jungle,2025-02-01 23:36:16,hunter_defeated,91
+1674231e-58a3-4b7f-9ac1-41ff63ba33dd,boss_battle,750,Tundra,2025-02-04 21:17:23,hunter_defeated,67
+bb9541f2-5a7f-44ab-81a3-b40806556568,danger,301,Tundra,2025-03-07 11:37:45,animal_fled,85
+132e5822-c79c-499d-916f-d8d04f256d37,boss_battle,571,Savanna,2025-02-20 09:49:47,animal_fled,80
+1f1691b5-9651-4bbc-b6c8-e978dac28d04,boss_battle,176,Jungle,2025-01-21 06:02:33,hunter_defeated,41
+3d051064-298a-480c-93c0-e46e9de9559f,encounter,678,Mountains,2025-02-17 23:55:39,hunter_defeated,37
+49e27421-7bdd-4f81-a592-71b63abc09f6,encounter,551,Swamp,2025-02-22 04:20:15,hunter_defeated,20
+8ed16237-2500-4c30-8cf0-5c353b468f18,boss_battle,93,Swamp,2025-03-29 18:21:48,animal_fled,13
+c3e38e78-506a-407e-9d3d-d759e253a033,encounter,395,Volcanic Zone,2025-03-06 12:32:13,animal_fled,34
+fbca75a3-62bb-4644-933a-a04b00aae62e,danger,263,Swamp,2025-04-08 19:16:49,hunter_defeated,86
+b5a35a9e-9eb7-4c59-83c5-c6218987be23,boss_battle,994,Savanna,2025-03-13 00:39:33,animal_fled,64
+58d4cf69-2760-4ccb-8f3b-61f3d765e413,danger,76,Tundra,2025-03-11 23:45:00,hunter_defeated,46
+47eb93fe-cc71-46d3-9b69-2ea2b180ed42,encounter,419,Canyon,2025-02-28 04:57:18,animal_fled,82
+95d81d5a-8aea-476c-8157-50e8ae672eb3,encounter,836,Forest,2025-03-18 19:06:59,animal_fled,48
+0b71ee7b-5bec-4e58-8171-2a2c83f09bcc,encounter,365,Tundra,2025-04-05 10:33:57,hunter_defeated,12
+b1de655f-cc6f-4ede-8224-b7f4cbb78f3f,danger,856,Canyon,2025-02-15 06:36:36,hunter_defeated,60
+cdc7d3ca-e025-4eb7-8f8b-71999e62ac0d,boss_battle,476,Desert,2025-02-22 19:11:53,hunter_escaped,99
+82a6c56f-d9e8-43d5-883b-6ed976c18bb6,encounter,346,Desert,2025-01-27 14:36:03,hunter_escaped,87
+166293ed-c15b-4cca-9dfe-ddae14dc3896,danger,531,Mountains,2025-01-09 18:36:56,hunter_escaped,82
+2cd1ea75-6ecb-47b0-b8c6-ba951946b344,danger,221,Canyon,2025-03-09 22:14:53,hunter_escaped,51
+0b48123b-6f60-4ef5-9e48-fc20bcc7c271,encounter,215,Volcanic Zone,2025-04-02 05:29:51,hunter_defeated,18
+f6584009-648e-4caa-bf6d-f84f2a03ab61,danger,287,Savanna,2025-04-05 17:08:38,hunter_escaped,48
+a9ddd058-28d1-46be-a474-9865d4b92022,encounter,598,City Ruins,2025-02-20 21:09:11,hunter_defeated,14
+81342a5f-da31-4aaa-a05f-2db832f6bb03,boss_battle,347,Tundra,2025-04-04 21:14:35,hunter_defeated,29
+f08f7c84-1512-4463-a8b7-b683314ffe78,danger,899,Jungle,2025-01-01 09:23:27,hunter_defeated,99
+74c38d6a-6ffa-4d69-8771-c8b86a80c450,danger,34,Savanna,2025-02-05 06:22:55,animal_fled,22
+faf8fdd1-a312-49d5-955d-2aab6e74600d,danger,399,Volcanic Zone,2025-03-30 15:22:42,animal_fled,79
+2deba0c3-c0d3-485c-b3d3-edfedd1c5f0d,boss_battle,236,Tundra,2025-01-27 03:57:43,hunter_defeated,12
+ac217899-92b4-452e-8ae9-2c546ac32d63,boss_battle,20,Desert,2025-01-11 20:19:51,hunter_defeated,30
+250accb0-1cbe-4803-9952-76b1a76a4ae1,encounter,157,Volcanic Zone,2025-01-06 07:18:48,hunter_defeated,31
+9081b42c-e31d-478d-9527-0675d235436f,danger,754,Desert,2025-01-15 05:55:14,hunter_defeated,46
+5b121898-57ad-4df0-8e92-2d20c86f08f5,danger,560,Desert,2025-03-07 07:22:37,animal_fled,82
+2c9539cd-ecc1-4d93-bbcf-4221e10a42cc,encounter,631,Volcanic Zone,2025-04-07 10:02:38,hunter_defeated,14
+de06340c-ef28-43dd-8b3b-8bfade08aa77,danger,151,Jungle,2025-01-29 09:33:58,hunter_escaped,92
+bb587c50-fad8-4742-adcb-4b51f2c31151,boss_battle,734,City Ruins,2025-01-28 11:52:42,hunter_escaped,40
+8845a30e-5b48-40ac-a9fe-f1a765cb796c,encounter,744,Swamp,2025-03-15 04:28:36,hunter_defeated,38
+9116ce14-7574-4514-ad95-028ab27db08c,encounter,229,Mountains,2025-02-11 07:08:02,hunter_defeated,28
+28ac224c-eb0c-4bc7-b781-0bd2edc39bdf,boss_battle,977,Desert,2025-01-14 16:21:59,hunter_escaped,33
+dc33d016-ccc5-444c-a104-803b6326685f,danger,960,Mountains,2025-03-13 16:37:55,animal_fled,95
+5dd5c05b-72b6-4196-9c5f-a8d75b626155,boss_battle,270,Canyon,2025-02-07 04:37:16,animal_fled,37
+d641b83f-73fc-4119-8019-8366548ee9d0,danger,763,Volcanic Zone,2025-03-20 21:23:41,hunter_defeated,52
+9f859ea6-aaa7-49b0-906f-2e69048ad759,boss_battle,46,Jungle,2025-03-11 13:08:57,animal_fled,67
+fd443393-9426-4cae-add7-266a37b159c6,boss_battle,779,Swamp,2025-01-09 00:43:32,hunter_escaped,34
+5d52a789-411b-4725-8bea-6b416438dbb6,danger,704,Canyon,2025-03-07 11:27:01,animal_fled,33
+722a1b82-5839-4c87-b0d4-1275d67a2e28,encounter,228,Volcanic Zone,2025-03-01 01:33:50,hunter_escaped,11
+f902a64e-17d4-413c-b9fa-41e320c26f16,danger,396,Jungle,2025-03-12 15:59:23,hunter_defeated,94
+ec59b0ff-6a44-4a5d-ae74-0d2e157e6d3d,danger,151,City Ruins,2025-03-05 12:12:22,animal_fled,73
+0855a034-039a-4ae0-b609-afe256df9fe6,boss_battle,921,Swamp,2025-02-14 01:56:16,hunter_defeated,24
+7324035c-4fcc-4468-b156-77757010ed63,danger,422,Forest,2025-04-07 00:36:27,animal_fled,61
+685c62a7-f6c9-4db4-a8c8-4e1f6a00f091,danger,359,Canyon,2025-02-12 07:52:44,hunter_escaped,64
+9472415e-c781-4109-a7b3-6248f4ca7a13,boss_battle,642,Tundra,2025-01-21 20:16:56,hunter_defeated,66
+f6573f66-8d2a-44e5-b54f-2b896a1bee2a,danger,789,Tundra,2025-03-03 12:20:24,hunter_escaped,59
+ad45d457-d26e-4acb-8763-61f33df73ff5,encounter,545,Volcanic Zone,2025-01-01 13:43:39,hunter_defeated,23
+bc6cb07d-2412-47fb-b301-f21c6e1df4be,encounter,28,Savanna,2025-04-14 22:07:21,hunter_escaped,28
+f70f7b21-d86d-4755-8e7e-3df28ba52205,boss_battle,883,City Ruins,2025-04-09 09:12:16,animal_fled,84
+1fcd9b4d-6ec4-4855-b049-5dc8003c9356,danger,966,Forest,2025-01-05 12:27:39,animal_fled,90
+d9dad86d-f096-4e0e-8bee-a523b3736eec,boss_battle,239,Savanna,2025-02-22 15:33:39,animal_fled,68
+57f8fe70-a3ec-4223-914e-600222a8961c,boss_battle,975,Canyon,2025-03-28 21:33:39,hunter_escaped,21
+7b218c7f-a34e-4a4d-a2af-6b7d9a7be06a,boss_battle,313,Desert,2025-01-20 02:36:20,animal_fled,28
+e398b051-5d79-4f05-af6b-bf62d383cc6d,boss_battle,440,Savanna,2025-02-02 11:42:52,hunter_defeated,87
+e2bdf809-215e-418a-9fed-87f53f720e47,encounter,257,City Ruins,2025-03-14 04:25:16,hunter_escaped,60
+d5a7af92-60d1-4ddf-9b9a-d45f8179e2b6,danger,546,Jungle,2025-01-28 10:49:30,hunter_escaped,81
+cf9db070-8d30-4108-82c8-470421b3bc6b,encounter,909,Jungle,2025-03-11 10:16:11,hunter_escaped,70
+2e5c74a4-438c-49fe-b401-467bf5633b68,encounter,68,Volcanic Zone,2025-03-14 03:42:13,animal_fled,48
+d059271c-d148-4c57-bf71-042dbf507b87,danger,599,Desert,2025-03-03 18:09:52,animal_fled,91
+77e65b49-6ad4-467b-b20b-9408649b523c,boss_battle,564,Canyon,2025-01-23 09:07:17,animal_fled,52
+27f2bc1b-1eaf-4827-97e9-8b31a88f326d,boss_battle,514,Canyon,2025-02-09 03:35:29,hunter_defeated,17
+e1af64d5-93eb-4dd9-9d85-aad90ddd73ed,danger,870,Tundra,2025-03-18 04:42:55,animal_fled,11
+b96e59cd-d5d4-4eab-93b9-ee269040b98f,boss_battle,657,Mountains,2025-03-17 13:58:16,hunter_escaped,94
+8d86d78a-d39c-4f05-af76-b294a87834c2,boss_battle,718,Volcanic Zone,2025-04-04 20:20:05,hunter_escaped,57
+8588d79d-114f-4c6d-8b1c-e3f6b9e304b5,boss_battle,676,Jungle,2025-03-24 15:57:07,animal_fled,23
+5ccb7eae-193d-4403-8b08-8e1b395f91be,danger,228,City Ruins,2025-02-05 00:13:24,animal_fled,40
+260bf20f-05a9-4f61-91d9-8638e030aee1,encounter,121,Savanna,2025-02-19 01:43:48,animal_fled,82
+1f8d17f5-215b-4dce-8022-5663129b8e73,encounter,116,Jungle,2025-04-08 19:48:39,hunter_defeated,76
+cf06a64f-710f-45b1-a879-60ae1809c4ee,danger,860,Savanna,2025-04-02 02:57:06,hunter_defeated,48
+5b0e1c69-4a23-41fa-a98a-0a5b91bbb87c,danger,807,Mountains,2025-04-14 01:56:43,animal_fled,14
+cb0d906e-17a7-4bef-9f5b-6b0761b9546f,danger,868,Desert,2025-04-09 18:01:36,animal_fled,67
+84db41b7-1b19-4090-9827-350ce8b56ade,boss_battle,416,Jungle,2025-03-24 04:21:31,hunter_escaped,72
+38e0b166-2578-4182-b046-202d2b8901f1,danger,891,Canyon,2025-03-03 01:15:07,hunter_escaped,75
+ae8fdb3f-4a91-4514-bfaa-9e6533158f79,encounter,747,Desert,2025-02-12 21:15:20,animal_fled,81
+65547508-4582-4448-8801-888dd9b840c1,danger,842,Savanna,2025-02-22 03:18:38,hunter_escaped,10
+5236dd15-1832-4262-979e-8e3d9d405a21,boss_battle,714,Savanna,2025-01-19 13:36:14,hunter_escaped,58
+7b32ca68-9af5-434c-a4d5-6d10c647514a,danger,761,Mountains,2025-02-22 19:23:35,animal_fled,25
+761e64d8-dddb-4131-ada7-59dfcf3269d7,boss_battle,192,Mountains,2025-04-12 12:34:46,hunter_defeated,40
+28870270-ae5b-44a2-8bf7-cac30c2eb9f9,encounter,707,Forest,2025-03-21 15:41:35,hunter_defeated,58
+51aa4c2a-41fb-417f-86cc-7f02ca2cf9cb,boss_battle,177,Mountains,2025-01-26 17:08:30,hunter_defeated,14
+7884397a-5b93-4bdc-8323-6017662832ab,boss_battle,293,Volcanic Zone,2025-01-06 17:28:18,animal_fled,92
+8743d7cc-9c08-430d-9dce-de9b2b2494e4,danger,519,Canyon,2025-02-15 20:52:42,hunter_escaped,26
+87bab2a7-30d4-4473-9612-19856f5e9a05,danger,759,Jungle,2025-03-02 12:11:37,hunter_escaped,60
+2f5fc773-c6f4-4618-a884-9f2590062948,boss_battle,234,Canyon,2025-03-15 21:20:49,hunter_defeated,20
+ade68ad2-f619-49e8-b630-9e909d9aa2ee,boss_battle,476,Savanna,2025-02-25 13:05:18,animal_fled,70
+d49dfe68-f00f-4027-b406-ebcc70a6d036,encounter,754,Volcanic Zone,2025-03-01 21:50:20,hunter_defeated,63
+bed8458f-5a13-4c33-9545-d443e64d237e,boss_battle,521,City Ruins,2025-03-30 01:26:42,animal_fled,89
+01ba90ce-fd45-4da5-a11c-1572e120cec1,encounter,16,Savanna,2025-01-25 14:17:40,hunter_defeated,11
+65969213-1098-401d-a92e-fd930cc07271,boss_battle,265,Mountains,2025-01-05 15:25:13,hunter_escaped,79
+825fa84b-43df-47c4-8fc3-293868da4c5d,boss_battle,906,City Ruins,2025-01-01 10:51:30,animal_fled,67
+93fd218d-4f6a-425c-a89c-cb4707283521,danger,113,Forest,2025-01-14 22:09:13,animal_fled,68
+c3abba9c-e95e-4a7a-a7ca-52b01d669ec3,boss_battle,835,Mountains,2025-01-26 16:17:50,hunter_defeated,89
+d0e8b25d-e58d-433a-8454-c5071871fe9f,encounter,91,Jungle,2025-03-23 12:58:21,hunter_escaped,76
+c7795b00-cfd6-4808-9637-bd905d66d622,encounter,274,Jungle,2025-02-17 05:48:53,hunter_escaped,41
+7d215a92-a2ef-4fb9-ad4f-c51bdee083e2,boss_battle,750,Canyon,2025-04-19 08:18:18,hunter_escaped,21
+3a1e2b43-c8de-4a1e-9401-f0e37c9d9b4a,encounter,782,Canyon,2025-01-03 21:29:51,animal_fled,35
+dd63e315-e9e8-400e-a55e-5e967246d36e,danger,22,Tundra,2025-02-08 20:36:52,hunter_defeated,23
+5e93b40a-5f5b-47d9-9790-43e4550e0095,boss_battle,863,City Ruins,2025-02-16 05:40:02,animal_fled,73
+b6d052ed-f408-4090-ba71-d706eec31424,encounter,484,Mountains,2025-03-12 12:32:54,hunter_escaped,64
+41cdd026-2276-41da-9297-64e7caffb83d,boss_battle,382,Savanna,2025-02-11 13:15:15,hunter_defeated,50
+31d9209c-ac69-4e1e-819b-7df2564eae31,danger,121,Canyon,2025-02-11 14:52:55,animal_fled,17
+e0183eed-a7cf-479d-b330-8ada7c73eb74,boss_battle,276,Forest,2025-02-07 23:01:21,animal_fled,41
+e2bb1993-eb8f-4fcd-b3bb-e06618713c9d,boss_battle,554,Savanna,2025-03-12 12:25:20,hunter_defeated,19
+3abbd6e1-d91d-4c9c-9db9-1fd0918a8301,encounter,767,Desert,2025-01-10 10:17:28,animal_fled,72
+13b35b6d-3dce-4ac4-a585-0399e76d3714,boss_battle,157,Desert,2025-01-12 08:18:40,hunter_escaped,54
+0cec33a7-ef7f-4e96-91af-2547a406a79d,boss_battle,305,Mountains,2025-02-03 06:48:57,hunter_escaped,30
+b687e849-9763-4834-91bf-57644c2255b3,danger,382,Swamp,2025-02-26 18:25:04,hunter_defeated,79
+3a911243-63cb-4844-8b27-e92826555168,danger,398,Savanna,2025-03-07 14:53:43,hunter_defeated,53
+138b06f3-df36-4e90-ab48-7e4ebf1ce99d,danger,318,Tundra,2025-01-17 06:36:11,animal_fled,71
+e7b4b3d1-cb6c-44dd-bdec-7ee84f44cbce,danger,311,Tundra,2025-02-23 05:03:47,hunter_defeated,95
+d4dd493f-46ec-49da-8b4c-e07d849da399,encounter,220,Mountains,2025-02-15 21:59:47,animal_fled,46
+f791a3a6-4858-438f-88c0-eb527dfcd2e1,encounter,713,Desert,2025-03-10 21:42:23,hunter_escaped,11
+60e4d31d-32ad-43a8-9901-8e89b2a9275a,encounter,746,Volcanic Zone,2025-03-22 16:49:29,animal_fled,52
+5dba320a-a1e3-4b87-945b-aa8d3286a723,danger,200,City Ruins,2025-01-02 05:49:14,hunter_escaped,23
+f0829c99-ac8c-4f3e-9842-7cf30a7837f4,encounter,678,Desert,2025-04-05 08:44:17,hunter_defeated,81
+55308140-53d2-48df-9520-13dec2a6a6d7,boss_battle,420,Savanna,2025-01-25 09:29:43,hunter_defeated,93
+c066be11-967b-467a-8d6f-83a15735656d,encounter,236,Jungle,2025-04-06 17:46:20,hunter_escaped,91
+9fd6f1f5-905b-4eb0-8d58-28c50a9246fd,boss_battle,938,Tundra,2025-03-16 04:36:50,animal_fled,66
+5ca48861-a5d6-4d8e-a980-42c0e6e42c4f,boss_battle,501,Jungle,2025-03-24 19:57:50,animal_fled,79
+641b4b3c-5198-4c12-b405-54be64ae23f8,boss_battle,212,Mountains,2025-03-20 07:44:33,animal_fled,90
+5dedfc70-6dab-4705-a267-7b5e02c58f31,boss_battle,167,City Ruins,2025-01-17 04:09:08,hunter_escaped,20
+18857dfe-bfeb-4f69-bab8-d8b0368e7a40,danger,505,Swamp,2025-03-17 10:08:14,hunter_escaped,12
+21a346ae-5209-4150-b839-3752c7f225ec,encounter,229,Savanna,2025-02-26 02:42:29,animal_fled,28
+6cc3a191-0010-4431-8e31-86437bdc1e6a,danger,72,Tundra,2025-01-14 18:39:44,hunter_escaped,82
+4b0d0f77-f1ce-4168-bfde-a08d152b95d5,encounter,336,Mountains,2025-02-05 03:02:42,animal_fled,29
+f96546c3-7c95-4eab-a432-fbd37580eb40,encounter,883,Canyon,2025-03-01 14:45:50,hunter_escaped,88
+4308ea82-ed67-493e-8898-2282d57bcf79,danger,538,Tundra,2025-03-21 12:28:53,hunter_escaped,16
+5e254265-07f9-42fa-8ed4-07548861d3ff,boss_battle,948,Tundra,2025-02-03 20:21:04,animal_fled,53
+8c9cd71c-58a2-428e-bfef-5568979085a4,danger,763,Mountains,2025-01-23 20:38:48,animal_fled,98
+888423da-0d8a-4ebd-a689-45b8204bc4e1,boss_battle,259,Volcanic Zone,2025-04-04 10:59:37,animal_fled,42
+d242a43b-9245-4223-bacd-23cc5959ccbc,boss_battle,611,Savanna,2025-02-19 21:10:07,hunter_escaped,81
+b7895850-6e12-4fa8-846b-f41df3421d6c,danger,969,Tundra,2025-02-06 01:44:55,hunter_escaped,65
+194cb67f-1852-46e8-b274-8f67494de990,danger,779,Savanna,2025-01-04 04:22:33,animal_fled,47
+563658da-acf6-4abb-aadb-1adf6000bdde,danger,30,Forest,2025-04-04 08:06:03,hunter_defeated,97
+deb5f4fb-e763-4376-8166-6e77dca7669f,danger,833,City Ruins,2025-03-28 03:39:12,hunter_defeated,50
+5ee13a32-1189-493e-8a03-4ae8b784cdd0,encounter,125,Mountains,2025-02-15 07:28:08,animal_fled,53
+351d56d0-574f-4bf9-b087-edab23d37b6c,boss_battle,342,City Ruins,2025-03-02 08:47:22,animal_fled,50
+8aab9968-0b4e-4b1b-8d88-6106f4b809c0,danger,598,Canyon,2025-01-05 17:48:49,animal_fled,59
+39d50268-2397-4ce7-b5ff-2fc1118c5e15,encounter,49,Tundra,2025-01-10 06:35:33,hunter_escaped,16
+5417be22-aed1-4ebb-8450-4c0ae0e5338e,danger,874,City Ruins,2025-02-14 19:08:00,animal_fled,46
+94215900-c2f1-4b08-b911-60639d5e26e0,boss_battle,236,Forest,2025-03-20 11:38:10,hunter_defeated,85
+f161fa14-c99e-4c96-b244-58fdd68ce11a,encounter,500,Jungle,2025-03-17 19:49:55,hunter_escaped,51
+542ec880-f9df-4d5a-b7c2-fe6def9f8473,danger,590,Canyon,2025-01-24 05:00:37,animal_fled,59
+13e545ee-b75e-4be7-a9e0-c1a89cc8564e,danger,205,Tundra,2025-04-10 04:14:11,hunter_escaped,21
+9ce366e5-a091-42c2-b182-99745824f90b,boss_battle,187,Swamp,2025-01-18 18:12:12,hunter_defeated,23
+6de7c2bd-1997-4854-a9c8-0835665c1ee0,danger,425,Canyon,2025-03-25 00:02:34,animal_fled,14
+a735bea5-6fcf-4282-91aa-2fca9f7c3af5,danger,456,Swamp,2025-03-11 23:20:33,animal_fled,10
+7e5a8c82-fc06-4169-9562-6366fd10f533,boss_battle,13,Mountains,2025-03-23 22:39:40,animal_fled,62
+957036e7-35f6-4386-8057-a0cac7bd6161,danger,372,Mountains,2025-03-26 14:08:40,animal_fled,88
+07925340-ee1f-4dc0-9d0d-4d1dca98cdd3,danger,148,Canyon,2025-01-09 00:04:35,hunter_escaped,85
+378c5350-3f19-42cb-b088-87a18e28ac8a,encounter,147,City Ruins,2025-02-21 10:17:26,hunter_escaped,39
+42dfe887-0201-4d2e-a56b-41e77d21d6f0,encounter,622,Swamp,2025-02-28 20:58:43,hunter_defeated,26
+70eba6fd-6101-4788-8158-bc8f42f89fbf,boss_battle,825,Forest,2025-02-17 00:26:37,hunter_defeated,73
+2e76f181-032f-45b6-87b2-1b7ab216df2e,encounter,582,Desert,2025-01-27 04:00:43,hunter_defeated,10
+93156300-b0b9-407b-a994-48b706ed731a,encounter,811,City Ruins,2025-04-03 00:37:08,animal_fled,94
+bd021c6c-f5ff-402c-a096-b36661510221,encounter,279,Forest,2025-03-05 19:32:08,animal_fled,38
+b2b6661d-9a9a-4660-a0b7-d7503f06681f,danger,480,Swamp,2025-01-04 01:30:14,hunter_defeated,78
+ce8171e6-d2c5-4832-bd98-8b7622962699,encounter,71,Forest,2025-04-02 20:25:10,hunter_escaped,14
+47f9d98b-36af-4019-9071-606f53868a11,boss_battle,451,Savanna,2025-03-07 12:55:06,hunter_escaped,88
+6ca6e134-b019-4f4a-8492-e2f7607d3954,boss_battle,565,Swamp,2025-04-13 15:58:26,hunter_escaped,87
+48d30460-b7a3-46a3-9579-00de8f1da5d6,boss_battle,208,City Ruins,2025-02-06 04:14:53,hunter_escaped,79
+03b69b14-4eeb-43b8-b6da-b6d4c82e84ad,danger,3,Desert,2025-01-29 10:24:30,animal_fled,26
+d3ee70c8-1859-4ed4-95ce-aa42a73898b9,danger,928,Savanna,2025-02-16 12:25:01,hunter_defeated,13
+b5b8cfd1-911a-4218-ab2d-2727596e84cf,encounter,788,Canyon,2025-03-21 12:52:30,hunter_escaped,38
+6adfb2d7-e111-4c85-8593-c5dc6ed10281,boss_battle,449,Volcanic Zone,2025-01-29 18:45:40,hunter_escaped,99
+de138e04-fc9c-4c92-b10e-85fe01912a48,encounter,744,Jungle,2025-01-22 23:10:59,hunter_escaped,58
+a081857c-2e6f-44e0-a3a9-289673826dc0,danger,328,Mountains,2025-03-03 00:36:02,hunter_defeated,87
+7081129e-d783-4caf-a7ef-0706a3a001e2,encounter,239,Swamp,2025-03-08 07:25:27,hunter_defeated,31
+6446bd69-4285-415c-95dd-1de4b7b4521d,danger,906,Swamp,2025-01-17 10:11:32,animal_fled,35
+92339008-84ee-45f3-b72f-b30151abba1a,danger,284,Volcanic Zone,2025-01-11 15:13:10,animal_fled,42
+a59edea4-7978-4a0c-8c75-c8d232401144,boss_battle,675,Canyon,2025-01-13 09:38:06,hunter_defeated,29
+936a7eda-ae4e-4f7c-9bba-9a8a9d36067e,danger,483,Jungle,2025-01-11 02:11:18,hunter_defeated,58
+90df0c9a-1016-4fc8-9106-b1481d1529a1,danger,606,Canyon,2025-04-17 15:51:19,hunter_escaped,81
+4b76b8af-d5fd-43f9-8ab8-27920cf32f5a,danger,71,Swamp,2025-03-11 16:47:33,hunter_defeated,59
+efaddf7b-b4d3-4d0d-be51-59ccd4c172c8,boss_battle,572,Savanna,2025-03-16 11:44:24,hunter_defeated,27
+7028a94a-e30a-4d89-ba21-22f998e48918,encounter,430,Tundra,2025-04-12 06:44:06,animal_fled,12
+3972f1e7-68d5-4f99-ae41-9965e0c68f6f,danger,489,Canyon,2025-03-16 14:07:22,animal_fled,19
+a160de3a-2d0c-4e57-9246-fb77480cfd08,boss_battle,656,Tundra,2025-02-07 11:12:27,animal_fled,42
+1255be4a-8fc2-4375-b160-86c0fa91f3b7,danger,322,Desert,2025-01-29 04:39:09,hunter_escaped,67
+f2eebcda-efd0-4734-9cce-fde885f73f24,boss_battle,253,Forest,2025-03-13 05:28:46,hunter_escaped,83
+c428c9e1-7e18-488d-915a-0f09283cd456,danger,495,Swamp,2025-03-14 20:33:19,animal_fled,78
+794134e7-bd39-4ceb-b69d-901de9953d91,boss_battle,257,Savanna,2025-02-12 15:37:03,hunter_defeated,19
+e36236e0-97ea-47bb-aa22-bc40b2a70bf0,encounter,995,Tundra,2025-01-20 17:23:31,hunter_defeated,87
+6f90b881-a547-403b-a71f-980ea0354fae,encounter,818,Volcanic Zone,2025-04-14 12:20:16,hunter_escaped,91
+b2215ce1-7a6e-44d0-8d01-aea88af84e22,danger,869,City Ruins,2025-03-02 17:09:35,animal_fled,11
+66844e3d-4a43-4fc8-bd75-8aeb73475e12,danger,318,Jungle,2025-04-05 14:23:36,hunter_escaped,59
+7ea3c818-c098-45d9-8119-8a34b2f72f1a,boss_battle,570,Volcanic Zone,2025-01-20 23:02:30,hunter_defeated,76
+d48cf21c-ba40-4ac7-9a16-9bed80c66dde,encounter,86,Desert,2025-03-08 23:00:31,animal_fled,11
+05d08fe5-af6b-4471-9be5-358eb62e48c7,danger,873,Mountains,2025-03-29 04:52:09,hunter_escaped,88
+3521ef59-b977-4890-a1a3-73c1c415f5ba,danger,315,Forest,2025-02-27 04:41:47,hunter_defeated,36
+e7aa19ac-a964-4987-9802-7e58309ba312,danger,380,Swamp,2025-03-07 20:14:46,hunter_defeated,78
+aee5ecae-8fe9-4667-8a80-5710d2955364,danger,65,Tundra,2025-02-18 18:04:17,hunter_escaped,10
+b266757f-cba5-4ff0-8058-16aefed7a3ff,danger,315,Savanna,2025-01-01 17:45:21,hunter_defeated,91
+725c0031-6daa-4e3d-9f86-6e64aec2e38c,danger,805,Jungle,2025-02-19 02:46:20,hunter_defeated,23
+fb1c669c-44b1-481b-9d03-2dc8d3fdb43e,danger,448,Volcanic Zone,2025-03-04 14:04:07,hunter_escaped,29
+3be0962d-267c-49e9-b41a-aaea3ee70cc8,danger,411,Tundra,2025-04-07 17:54:25,hunter_defeated,70
+ec56fae4-8506-4109-9156-d9a703e8881e,danger,621,Forest,2025-03-13 06:37:56,hunter_defeated,27
+04f65534-f879-4d6f-9343-2e20ff84b787,danger,306,Canyon,2025-04-12 14:26:28,animal_fled,54
+50763d01-0cc6-41cc-9dc6-eba9a8405cda,encounter,776,Mountains,2025-03-20 19:09:11,animal_fled,76
+fd1f493e-c806-4abf-a47b-95f737a3ced5,encounter,113,Volcanic Zone,2025-04-18 16:27:25,hunter_escaped,46
+e44ea8d4-7180-4938-b315-13a49c420d05,boss_battle,266,Jungle,2025-02-25 03:25:00,animal_fled,94
+4551f6e1-6ca1-44ff-a10d-8649d07417af,encounter,179,Canyon,2025-01-06 11:04:37,animal_fled,40
+7710bf31-3bb1-4694-832f-51b681bf8bc3,encounter,15,Tundra,2025-02-09 18:15:12,hunter_escaped,30
+83c616a0-ee86-4530-aba7-c81dd11c1a75,danger,312,Forest,2025-03-16 22:18:43,hunter_escaped,35
+272a8252-6fb5-4ecf-9edd-80011357e8f3,boss_battle,272,Canyon,2025-01-17 06:24:05,hunter_escaped,84
+0c2c354d-e40f-41f6-9710-3197a699eab2,encounter,315,Savanna,2025-03-23 08:26:05,animal_fled,96
+319d9d94-a0a0-403d-90e1-f46ae3bf8c23,boss_battle,754,Savanna,2025-03-25 16:34:13,animal_fled,32
+3a460ac3-b73b-49b7-855e-5e49f36e6d1c,danger,562,Mountains,2025-04-13 09:34:12,hunter_escaped,98
+11c34b55-1ba5-48ff-bc34-f6973e9aa2a9,boss_battle,71,Jungle,2025-04-09 03:07:51,hunter_defeated,64
+78acd960-7108-44e8-9a34-cd98b3b9af9f,encounter,244,Forest,2025-01-13 23:39:34,hunter_defeated,18
+5a089f48-112c-40bc-b1a4-8a9170fde866,encounter,222,Swamp,2025-04-04 09:09:31,hunter_escaped,33
+d2891e15-032a-4eec-9500-39f064381887,encounter,322,Forest,2025-03-18 18:33:31,hunter_defeated,24
+bdb1adef-f40b-4d26-9c29-5b3cd6e74e3f,encounter,25,Savanna,2025-04-03 19:55:52,hunter_defeated,51
+75657087-ff26-4575-8662-f7bf89496fdc,boss_battle,686,Swamp,2025-04-03 05:53:44,animal_fled,45
+a18fbc27-0d84-4bf2-8737-78f2b3fe837d,boss_battle,267,Desert,2025-01-18 05:42:48,hunter_escaped,16
+13eb2326-758a-4762-86a1-e32c68859031,danger,778,Savanna,2025-02-19 19:51:25,hunter_defeated,20
+17bd7f67-6658-433f-83db-fdaf4284f3a6,boss_battle,394,Savanna,2025-02-04 04:25:53,hunter_defeated,16
+b17ece20-c470-4e5f-850f-aca93970a804,encounter,268,City Ruins,2025-01-30 11:12:26,animal_fled,56
+7762ee85-5816-4ac4-9cea-fc0f6176014a,encounter,681,City Ruins,2025-01-09 06:35:39,hunter_escaped,54
+6399fca1-9930-4044-b844-27828ef2037d,danger,29,Tundra,2025-03-14 18:05:04,hunter_defeated,84
+886fdeaa-273b-48b6-95e9-16c4fe7ef952,boss_battle,764,Jungle,2025-02-15 23:13:38,hunter_escaped,10
+6305e2ed-0d7f-4c0a-b580-76d9cc00a8fc,encounter,753,Swamp,2025-02-11 07:18:30,animal_fled,41
+e2939920-0a01-44a4-aa0d-9a9cf67950c4,boss_battle,909,Mountains,2025-01-09 14:43:59,animal_fled,81
+c5d05f6a-3aca-49a7-a07c-0eb3c35dc68d,encounter,699,Mountains,2025-01-11 00:46:58,hunter_escaped,89
+673634af-eec8-4838-ad73-18932ad5e49a,encounter,166,Volcanic Zone,2025-01-02 02:20:06,hunter_escaped,84
+67db1566-3c16-4a1a-8f32-93783b0463cc,boss_battle,274,Canyon,2025-02-16 22:10:11,hunter_defeated,43
+2a2918bd-5cd8-4204-a248-41e449293f87,danger,988,Jungle,2025-01-07 01:17:09,hunter_escaped,48
+0ed767f3-53dc-4109-afda-f70f3e374bf1,boss_battle,199,Savanna,2025-02-24 00:03:57,animal_fled,18
+b0ae1fa1-871b-4ac8-ad1d-5edc60347a5f,danger,974,Tundra,2025-02-24 18:12:47,hunter_escaped,82
+156a7173-c85f-4725-ab74-e760995fbb66,encounter,996,City Ruins,2025-03-09 06:02:30,animal_fled,35
+7877d240-08a9-4915-ae2a-1f7abda34074,danger,227,Savanna,2025-04-09 09:26:04,hunter_defeated,69
+56cdce44-c2d3-40d4-a7e5-1350fbb90c2e,boss_battle,725,Savanna,2025-03-27 21:16:05,hunter_defeated,61
+f2cb964e-a46d-458e-9868-7435dca01d8a,encounter,567,Volcanic Zone,2025-02-02 15:42:19,hunter_defeated,61
+9b703c6a-424c-4388-ad7e-d8ca4465f107,danger,177,Canyon,2025-02-06 07:13:17,hunter_defeated,36
+ddf18bef-a59c-45f7-9082-3c066a96aec8,boss_battle,432,Swamp,2025-03-14 13:25:18,hunter_escaped,74
+9e500b04-6053-4d89-bb04-bafb15d3e245,danger,7,Jungle,2025-03-09 05:36:12,hunter_defeated,91
+a5b2f280-e54f-4ff6-88e9-e8a9b57837a6,encounter,770,Volcanic Zone,2025-02-13 09:25:49,hunter_escaped,29
+1fc41502-a9e5-4014-8bfb-6426073d498b,encounter,960,Savanna,2025-02-21 21:21:50,hunter_defeated,54
+f5fc8bf3-8fb9-43a1-8077-381f51c61707,encounter,4,City Ruins,2025-03-21 06:18:05,animal_fled,24
+b154fa4e-2709-4b7d-9109-c9c751a4103f,encounter,910,Desert,2025-03-31 11:04:14,animal_fled,53
+a302985a-6b2b-4a2f-8acd-c07899cf74d9,encounter,273,Mountains,2025-03-12 22:59:14,animal_fled,21
+84c85c6b-51f1-40eb-b5e5-1ff8867bbbc0,danger,699,Canyon,2025-01-24 06:55:27,hunter_escaped,47
+36e76299-c44f-487e-a2ae-186d1daf59e8,encounter,310,Jungle,2025-02-06 09:09:52,hunter_escaped,40
+ecef1868-e366-4da6-86b1-1df326a4170e,encounter,364,Tundra,2025-03-24 19:33:53,hunter_escaped,48
+a717119b-1475-4d3a-875b-273ab46a300c,encounter,64,Savanna,2025-04-14 00:22:33,animal_fled,20
+6b102c3c-bf5c-4416-9d60-936de721d35b,boss_battle,170,Mountains,2025-01-14 01:44:23,hunter_escaped,35
+bca3a36a-7c00-435c-94e1-3004c60da0b1,encounter,740,City Ruins,2025-02-12 01:09:24,animal_fled,65
+777c8b32-fc8f-4b96-bf83-d66603cb13d4,encounter,559,City Ruins,2025-02-10 11:17:54,animal_fled,50
+964dd89b-ef26-4d2f-bbca-e5db9a431b2b,encounter,11,Forest,2025-03-01 12:40:55,hunter_escaped,89
+ff54c8db-946c-4cad-abc1-adf5ac62e068,encounter,845,Swamp,2025-04-18 13:36:47,animal_fled,87
+7e793b71-14dd-467c-8925-329b296afedf,encounter,237,Volcanic Zone,2025-03-21 07:51:42,hunter_escaped,96
+6e6375d2-70ec-40c5-b47e-b432074214e6,danger,368,City Ruins,2025-02-10 12:28:45,hunter_escaped,93
+a7c5542e-b5d0-4ce0-ab93-5e3edd21e988,danger,870,Jungle,2025-01-17 21:51:23,hunter_defeated,70
+8a9504a3-2d3d-4be1-b0c4-28abdfa27692,danger,275,Swamp,2025-03-30 08:04:40,hunter_escaped,82
+952576dc-611d-48c2-8bcf-31bfd644182f,danger,804,Desert,2025-03-12 04:02:35,hunter_escaped,23
+eb6754a3-aafb-49ab-86bf-cfa739e00150,danger,289,Swamp,2025-02-03 06:34:04,hunter_defeated,37
+7f4ab15d-2b9b-47bf-87ae-2f3f0ff2998a,encounter,279,Savanna,2025-01-18 02:21:12,animal_fled,90
+46cdb72e-cfea-400b-852d-f3c09c2f0851,encounter,833,Mountains,2025-03-16 21:59:36,hunter_escaped,17
+8da6781b-fddb-459f-99bf-8b2ea003dc57,danger,532,Volcanic Zone,2025-01-07 16:46:46,animal_fled,46
+21aab603-abe0-45b0-ade8-4194c9386cca,encounter,607,Canyon,2025-04-17 20:39:53,hunter_defeated,39
+fa457972-7836-4087-813a-9deb90f02f11,encounter,56,Tundra,2025-02-20 11:42:41,hunter_defeated,41
+aed29567-1c3c-4b44-bacb-2a8899d3f954,boss_battle,101,Desert,2025-03-05 06:12:55,hunter_escaped,76
+df8d098a-48d3-4025-80fe-9b28ad6174bb,encounter,450,Mountains,2025-01-17 11:36:13,hunter_escaped,76
+384b1506-cfa0-4b86-9cac-3ce0151d0f49,boss_battle,553,Jungle,2025-04-17 07:23:40,hunter_escaped,61
+25233540-eef1-46e4-8747-f8013c51ab0d,boss_battle,461,City Ruins,2025-01-27 10:13:33,hunter_escaped,63
+7a22c7c2-7b3e-47c0-89a4-fb2c1a012794,encounter,802,Canyon,2025-01-11 19:34:29,hunter_defeated,35
+8e78627f-e4d8-4935-ae2d-51ac45ae565c,danger,987,Volcanic Zone,2025-02-06 04:57:39,hunter_defeated,65
+5774e175-cdbe-4e9a-8e67-d637e75ccd15,encounter,8,Volcanic Zone,2025-02-23 21:49:46,hunter_escaped,99
+e825d56d-45ad-427e-b66c-5bad32d978d9,boss_battle,421,Forest,2025-03-19 10:35:53,hunter_defeated,26
+dc9332da-8697-4206-b709-fbfc7da5b176,danger,802,Savanna,2025-04-11 23:57:17,animal_fled,22
+da90f9bd-da21-4cae-9b06-bf8af9ed612e,encounter,478,City Ruins,2025-01-12 01:44:09,animal_fled,28
+69932f45-eeed-43b0-bdb8-d0f46d2d6347,boss_battle,347,Savanna,2025-01-07 17:11:12,animal_fled,91
+ed9cbe7c-b2ef-48bb-b1c6-2a3d2c86bad6,danger,967,Jungle,2025-04-05 22:24:38,hunter_defeated,81
+4bb4200c-da14-4f94-a714-168a16a40726,encounter,453,Desert,2025-03-06 21:57:39,hunter_escaped,80
+388c7869-8173-4827-8ed9-7dfc6c11ceb4,danger,389,Mountains,2025-02-21 07:20:41,hunter_defeated,65
+d661dcc7-1f61-4aea-9223-51f43377d8d4,boss_battle,476,Forest,2025-02-22 09:36:53,animal_fled,45
+3bb0e221-b1c6-42b3-9d8b-2e34810eb9e0,encounter,479,Tundra,2025-03-16 07:28:49,hunter_defeated,96
+a04b948a-4f1e-4d82-8449-316653d15fca,danger,478,Desert,2025-03-29 16:45:05,hunter_escaped,81
+6ddc1e64-afe6-4a3a-9a7e-8fc33b7a1ed6,encounter,972,Canyon,2025-01-27 11:48:20,hunter_escaped,33
+df6e1bd4-4a6b-4da6-86b5-9ac6b2c19a6a,danger,828,Mountains,2025-03-23 01:43:59,animal_fled,65
+eeea50ac-8005-4939-ba90-2aa3091406bc,danger,595,Canyon,2025-01-16 20:34:37,hunter_defeated,59
+2f0e0190-36bb-4394-9c2e-adc58050363b,boss_battle,558,Swamp,2025-04-14 06:25:11,animal_fled,93
+7c45f2f8-4053-4399-8940-bcf639cea9de,encounter,928,Desert,2025-03-11 08:23:21,animal_fled,48
+4b7d19ee-4422-4059-8741-9b2a1aefb408,boss_battle,402,Forest,2025-03-01 03:00:32,animal_fled,40
+dc988e9a-409c-4f08-b5fc-867921c1b608,encounter,664,Tundra,2025-01-16 09:04:36,animal_fled,96
+1f02f8fb-7f27-4a30-adb6-d309142e93ff,danger,291,City Ruins,2025-03-02 15:11:08,animal_fled,42
+bfc03685-809d-476a-9aa5-7f6b596422e9,boss_battle,905,Jungle,2025-03-12 17:32:26,animal_fled,85
+d85b49bc-6f06-4966-b547-8ceb0955c239,encounter,684,Jungle,2025-03-21 06:48:58,hunter_defeated,87
+ace3a923-7719-488a-bcae-dbb4c20439bf,danger,201,Tundra,2025-02-10 19:26:05,hunter_escaped,40
+aec4893b-1184-4570-ae28-339c441fa974,encounter,978,Swamp,2025-04-07 04:37:38,hunter_escaped,53
+ea12748b-0e3e-48de-abd3-979dcddc163b,danger,843,Forest,2025-01-05 20:31:46,animal_fled,80
+ec40e455-4cfa-4c59-a43a-27438857181a,danger,547,Swamp,2025-03-24 01:03:34,animal_fled,81
+28a8b673-e4e3-40fd-9dfb-e13d830a978d,danger,48,Canyon,2025-01-09 20:00:36,hunter_escaped,87
+a81ad361-5114-43b0-bed6-2c26ac0610ed,encounter,99,Tundra,2025-01-13 18:38:47,animal_fled,26
+b9fb9183-2c85-4407-9a46-9e6e1d233e0c,boss_battle,578,Desert,2025-04-07 03:36:38,animal_fled,73
+2d3325b5-b87d-47ef-8527-3b9d3237edd1,danger,905,Savanna,2025-04-10 19:02:24,hunter_defeated,37
+6b76f132-5414-4719-b4a2-1727d33611c1,boss_battle,402,Desert,2025-01-27 00:46:56,hunter_defeated,78
+101666aa-5d00-4bc7-9b71-5bceebed8150,danger,100,Desert,2025-01-15 20:22:08,hunter_defeated,36
+112d3800-b20f-4300-ba36-0d7d9bd234bb,boss_battle,29,Jungle,2025-02-04 23:51:21,hunter_defeated,11
+714aa2ea-c405-42cf-995b-9e9a2bae33ce,boss_battle,475,Forest,2025-02-10 15:59:58,animal_fled,92
+27c8c277-ff3c-4d17-8312-9ccc8c3a22ee,encounter,716,Savanna,2025-01-30 07:56:04,hunter_defeated,66
+1777fc84-baa3-4482-a1d1-64869aa2868f,danger,180,Forest,2025-03-18 10:01:54,hunter_defeated,42
+1720c997-1792-46d5-a081-7676249bc84b,encounter,688,Desert,2025-02-06 15:11:46,hunter_defeated,65
+010b5a3f-8407-4334-8014-82c4ccdde605,danger,123,Jungle,2025-03-31 01:29:45,hunter_escaped,18
+6e9504db-6fd5-4b6d-9c21-0de308ed31ea,encounter,315,Tundra,2025-02-24 23:06:37,hunter_escaped,36
+e1fb7b31-6551-4db6-aa9c-809e4725a2ee,encounter,103,Forest,2025-02-20 04:42:16,hunter_defeated,39
+19b48454-5c0f-4967-88f8-f2921f47748f,encounter,758,Mountains,2025-01-20 02:48:46,animal_fled,81
+36f4f3dd-9be9-487b-8b95-ca5c7bf02ecb,boss_battle,598,Forest,2025-04-06 19:23:45,hunter_defeated,79
+ad23db46-52e0-4873-bc6b-0f651b64a1f5,encounter,57,Tundra,2025-01-17 02:04:26,hunter_defeated,81
+29e9444a-b9fa-4951-bd9b-d1b3dca3bf1f,boss_battle,243,Desert,2025-03-21 09:18:45,hunter_escaped,29
+6875b4f8-516c-4ee7-97d2-0681d76595e0,encounter,284,Swamp,2025-01-08 21:44:39,animal_fled,40
+88093dd9-1f49-4082-b7cc-fcf2acba090a,boss_battle,365,Forest,2025-02-18 20:36:29,animal_fled,97
+25b177ec-880c-42c9-9700-7ce0db4713a3,danger,643,Canyon,2025-04-03 02:31:31,animal_fled,74
+6c333c3f-832e-445c-a30f-eba50bd610d0,encounter,866,Volcanic Zone,2025-03-06 16:49:07,hunter_escaped,85
+38229c69-43b4-46cd-8add-3f84c2e596a1,encounter,693,Desert,2025-01-28 21:53:36,hunter_defeated,35
+c7604269-c7a2-427f-a490-ea8ace675aff,boss_battle,996,Desert,2025-04-04 13:52:11,hunter_escaped,44
+2344cc43-9d62-4f89-b7a2-d26654750c1f,danger,501,Canyon,2025-03-17 17:52:42,hunter_escaped,45
+28243020-a24f-47f1-8d65-cae13a91aa70,encounter,327,Mountains,2025-03-31 06:42:10,hunter_defeated,13
+44a6f7d8-37d0-4e34-9e0f-9619e11e3f5b,encounter,808,Canyon,2025-01-06 03:13:08,animal_fled,97
+652fae6f-29f3-455d-b78c-add776261171,encounter,517,Canyon,2025-04-16 12:49:43,animal_fled,62
+c9b2fd35-97f3-4d05-b466-4139c980ec06,danger,830,Savanna,2025-02-27 10:08:01,hunter_defeated,71
+7290c148-821b-408f-894e-6ddfae7adc46,boss_battle,200,Desert,2025-01-01 12:56:30,animal_fled,28
+febf2104-f586-4a52-a053-f58bc135f407,boss_battle,471,Forest,2025-03-16 05:04:52,hunter_escaped,96
+5a15ef44-491c-4219-9df6-451da77456e4,boss_battle,119,Desert,2025-02-28 09:03:53,animal_fled,28
+7ca49257-98e5-4ed6-94d6-1d5c431aa1a2,encounter,222,Jungle,2025-02-02 11:13:24,hunter_escaped,95
+f15e2d0e-1444-4eca-b50a-86d061199384,encounter,554,Volcanic Zone,2025-01-11 12:47:32,hunter_escaped,48
+c162482a-c731-4c4b-aaa5-749f2361983d,danger,579,Jungle,2025-01-06 10:41:14,animal_fled,90
+86c8b727-75ae-4594-acd1-75444fe1a3ec,encounter,530,City Ruins,2025-01-04 01:45:59,animal_fled,91
+b77379ac-7b9a-4ba2-957e-c02b28a080d4,encounter,320,Forest,2025-01-13 14:25:16,hunter_defeated,71
+63e10c67-eb5f-4961-a61a-97b2fad57220,danger,936,Canyon,2025-03-01 14:58:18,animal_fled,55
+ab2e6363-8093-4d2a-981f-7797df9919db,danger,196,Swamp,2025-01-28 19:24:45,animal_fled,33
+b625ba58-e795-4dfa-bc5a-933d0468ccb0,danger,819,Swamp,2025-02-02 08:10:12,animal_fled,56
+7d8573f2-c0de-4418-a37d-246c34880e94,danger,840,Forest,2025-04-10 08:27:33,hunter_escaped,49
+4efa2bb4-ac2a-4613-8b5c-ee191e600a83,danger,642,Canyon,2025-04-08 10:34:12,hunter_defeated,95
+b492efe6-f84c-40ca-a7d4-75e65d3ce3c0,danger,153,Volcanic Zone,2025-03-27 03:40:29,hunter_escaped,67
+d0aebf4b-8503-4dfc-9637-9bd1f948a5f6,danger,59,Tundra,2025-03-27 20:55:45,hunter_escaped,35
+a8134844-8dcf-4a81-b08e-6a0e7da90342,danger,931,City Ruins,2025-03-15 23:01:36,hunter_escaped,24
+f9f17093-d148-4b84-add8-fae50c0a3239,boss_battle,130,Savanna,2025-01-28 08:45:24,hunter_escaped,98
+5040156c-ee3e-4f06-9b4b-3df5aaf80520,danger,240,City Ruins,2025-04-05 18:34:53,hunter_escaped,24
+d9bed94d-7455-4b49-9031-f98dde13ef62,boss_battle,616,City Ruins,2025-01-02 08:33:32,animal_fled,53
+945fe560-a428-4c88-821a-933cc3a28f2f,danger,858,Desert,2025-03-28 04:53:18,animal_fled,44
+19137f08-791c-44e9-b643-3af2273026ef,boss_battle,700,Canyon,2025-04-13 04:02:52,animal_fled,64
+ad134f74-5faa-437b-917d-9baf46f2859e,danger,741,City Ruins,2025-02-21 05:46:45,animal_fled,37
+cb3339fc-7c40-4204-abb5-950cbe55d956,boss_battle,196,Volcanic Zone,2025-03-26 16:51:53,hunter_escaped,50
+18479bea-c12c-4647-a7d3-4ef86638c395,encounter,293,Swamp,2025-04-02 16:11:58,hunter_defeated,94
+da59f8bf-490b-4fd0-8b8f-672a7a928b76,encounter,194,City Ruins,2025-02-11 10:33:24,hunter_escaped,86
+1fa718d8-8ac1-497e-af70-2bfab0c86db2,encounter,494,Desert,2025-04-10 21:31:15,hunter_escaped,42
+b9bcdb6b-f957-4f68-82f4-e9b87c9d336d,boss_battle,204,City Ruins,2025-01-06 06:08:54,hunter_escaped,79
+8cd95981-09d3-4db1-a0b2-d9db67e7d72c,danger,634,Tundra,2025-01-28 22:14:01,hunter_defeated,46
+6c93e7ee-1bd9-469a-9b56-cdcd1418edb7,danger,197,Volcanic Zone,2025-02-13 17:53:41,hunter_defeated,72
+b8971c86-10de-438f-be51-bdd2bedde61d,boss_battle,926,Tundra,2025-03-29 20:35:58,animal_fled,40
+0c7f5c83-d009-4663-baf1-d980de664c99,encounter,257,Canyon,2025-01-15 14:16:42,animal_fled,39
+ffc017d2-3491-4d35-add0-43947cf0c683,boss_battle,283,Tundra,2025-03-22 19:33:09,hunter_escaped,92
+3801779f-56a3-4b76-9b0c-2a1ce4d7d164,encounter,157,Mountains,2025-03-09 15:26:47,animal_fled,92
+d22f3531-cc95-4e4d-9c8c-798edcea5ccd,encounter,264,Volcanic Zone,2025-02-14 20:38:31,hunter_escaped,39
+9b20ecd9-e054-43ec-9a6c-17268ff9d3d7,boss_battle,859,Jungle,2025-01-23 21:18:55,hunter_escaped,42
+3f31f980-6f80-4a72-80b1-c95f782dd424,boss_battle,71,Forest,2025-03-07 01:58:54,animal_fled,89
+993fe4f9-6db4-465d-8be9-8dfc3e53f5be,encounter,707,City Ruins,2025-03-07 23:03:17,animal_fled,44
+b0199494-4c14-4650-9242-a83070fcc97f,encounter,156,Canyon,2025-03-16 05:48:03,hunter_escaped,22
+902f0e78-527f-4166-8534-283270141cb1,danger,206,Swamp,2025-02-24 13:29:01,animal_fled,24
+e2e209cf-bc8b-4c15-83bf-b18ee4a0c70f,encounter,66,Mountains,2025-03-28 00:03:24,hunter_defeated,28
+75629824-4c6a-411e-aa92-3264ff2a3084,danger,479,Volcanic Zone,2025-03-05 22:40:04,hunter_escaped,67
+771cbe5a-2305-48c4-8000-7b22e38d7fbf,encounter,360,Desert,2025-04-04 14:07:45,hunter_defeated,20
+fe643325-2b73-459a-a657-6327829e70ad,boss_battle,82,Forest,2025-01-05 05:50:39,animal_fled,57
+c587f7af-89c0-4462-8b42-675ff8231762,danger,291,Volcanic Zone,2025-03-14 08:25:42,hunter_escaped,38
+79fe4288-f3c4-49d8-aa2b-8c65396f3b29,danger,856,Jungle,2025-03-11 14:38:07,animal_fled,32
+669adcc8-78e6-48a1-b8a2-54ea414bc914,danger,348,Canyon,2025-02-09 09:01:25,hunter_escaped,37
+e7d0473c-4944-4154-a3c1-d77b571b4412,danger,776,Desert,2025-01-31 14:44:09,hunter_defeated,88
+c6dee9c7-0fbe-49e7-925b-a617bef71012,danger,268,Swamp,2025-02-07 11:07:34,hunter_escaped,87
+742bf059-de2c-426b-9786-cee4a0f089be,boss_battle,15,Tundra,2025-02-09 17:09:40,animal_fled,34
