@@ -89,6 +89,21 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 ✅ Status: Master data combined and cleaned
 
 
+## Day 13: Added Hunter Progress Simulation
+
+- Developed `hunter_progress.py` script to simulate and track hunter progress.
+  - Tracks terrain exploration, animals hunted, experience points, money, and fame.
+  - Data saved in `hunter_progress.csv`.
+- Integrated with the overall game data pipeline.
+
+### Files updated:
+- `pipeline/hunter_progress.py`
+- `data/hunter_progress.csv` (generated after running the script)
+
+Next steps:
+- Use the hunter progress data for analysis and integrate with the ETL pipeline.
+
+
 ## 🚀 Coming Next
 - Generate and visualize detailed dashboards and reports based on collected data.
 - Use AWS QuickSight for analysis and reporting.
