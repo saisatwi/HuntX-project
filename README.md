@@ -56,15 +56,20 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 - **Saved the data** into `realms.csv` and `travel_logs.csv` in the `data/processed/` folder.
 - **Simulated travel events** for hunters to test the data generation.
 
+### ✅ Day 9 – Universal Travel Key & Realm Shifting
+- Simulated the usage of the **Universal Travel Key** to shift the hunter between realms.
+- Created `universal_travel_log.csv` to track travel events with columns: hunter_id, travel_id, from_realm, to_realm, and timestamp.
+- Wrote `generate_universal_travel_log.py` to generate random travel events for 1000 hunters.
+- Integrated realm shifting data into the project.
+
 ---
 
 ## 🚀 Coming Next
-- Introduce the **Universal Travel Key** (realm shifting).
-- Generate **hunter stats** (XP, health, kills, fame).
-- Add **voice assistant** (mother AI tracking vitals).
-- Simulate **event logs** and **rare encounters**.
+- Introduce **rare encounters** during travel between realms.
+- Track **hunter vitals** like health, heart rate, and calories burned during travel.
+- Simulate **AI assistance** for hunters during travel.
 
----
+
 
 ## 🧠 Story Element
 The hunter is guided by his AI bike and a voice assistant (based on his mother) through dangerous realms. One day, he discovers a mysterious **Universal Travel Key** that sends him into unknown worlds—opening the gateway for advanced data scenarios and visual storytelling.
