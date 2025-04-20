@@ -1,0 +1,1001 @@
+terrain_id,terrain_type,difficulty
+T0001,Forest,15
+T0002,Swamp,28
+T0003,Canyon,12
+T0004,Canyon,45
+T0005,City Ruins,47
+T0006,City Ruins,9
+T0007,Jungle,14
+T0008,Desert,3
+T0009,Desert,31
+T0010,Swamp,45
+T0011,Forest,6
+T0012,Jungle,36
+T0013,Tundra,41
+T0014,Desert,18
+T0015,Tundra,34
+T0016,Mountains,30
+T0017,City Ruins,11
+T0018,Tundra,50
+T0019,Mountains,26
+T0020,Savanna,1
+T0021,Savanna,4
+T0022,City Ruins,14
+T0023,Desert,25
+T0024,Tundra,39
+T0025,Savanna,19
+T0026,Tundra,50
+T0027,Savanna,16
+T0028,Desert,45
+T0029,Jungle,37
+T0030,City Ruins,32
+T0031,Forest,26
+T0032,Canyon,36
+T0033,Jungle,1
+T0034,Volcanic Zone,8
+T0035,Forest,5
+T0036,Savanna,42
+T0037,Tundra,39
+T0038,Savanna,26
+T0039,Tundra,41
+T0040,Canyon,27
+T0041,Forest,23
+T0042,Savanna,12
+T0043,Volcanic Zone,24
+T0044,Tundra,15
+T0045,Canyon,21
+T0046,Tundra,44
+T0047,Savanna,29
+T0048,Forest,6
+T0049,Volcanic Zone,48
+T0050,Volcanic Zone,16
+T0051,Swamp,19
+T0052,Mountains,19
+T0053,Forest,49
+T0054,Swamp,27
+T0055,Jungle,21
+T0056,Forest,24
+T0057,Desert,25
+T0058,Canyon,21
+T0059,Tundra,12
+T0060,Savanna,26
+T0061,Mountains,18
+T0062,Jungle,19
+T0063,Swamp,29
+T0064,Swamp,36
+T0065,City Ruins,46
+T0066,Canyon,13
+T0067,Forest,27
+T0068,Canyon,9
+T0069,Volcanic Zone,13
+T0070,Canyon,29
+T0071,Canyon,11
+T0072,Jungle,8
+T0073,Swamp,34
+T0074,Volcanic Zone,16
+T0075,Jungle,1
+T0076,Swamp,48
+T0077,Savanna,28
+T0078,Savanna,3
+T0079,Jungle,1
+T0080,Swamp,10
+T0081,Jungle,9
+T0082,Mountains,40
+T0083,Jungle,27
+T0084,Canyon,44
+T0085,Swamp,25
+T0086,Jungle,34
+T0087,Mountains,8
+T0088,Volcanic Zone,17
+T0089,Swamp,50
+T0090,Desert,12
+T0091,Savanna,36
+T0092,City Ruins,15
+T0093,Mountains,37
+T0094,Desert,44
+T0095,Desert,13
+T0096,Forest,15
+T0097,Swamp,36
+T0098,Volcanic Zone,31
+T0099,Forest,14
+T0100,Swamp,48
+T0101,Jungle,26
+T0102,Jungle,49
+T0103,Savanna,21
+T0104,Savanna,47
+T0105,Swamp,26
+T0106,Savanna,7
+T0107,Jungle,3
+T0108,Volcanic Zone,5
+T0109,Jungle,37
+T0110,City Ruins,14
+T0111,Swamp,34
+T0112,Savanna,38
+T0113,Canyon,13
+T0114,Forest,3
+T0115,Savanna,14
+T0116,Forest,37
+T0117,Canyon,37
+T0118,Swamp,8
+T0119,Mountains,12
+T0120,Canyon,35
+T0121,Tundra,45
+T0122,Forest,43
+T0123,City Ruins,44
+T0124,Swamp,19
+T0125,Forest,43
+T0126,Savanna,1
+T0127,Swamp,32
+T0128,Desert,7
+T0129,Jungle,32
+T0130,Forest,3
+T0131,Desert,47
+T0132,Mountains,17
+T0133,Volcanic Zone,21
+T0134,Canyon,39
+T0135,Swamp,32
+T0136,Tundra,30
+T0137,Canyon,29
+T0138,Tundra,39
+T0139,Tundra,6
+T0140,Forest,35
+T0141,Tundra,5
+T0142,Canyon,26
+T0143,Jungle,23
+T0144,Savanna,11
+T0145,Volcanic Zone,19
+T0146,Jungle,48
+T0147,City Ruins,27
+T0148,Swamp,25
+T0149,Jungle,20
+T0150,Forest,40
+T0151,Jungle,18
+T0152,Volcanic Zone,8
+T0153,Canyon,11
+T0154,Swamp,3
+T0155,Tundra,19
+T0156,Savanna,20
+T0157,Swamp,24
+T0158,Jungle,3
+T0159,Canyon,50
+T0160,Jungle,23
+T0161,Mountains,8
+T0162,Volcanic Zone,39
+T0163,City Ruins,41
+T0164,Savanna,21
+T0165,Canyon,40
+T0166,Canyon,21
+T0167,Tundra,34
+T0168,City Ruins,41
+T0169,Jungle,23
+T0170,Savanna,15
+T0171,City Ruins,20
+T0172,Swamp,10
+T0173,Volcanic Zone,33
+T0174,Tundra,4
+T0175,Mountains,6
+T0176,Swamp,23
+T0177,Swamp,29
+T0178,Canyon,44
+T0179,Desert,22
+T0180,Forest,4
+T0181,Mountains,46
+T0182,Canyon,10
+T0183,Jungle,8
+T0184,Tundra,50
+T0185,City Ruins,19
+T0186,Forest,28
+T0187,Tundra,36
+T0188,City Ruins,38
+T0189,Forest,6
+T0190,Tundra,25
+T0191,City Ruins,21
+T0192,Tundra,45
+T0193,Desert,27
+T0194,Savanna,3
+T0195,Mountains,40
+T0196,City Ruins,19
+T0197,Volcanic Zone,39
+T0198,Jungle,39
+T0199,Volcanic Zone,15
+T0200,Mountains,30
+T0201,Canyon,43
+T0202,Jungle,47
+T0203,Volcanic Zone,26
+T0204,Forest,9
+T0205,Forest,2
+T0206,Desert,18
+T0207,Savanna,28
+T0208,Swamp,41
+T0209,Savanna,27
+T0210,Tundra,34
+T0211,City Ruins,47
+T0212,Canyon,29
+T0213,Mountains,32
+T0214,Tundra,21
+T0215,Swamp,3
+T0216,Desert,17
+T0217,Tundra,32
+T0218,Mountains,31
+T0219,Forest,44
+T0220,Volcanic Zone,28
+T0221,Volcanic Zone,9
+T0222,Swamp,13
+T0223,Canyon,12
+T0224,Swamp,44
+T0225,Forest,31
+T0226,Swamp,28
+T0227,Desert,39
+T0228,Desert,19
+T0229,Volcanic Zone,14
+T0230,City Ruins,22
+T0231,Savanna,39
+T0232,Desert,9
+T0233,Forest,31
+T0234,Desert,23
+T0235,Swamp,9
+T0236,Volcanic Zone,24
+T0237,Tundra,6
+T0238,Canyon,45
+T0239,Mountains,32
+T0240,Jungle,16
+T0241,City Ruins,22
+T0242,Tundra,16
+T0243,Desert,24
+T0244,Savanna,11
+T0245,Canyon,13
+T0246,City Ruins,4
+T0247,City Ruins,43
+T0248,Volcanic Zone,21
+T0249,Savanna,8
+T0250,Tundra,26
+T0251,Tundra,16
+T0252,City Ruins,20
+T0253,City Ruins,38
+T0254,Savanna,39
+T0255,Savanna,19
+T0256,City Ruins,4
+T0257,Volcanic Zone,22
+T0258,Canyon,1
+T0259,Forest,8
+T0260,Canyon,6
+T0261,City Ruins,16
+T0262,Savanna,22
+T0263,Jungle,21
+T0264,Desert,38
+T0265,Tundra,21
+T0266,Volcanic Zone,9
+T0267,Savanna,5
+T0268,Forest,47
+T0269,Mountains,21
+T0270,Mountains,27
+T0271,Desert,26
+T0272,Jungle,9
+T0273,Tundra,7
+T0274,Forest,8
+T0275,Desert,38
+T0276,Volcanic Zone,25
+T0277,City Ruins,29
+T0278,Mountains,18
+T0279,City Ruins,14
+T0280,Tundra,33
+T0281,Swamp,41
+T0282,Jungle,15
+T0283,Jungle,13
+T0284,Desert,1
+T0285,Canyon,40
+T0286,Desert,46
+T0287,Mountains,24
+T0288,Desert,32
+T0289,Desert,6
+T0290,City Ruins,36
+T0291,Mountains,12
+T0292,Mountains,14
+T0293,Volcanic Zone,12
+T0294,Forest,8
+T0295,Mountains,47
+T0296,Swamp,43
+T0297,Jungle,50
+T0298,Canyon,13
+T0299,Forest,43
+T0300,Jungle,14
+T0301,Forest,50
+T0302,Mountains,16
+T0303,Volcanic Zone,47
+T0304,Mountains,39
+T0305,Jungle,6
+T0306,Volcanic Zone,12
+T0307,City Ruins,35
+T0308,Volcanic Zone,9
+T0309,Jungle,18
+T0310,Tundra,11
+T0311,Swamp,34
+T0312,Desert,9
+T0313,Swamp,38
+T0314,Swamp,29
+T0315,Volcanic Zone,28
+T0316,Jungle,17
+T0317,Canyon,14
+T0318,Tundra,46
+T0319,Savanna,50
+T0320,Jungle,19
+T0321,Forest,20
+T0322,Tundra,21
+T0323,Volcanic Zone,29
+T0324,Savanna,50
+T0325,Volcanic Zone,25
+T0326,Canyon,43
+T0327,Swamp,25
+T0328,Savanna,14
+T0329,City Ruins,44
+T0330,Volcanic Zone,3
+T0331,Tundra,31
+T0332,Canyon,2
+T0333,Tundra,35
+T0334,Forest,9
+T0335,Mountains,25
+T0336,Tundra,34
+T0337,Tundra,35
+T0338,Mountains,4
+T0339,Jungle,16
+T0340,Jungle,34
+T0341,Canyon,46
+T0342,Canyon,7
+T0343,Savanna,12
+T0344,City Ruins,17
+T0345,Volcanic Zone,21
+T0346,Mountains,1
+T0347,Savanna,9
+T0348,Swamp,42
+T0349,City Ruins,47
+T0350,Desert,41
+T0351,Jungle,9
+T0352,Swamp,24
+T0353,Savanna,12
+T0354,Desert,1
+T0355,Mountains,5
+T0356,City Ruins,48
+T0357,Volcanic Zone,38
+T0358,Volcanic Zone,8
+T0359,Mountains,38
+T0360,Jungle,44
+T0361,Forest,27
+T0362,Swamp,19
+T0363,Forest,37
+T0364,Savanna,11
+T0365,Canyon,32
+T0366,Tundra,43
+T0367,Canyon,1
+T0368,Forest,33
+T0369,Volcanic Zone,38
+T0370,Desert,48
+T0371,Swamp,42
+T0372,Mountains,50
+T0373,Savanna,32
+T0374,Mountains,25
+T0375,Tundra,18
+T0376,Canyon,28
+T0377,Canyon,43
+T0378,Swamp,39
+T0379,Canyon,45
+T0380,Jungle,23
+T0381,Mountains,35
+T0382,Swamp,40
+T0383,Savanna,3
+T0384,Desert,36
+T0385,Mountains,25
+T0386,Mountains,6
+T0387,Canyon,23
+T0388,Canyon,35
+T0389,Savanna,9
+T0390,City Ruins,44
+T0391,Tundra,10
+T0392,Forest,26
+T0393,Desert,16
+T0394,Swamp,9
+T0395,Canyon,24
+T0396,Mountains,43
+T0397,Mountains,26
+T0398,Canyon,39
+T0399,Mountains,21
+T0400,Volcanic Zone,22
+T0401,Canyon,49
+T0402,Desert,11
+T0403,Mountains,24
+T0404,City Ruins,29
+T0405,Canyon,6
+T0406,Desert,7
+T0407,Swamp,24
+T0408,Volcanic Zone,16
+T0409,Forest,16
+T0410,Canyon,50
+T0411,Swamp,16
+T0412,Volcanic Zone,23
+T0413,Tundra,50
+T0414,Forest,42
+T0415,Jungle,41
+T0416,Savanna,38
+T0417,Volcanic Zone,38
+T0418,Forest,50
+T0419,Forest,31
+T0420,Mountains,16
+T0421,Volcanic Zone,45
+T0422,Desert,2
+T0423,Mountains,34
+T0424,Forest,19
+T0425,Volcanic Zone,39
+T0426,Mountains,6
+T0427,Desert,31
+T0428,Tundra,27
+T0429,Canyon,50
+T0430,Tundra,16
+T0431,Canyon,18
+T0432,Swamp,2
+T0433,Desert,11
+T0434,Swamp,1
+T0435,City Ruins,5
+T0436,Tundra,21
+T0437,Swamp,9
+T0438,Forest,9
+T0439,Desert,22
+T0440,Swamp,20
+T0441,Savanna,17
+T0442,Volcanic Zone,23
+T0443,Savanna,3
+T0444,Tundra,32
+T0445,Jungle,24
+T0446,City Ruins,20
+T0447,Forest,48
+T0448,Forest,30
+T0449,City Ruins,22
+T0450,Tundra,17
+T0451,Volcanic Zone,43
+T0452,City Ruins,17
+T0453,Jungle,25
+T0454,Jungle,34
+T0455,Volcanic Zone,21
+T0456,Desert,45
+T0457,Savanna,8
+T0458,Swamp,13
+T0459,Jungle,17
+T0460,Tundra,33
+T0461,City Ruins,48
+T0462,Desert,22
+T0463,Savanna,27
+T0464,Canyon,22
+T0465,Forest,17
+T0466,Mountains,49
+T0467,Canyon,11
+T0468,City Ruins,35
+T0469,Tundra,39
+T0470,Desert,28
+T0471,Forest,18
+T0472,Volcanic Zone,4
+T0473,Mountains,31
+T0474,Tundra,10
+T0475,Savanna,2
+T0476,Savanna,38
+T0477,Desert,34
+T0478,Jungle,27
+T0479,Volcanic Zone,16
+T0480,Tundra,30
+T0481,Desert,38
+T0482,Canyon,8
+T0483,Mountains,41
+T0484,City Ruins,12
+T0485,City Ruins,29
+T0486,Savanna,46
+T0487,Tundra,45
+T0488,City Ruins,3
+T0489,City Ruins,21
+T0490,Savanna,37
+T0491,Tundra,31
+T0492,Canyon,42
+T0493,Savanna,43
+T0494,Canyon,36
+T0495,Savanna,41
+T0496,Swamp,40
+T0497,Mountains,46
+T0498,Swamp,34
+T0499,Savanna,4
+T0500,Swamp,27
+T0501,Desert,17
+T0502,City Ruins,45
+T0503,City Ruins,39
+T0504,City Ruins,45
+T0505,Jungle,11
+T0506,Mountains,39
+T0507,City Ruins,21
+T0508,Swamp,25
+T0509,Savanna,16
+T0510,Forest,31
+T0511,Volcanic Zone,19
+T0512,Desert,13
+T0513,Forest,4
+T0514,Desert,27
+T0515,Volcanic Zone,24
+T0516,Swamp,22
+T0517,Savanna,25
+T0518,Swamp,50
+T0519,Tundra,34
+T0520,Canyon,41
+T0521,Swamp,46
+T0522,Canyon,38
+T0523,Forest,17
+T0524,Canyon,11
+T0525,Mountains,47
+T0526,Canyon,14
+T0527,Forest,7
+T0528,Desert,35
+T0529,Jungle,42
+T0530,Tundra,6
+T0531,Volcanic Zone,6
+T0532,Swamp,15
+T0533,Canyon,28
+T0534,Volcanic Zone,19
+T0535,Desert,3
+T0536,Desert,37
+T0537,Mountains,30
+T0538,Desert,25
+T0539,Tundra,43
+T0540,Swamp,45
+T0541,Jungle,41
+T0542,Tundra,15
+T0543,Canyon,32
+T0544,Swamp,15
+T0545,City Ruins,32
+T0546,Desert,10
+T0547,Forest,29
+T0548,Volcanic Zone,18
+T0549,Volcanic Zone,42
+T0550,Forest,39
+T0551,Mountains,29
+T0552,Volcanic Zone,28
+T0553,Canyon,37
+T0554,Volcanic Zone,29
+T0555,Mountains,46
+T0556,Savanna,16
+T0557,Tundra,5
+T0558,Swamp,1
+T0559,Canyon,17
+T0560,City Ruins,1
+T0561,City Ruins,14
+T0562,Canyon,20
+T0563,Desert,50
+T0564,City Ruins,10
+T0565,Savanna,5
+T0566,Canyon,35
+T0567,City Ruins,35
+T0568,Mountains,7
+T0569,City Ruins,39
+T0570,City Ruins,2
+T0571,City Ruins,15
+T0572,Jungle,24
+T0573,Jungle,23
+T0574,Desert,40
+T0575,Forest,29
+T0576,Savanna,24
+T0577,Savanna,33
+T0578,Mountains,28
+T0579,Desert,12
+T0580,Forest,29
+T0581,Desert,27
+T0582,Jungle,26
+T0583,Jungle,2
+T0584,Volcanic Zone,24
+T0585,City Ruins,22
+T0586,Tundra,2
+T0587,Savanna,15
+T0588,Jungle,22
+T0589,Desert,50
+T0590,Desert,3
+T0591,Forest,7
+T0592,Forest,46
+T0593,Mountains,1
+T0594,Desert,50
+T0595,Jungle,29
+T0596,Forest,36
+T0597,Swamp,49
+T0598,Tundra,50
+T0599,Swamp,27
+T0600,Desert,10
+T0601,Forest,14
+T0602,Forest,17
+T0603,Jungle,8
+T0604,Tundra,34
+T0605,Canyon,33
+T0606,Savanna,17
+T0607,Forest,19
+T0608,City Ruins,34
+T0609,Tundra,22
+T0610,Mountains,28
+T0611,Canyon,27
+T0612,Swamp,42
+T0613,Jungle,39
+T0614,Forest,24
+T0615,Jungle,44
+T0616,Savanna,37
+T0617,Tundra,41
+T0618,Desert,15
+T0619,Savanna,11
+T0620,Tundra,34
+T0621,Volcanic Zone,36
+T0622,Volcanic Zone,36
+T0623,Volcanic Zone,18
+T0624,Swamp,35
+T0625,City Ruins,15
+T0626,Canyon,41
+T0627,Desert,44
+T0628,City Ruins,48
+T0629,Swamp,42
+T0630,Desert,46
+T0631,Forest,31
+T0632,Jungle,15
+T0633,Jungle,7
+T0634,Savanna,27
+T0635,Desert,5
+T0636,Swamp,20
+T0637,Desert,19
+T0638,Forest,16
+T0639,Tundra,16
+T0640,Jungle,40
+T0641,Swamp,50
+T0642,City Ruins,44
+T0643,Jungle,7
+T0644,Forest,32
+T0645,Mountains,4
+T0646,Swamp,36
+T0647,Jungle,13
+T0648,Tundra,19
+T0649,Swamp,7
+T0650,Canyon,28
+T0651,Mountains,37
+T0652,Desert,1
+T0653,Canyon,50
+T0654,Forest,36
+T0655,City Ruins,41
+T0656,Mountains,32
+T0657,Canyon,2
+T0658,Forest,38
+T0659,Canyon,46
+T0660,Volcanic Zone,43
+T0661,Tundra,34
+T0662,Desert,13
+T0663,City Ruins,37
+T0664,Swamp,14
+T0665,Mountains,13
+T0666,City Ruins,31
+T0667,Swamp,3
+T0668,Mountains,27
+T0669,City Ruins,46
+T0670,Swamp,29
+T0671,Savanna,9
+T0672,City Ruins,36
+T0673,Tundra,18
+T0674,Forest,46
+T0675,Volcanic Zone,8
+T0676,Volcanic Zone,40
+T0677,Canyon,3
+T0678,Canyon,21
+T0679,Swamp,32
+T0680,Savanna,27
+T0681,City Ruins,1
+T0682,Canyon,45
+T0683,City Ruins,4
+T0684,Volcanic Zone,35
+T0685,City Ruins,23
+T0686,Forest,38
+T0687,Volcanic Zone,9
+T0688,Swamp,15
+T0689,Tundra,48
+T0690,Tundra,30
+T0691,City Ruins,16
+T0692,Desert,33
+T0693,City Ruins,25
+T0694,Forest,27
+T0695,Forest,1
+T0696,City Ruins,16
+T0697,Jungle,12
+T0698,Savanna,28
+T0699,Mountains,30
+T0700,Desert,38
+T0701,Volcanic Zone,4
+T0702,Swamp,24
+T0703,Swamp,38
+T0704,City Ruins,29
+T0705,Tundra,41
+T0706,Swamp,43
+T0707,Desert,1
+T0708,Tundra,47
+T0709,Mountains,14
+T0710,Volcanic Zone,43
+T0711,Mountains,28
+T0712,Mountains,38
+T0713,Volcanic Zone,14
+T0714,Forest,5
+T0715,Savanna,39
+T0716,Tundra,21
+T0717,Mountains,24
+T0718,Tundra,30
+T0719,Tundra,27
+T0720,Canyon,21
+T0721,Volcanic Zone,37
+T0722,Mountains,18
+T0723,Savanna,25
+T0724,Mountains,2
+T0725,Volcanic Zone,49
+T0726,Volcanic Zone,44
+T0727,Canyon,13
+T0728,City Ruins,7
+T0729,Swamp,30
+T0730,Swamp,24
+T0731,Tundra,25
+T0732,Mountains,49
+T0733,Swamp,17
+T0734,Jungle,33
+T0735,City Ruins,32
+T0736,Desert,13
+T0737,Canyon,31
+T0738,Forest,48
+T0739,Jungle,48
+T0740,Mountains,40
+T0741,Savanna,2
+T0742,Forest,16
+T0743,Tundra,21
+T0744,Canyon,38
+T0745,Mountains,2
+T0746,Tundra,14
+T0747,Mountains,4
+T0748,Desert,27
+T0749,Volcanic Zone,44
+T0750,City Ruins,3
+T0751,Tundra,8
+T0752,Forest,37
+T0753,Swamp,27
+T0754,Mountains,6
+T0755,City Ruins,44
+T0756,Mountains,34
+T0757,Swamp,10
+T0758,Desert,14
+T0759,Desert,40
+T0760,Mountains,7
+T0761,Volcanic Zone,39
+T0762,Volcanic Zone,7
+T0763,Canyon,37
+T0764,Savanna,15
+T0765,Desert,24
+T0766,Mountains,40
+T0767,Tundra,15
+T0768,Savanna,17
+T0769,Swamp,38
+T0770,Desert,40
+T0771,Savanna,23
+T0772,Canyon,5
+T0773,Savanna,5
+T0774,Forest,43
+T0775,Jungle,49
+T0776,Jungle,9
+T0777,Forest,24
+T0778,Forest,2
+T0779,Mountains,22
+T0780,Savanna,19
+T0781,Tundra,37
+T0782,City Ruins,23
+T0783,Swamp,25
+T0784,Volcanic Zone,29
+T0785,Swamp,39
+T0786,Swamp,13
+T0787,City Ruins,27
+T0788,Canyon,12
+T0789,Savanna,25
+T0790,Mountains,12
+T0791,Volcanic Zone,12
+T0792,Canyon,15
+T0793,Volcanic Zone,31
+T0794,Forest,39
+T0795,Jungle,23
+T0796,Forest,2
+T0797,Volcanic Zone,46
+T0798,Canyon,6
+T0799,Volcanic Zone,30
+T0800,Savanna,12
+T0801,Swamp,6
+T0802,City Ruins,24
+T0803,Mountains,42
+T0804,Volcanic Zone,30
+T0805,Volcanic Zone,10
+T0806,Swamp,23
+T0807,Desert,5
+T0808,Canyon,33
+T0809,Tundra,49
+T0810,City Ruins,37
+T0811,Savanna,5
+T0812,Desert,26
+T0813,Canyon,46
+T0814,Desert,2
+T0815,Canyon,48
+T0816,Savanna,42
+T0817,Savanna,13
+T0818,Canyon,44
+T0819,Swamp,30
+T0820,City Ruins,3
+T0821,Desert,6
+T0822,Desert,5
+T0823,Mountains,35
+T0824,Forest,39
+T0825,Desert,22
+T0826,Volcanic Zone,35
+T0827,Desert,39
+T0828,Desert,39
+T0829,Jungle,42
+T0830,Forest,50
+T0831,Mountains,46
+T0832,Volcanic Zone,10
+T0833,Volcanic Zone,41
+T0834,City Ruins,24
+T0835,Desert,45
+T0836,Mountains,16
+T0837,Jungle,3
+T0838,Desert,4
+T0839,Volcanic Zone,18
+T0840,Canyon,28
+T0841,Volcanic Zone,48
+T0842,Volcanic Zone,10
+T0843,Desert,39
+T0844,Savanna,45
+T0845,Tundra,26
+T0846,Tundra,1
+T0847,Forest,31
+T0848,Forest,7
+T0849,Canyon,27
+T0850,Tundra,27
+T0851,Volcanic Zone,30
+T0852,Canyon,44
+T0853,Savanna,15
+T0854,Desert,46
+T0855,Jungle,37
+T0856,Jungle,22
+T0857,Tundra,14
+T0858,City Ruins,36
+T0859,Volcanic Zone,50
+T0860,Tundra,16
+T0861,Mountains,5
+T0862,Forest,11
+T0863,Desert,7
+T0864,Mountains,35
+T0865,Desert,45
+T0866,Volcanic Zone,13
+T0867,Jungle,19
+T0868,Savanna,23
+T0869,Desert,28
+T0870,Desert,41
+T0871,Forest,25
+T0872,Swamp,47
+T0873,Volcanic Zone,19
+T0874,City Ruins,9
+T0875,Forest,8
+T0876,Volcanic Zone,34
+T0877,Volcanic Zone,10
+T0878,Forest,16
+T0879,Volcanic Zone,19
+T0880,Canyon,50
+T0881,City Ruins,17
+T0882,Volcanic Zone,17
+T0883,Volcanic Zone,49
+T0884,Swamp,18
+T0885,Desert,38
+T0886,Jungle,14
+T0887,Forest,33
+T0888,Jungle,49
+T0889,Tundra,11
+T0890,City Ruins,48
+T0891,Forest,1
+T0892,Canyon,15
+T0893,Jungle,39
+T0894,Mountains,9
+T0895,Canyon,34
+T0896,City Ruins,14
+T0897,Swamp,17
+T0898,Canyon,17
+T0899,Tundra,3
+T0900,Tundra,7
+T0901,Tundra,42
+T0902,Desert,42
+T0903,Savanna,22
+T0904,Canyon,3
+T0905,Mountains,35
+T0906,Savanna,37
+T0907,Swamp,12
+T0908,Savanna,11
+T0909,Tundra,25
+T0910,Desert,34
+T0911,Swamp,4
+T0912,Canyon,28
+T0913,Canyon,42
+T0914,Forest,46
+T0915,City Ruins,41
+T0916,Forest,32
+T0917,Swamp,4
+T0918,City Ruins,13
+T0919,Savanna,44
+T0920,Volcanic Zone,50
+T0921,Jungle,23
+T0922,Jungle,38
+T0923,Forest,9
+T0924,Tundra,37
+T0925,Mountains,23
+T0926,Jungle,10
+T0927,Desert,1
+T0928,City Ruins,6
+T0929,Jungle,10
+T0930,City Ruins,17
+T0931,Mountains,27
+T0932,City Ruins,16
+T0933,Swamp,29
+T0934,Forest,26
+T0935,Canyon,21
+T0936,City Ruins,21
+T0937,Canyon,3
+T0938,Volcanic Zone,12
+T0939,Desert,36
+T0940,Savanna,50
+T0941,Forest,32
+T0942,Forest,37
+T0943,Jungle,7
+T0944,Jungle,37
+T0945,Tundra,41
+T0946,Savanna,10
+T0947,Volcanic Zone,49
+T0948,Canyon,45
+T0949,Canyon,26
+T0950,City Ruins,28
+T0951,City Ruins,36
+T0952,Mountains,33
+T0953,Mountains,38
+T0954,Desert,30
+T0955,Canyon,16
+T0956,Volcanic Zone,21
+T0957,Forest,40
+T0958,Jungle,27
+T0959,Swamp,26
+T0960,Jungle,47
+T0961,Desert,28
+T0962,City Ruins,28
+T0963,Savanna,45
+T0964,Desert,24
+T0965,Mountains,48
+T0966,Volcanic Zone,16
+T0967,Swamp,18
+T0968,Jungle,19
+T0969,Desert,18
+T0970,Mountains,17
+T0971,Savanna,36
+T0972,Desert,16
+T0973,Desert,21
+T0974,Savanna,23
+T0975,Mountains,3
+T0976,Savanna,47
+T0977,City Ruins,48
+T0978,Swamp,8
+T0979,Forest,39
+T0980,Volcanic Zone,35
+T0981,Savanna,50
+T0982,Tundra,50
+T0983,Tundra,24
+T0984,Swamp,41
+T0985,Tundra,43
+T0986,Swamp,2
+T0987,Jungle,20
+T0988,Desert,17
+T0989,City Ruins,23
+T0990,Canyon,29
+T0991,Tundra,42
+T0992,Tundra,46
+T0993,Volcanic Zone,30
+T0994,City Ruins,25
+T0995,Swamp,15
+T0996,Mountains,24
+T0997,Jungle,25
+T0998,Swamp,25
+T0999,Jungle,28
+T1000,Volcanic Zone,6

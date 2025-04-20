@@ -44,6 +44,12 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 - Integrated terrain and animal datasets.
 - Added `terrain_main.csv` to simulate game-world linkages.
 
+### ✅ Day 7 – Hunter Data Generation
+- Generated **1000 Hunter** records assigned to random terrains.
+- Created a `hunter_data.csv` with attributes like `hunter_id`, `XP`, `health`, `kills`, `terrain_type`, and `difficulty_level`.
+- Wrote `generate_hunter_data.py` to automate the creation of hunter stats linked to terrains.
+- Created **hunting logs** data.
+
 ---
 
 ## 🚀 Coming Next
@@ -60,3 +66,4 @@ The hunter is guided by his AI bike and a voice assistant (based on his mother) 
 ---
 
 ## 📂 Folder Structure
+
