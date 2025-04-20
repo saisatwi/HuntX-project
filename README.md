@@ -62,12 +62,24 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 - Wrote `generate_universal_travel_log.py` to generate random travel events for 1000 hunters.
 - Integrated realm shifting data into the project.
 
+## 📅 Progress Log
+
+### ✅ Day 10 – Data Collection: Hunter Stats & Game Events
+- **Generated Hunter Stats**: Created a CSV file `hunter_stats.csv` (raw folder) that tracks XP, health, kills, and fame for 1000 hunters.
+- **Generated Game Events**: Created a CSV file `hunter_events.csv` (processed folder) that tracks random events (animal encounters, challenges, treasure found) for hunters.
+- **Combined Data**: Merged hunter stats (from raw) and events (from processed) into a single file `combined_hunter_data.csv` for further analysis.
+
+
+## 📅 Progress Log
+
+### ✅ Day 11 – AI Interactions & Economy Data
+- **AI Interactions**: Generated a CSV `ai_interactions.csv` (processed folder) that tracks the interactions between the hunter and the AI voice assistant & bike.
+- **Economy Data**: Created `economy_data.csv` (processed folder) that tracks the hunter’s money, fame, and items collected during the game.
+
 ---
 
-## 🚀 Coming Next
-- Introduce **rare encounters** during travel between realms.
-- Track **hunter vitals** like health, heart rate, and calories burned during travel.
-- Simulate **AI assistance** for hunters during travel.
+### 🚀 Coming Next:
+- Start analyzing the collected data and build interactive dashboards to visualize the hunter's journey, economy, and AI interactions.
 
 
 

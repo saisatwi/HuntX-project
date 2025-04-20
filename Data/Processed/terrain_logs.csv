@@ -1,0 +1,1001 @@
+Hunter_ID,Terrain_Type,Difficulty,Action
+1,Swamp,18,Hunted Animal
+2,Plains,37,Hunted Animal
+3,Desert,1,Found Shelter
+4,Tundra,49,Lost in Terrain
+5,Savannah,14,Rested
+6,Mountain,17,Rested
+7,Mountain,22,Lost in Terrain
+8,Desert,45,Lost in Terrain
+9,Swamp,27,Hunted Animal
+10,Desert,23,Hunted Animal
+11,Desert,34,Lost in Terrain
+12,Swamp,23,Hunted Animal
+13,Plains,47,Found Shelter
+14,Mountain,46,Found Shelter
+15,Swamp,4,Found Shelter
+16,Tundra,26,Hunted Animal
+17,Plains,5,Hunted Animal
+18,Forest,4,Rested
+19,Cave,41,Lost in Terrain
+20,Desert,50,Found Shelter
+21,Tundra,41,Lost in Terrain
+22,Swamp,16,Lost in Terrain
+23,Arctic,44,Lost in Terrain
+24,Arctic,46,Rested
+25,Swamp,34,Rested
+26,Tundra,19,Hunted Animal
+27,Desert,39,Lost in Terrain
+28,Mountain,43,Hunted Animal
+29,Desert,24,Rested
+30,Tundra,45,Found Shelter
+31,Arctic,16,Rested
+32,Arctic,19,Lost in Terrain
+33,Desert,46,Found Shelter
+34,Arctic,50,Found Shelter
+35,Tundra,38,Lost in Terrain
+36,Arctic,1,Rested
+37,Savannah,19,Rested
+38,Mountain,1,Rested
+39,Swamp,17,Lost in Terrain
+40,Jungle,48,Hunted Animal
+41,Savannah,12,Found Shelter
+42,Tundra,2,Rested
+43,Forest,43,Hunted Animal
+44,Cave,36,Hunted Animal
+45,Jungle,10,Hunted Animal
+46,Plains,3,Lost in Terrain
+47,Jungle,17,Found Shelter
+48,Arctic,2,Rested
+49,Forest,49,Found Shelter
+50,Cave,38,Lost in Terrain
+51,Plains,50,Lost in Terrain
+52,Mountain,29,Hunted Animal
+53,Jungle,47,Found Shelter
+54,Cave,46,Hunted Animal
+55,Forest,38,Rested
+56,Swamp,5,Hunted Animal
+57,Savannah,47,Lost in Terrain
+58,Tundra,33,Lost in Terrain
+59,Arctic,34,Hunted Animal
+60,Jungle,24,Rested
+61,Desert,37,Lost in Terrain
+62,Swamp,21,Rested
+63,Forest,16,Lost in Terrain
+64,Swamp,44,Lost in Terrain
+65,Swamp,25,Rested
+66,Desert,23,Found Shelter
+67,Mountain,43,Lost in Terrain
+68,Arctic,34,Lost in Terrain
+69,Tundra,38,Rested
+70,Mountain,6,Rested
+71,Mountain,39,Lost in Terrain
+72,Cave,12,Hunted Animal
+73,Plains,32,Rested
+74,Savannah,23,Hunted Animal
+75,Savannah,36,Lost in Terrain
+76,Tundra,39,Rested
+77,Desert,29,Hunted Animal
+78,Mountain,10,Found Shelter
+79,Mountain,31,Rested
+80,Swamp,39,Found Shelter
+81,Swamp,2,Lost in Terrain
+82,Savannah,11,Rested
+83,Tundra,38,Lost in Terrain
+84,Mountain,19,Rested
+85,Arctic,43,Rested
+86,Mountain,33,Hunted Animal
+87,Plains,47,Lost in Terrain
+88,Plains,5,Hunted Animal
+89,Desert,37,Lost in Terrain
+90,Arctic,47,Lost in Terrain
+91,Arctic,45,Rested
+92,Cave,6,Rested
+93,Jungle,42,Rested
+94,Forest,5,Lost in Terrain
+95,Arctic,39,Hunted Animal
+96,Tundra,26,Rested
+97,Savannah,43,Rested
+98,Forest,6,Hunted Animal
+99,Plains,46,Hunted Animal
+100,Mountain,2,Hunted Animal
+101,Jungle,33,Rested
+102,Forest,4,Hunted Animal
+103,Savannah,18,Rested
+104,Tundra,2,Rested
+105,Tundra,19,Found Shelter
+106,Savannah,1,Lost in Terrain
+107,Swamp,21,Rested
+108,Mountain,45,Found Shelter
+109,Savannah,40,Lost in Terrain
+110,Cave,30,Rested
+111,Tundra,48,Rested
+112,Mountain,40,Hunted Animal
+113,Arctic,46,Hunted Animal
+114,Mountain,38,Rested
+115,Plains,38,Hunted Animal
+116,Swamp,48,Rested
+117,Plains,6,Lost in Terrain
+118,Tundra,30,Rested
+119,Mountain,33,Lost in Terrain
+120,Savannah,50,Lost in Terrain
+121,Forest,22,Hunted Animal
+122,Tundra,4,Rested
+123,Forest,25,Lost in Terrain
+124,Tundra,48,Lost in Terrain
+125,Mountain,33,Lost in Terrain
+126,Desert,29,Hunted Animal
+127,Jungle,7,Found Shelter
+128,Cave,43,Found Shelter
+129,Tundra,17,Rested
+130,Mountain,49,Found Shelter
+131,Plains,33,Lost in Terrain
+132,Arctic,39,Rested
+133,Forest,46,Lost in Terrain
+134,Savannah,49,Lost in Terrain
+135,Arctic,46,Found Shelter
+136,Desert,48,Hunted Animal
+137,Tundra,2,Rested
+138,Cave,50,Hunted Animal
+139,Tundra,24,Rested
+140,Savannah,41,Lost in Terrain
+141,Tundra,35,Hunted Animal
+142,Tundra,39,Hunted Animal
+143,Jungle,49,Rested
+144,Mountain,45,Rested
+145,Jungle,5,Lost in Terrain
+146,Savannah,15,Rested
+147,Mountain,8,Rested
+148,Forest,33,Hunted Animal
+149,Plains,28,Lost in Terrain
+150,Swamp,11,Lost in Terrain
+151,Forest,45,Found Shelter
+152,Swamp,48,Lost in Terrain
+153,Plains,9,Hunted Animal
+154,Arctic,3,Found Shelter
+155,Tundra,9,Rested
+156,Plains,29,Hunted Animal
+157,Forest,14,Lost in Terrain
+158,Swamp,13,Lost in Terrain
+159,Swamp,6,Found Shelter
+160,Mountain,20,Lost in Terrain
+161,Mountain,42,Lost in Terrain
+162,Swamp,46,Hunted Animal
+163,Tundra,23,Lost in Terrain
+164,Plains,20,Lost in Terrain
+165,Tundra,48,Found Shelter
+166,Mountain,26,Rested
+167,Jungle,31,Lost in Terrain
+168,Mountain,9,Lost in Terrain
+169,Plains,4,Found Shelter
+170,Desert,10,Lost in Terrain
+171,Tundra,19,Lost in Terrain
+172,Cave,1,Lost in Terrain
+173,Jungle,8,Found Shelter
+174,Desert,46,Rested
+175,Cave,39,Hunted Animal
+176,Plains,33,Lost in Terrain
+177,Tundra,12,Rested
+178,Plains,30,Rested
+179,Savannah,10,Rested
+180,Tundra,37,Rested
+181,Tundra,16,Rested
+182,Savannah,35,Hunted Animal
+183,Cave,48,Rested
+184,Mountain,31,Rested
+185,Mountain,6,Lost in Terrain
+186,Plains,27,Hunted Animal
+187,Arctic,44,Rested
+188,Plains,14,Found Shelter
+189,Arctic,10,Rested
+190,Mountain,43,Hunted Animal
+191,Savannah,49,Hunted Animal
+192,Savannah,14,Hunted Animal
+193,Desert,45,Hunted Animal
+194,Desert,45,Rested
+195,Arctic,17,Lost in Terrain
+196,Cave,34,Lost in Terrain
+197,Plains,48,Found Shelter
+198,Desert,23,Hunted Animal
+199,Cave,20,Hunted Animal
+200,Arctic,12,Found Shelter
+201,Desert,17,Rested
+202,Cave,46,Lost in Terrain
+203,Swamp,33,Rested
+204,Tundra,19,Rested
+205,Tundra,21,Hunted Animal
+206,Arctic,26,Rested
+207,Plains,39,Rested
+208,Forest,28,Found Shelter
+209,Swamp,17,Rested
+210,Arctic,31,Hunted Animal
+211,Desert,1,Hunted Animal
+212,Mountain,26,Hunted Animal
+213,Desert,18,Hunted Animal
+214,Cave,47,Found Shelter
+215,Arctic,21,Rested
+216,Arctic,34,Hunted Animal
+217,Arctic,22,Hunted Animal
+218,Arctic,36,Found Shelter
+219,Swamp,2,Lost in Terrain
+220,Mountain,40,Rested
+221,Swamp,31,Lost in Terrain
+222,Arctic,14,Hunted Animal
+223,Tundra,28,Found Shelter
+224,Arctic,27,Rested
+225,Arctic,15,Found Shelter
+226,Forest,19,Hunted Animal
+227,Cave,14,Found Shelter
+228,Mountain,2,Hunted Animal
+229,Arctic,42,Rested
+230,Cave,40,Lost in Terrain
+231,Mountain,22,Rested
+232,Desert,49,Lost in Terrain
+233,Desert,9,Lost in Terrain
+234,Forest,37,Found Shelter
+235,Mountain,30,Lost in Terrain
+236,Swamp,31,Found Shelter
+237,Plains,5,Hunted Animal
+238,Desert,27,Hunted Animal
+239,Cave,6,Found Shelter
+240,Cave,2,Lost in Terrain
+241,Jungle,37,Found Shelter
+242,Savannah,9,Found Shelter
+243,Jungle,30,Found Shelter
+244,Desert,8,Rested
+245,Plains,13,Hunted Animal
+246,Forest,46,Hunted Animal
+247,Tundra,22,Found Shelter
+248,Jungle,6,Found Shelter
+249,Mountain,32,Hunted Animal
+250,Mountain,47,Hunted Animal
+251,Mountain,25,Rested
+252,Forest,43,Hunted Animal
+253,Swamp,42,Found Shelter
+254,Jungle,38,Rested
+255,Cave,20,Hunted Animal
+256,Tundra,7,Found Shelter
+257,Plains,27,Found Shelter
+258,Cave,42,Rested
+259,Desert,9,Rested
+260,Desert,29,Rested
+261,Desert,27,Found Shelter
+262,Desert,16,Lost in Terrain
+263,Plains,46,Found Shelter
+264,Mountain,35,Found Shelter
+265,Plains,25,Lost in Terrain
+266,Plains,50,Hunted Animal
+267,Arctic,3,Hunted Animal
+268,Desert,9,Rested
+269,Mountain,49,Hunted Animal
+270,Swamp,19,Found Shelter
+271,Plains,27,Rested
+272,Forest,2,Hunted Animal
+273,Jungle,24,Hunted Animal
+274,Tundra,38,Lost in Terrain
+275,Cave,28,Rested
+276,Jungle,2,Lost in Terrain
+277,Jungle,43,Rested
+278,Cave,10,Rested
+279,Swamp,26,Rested
+280,Swamp,3,Rested
+281,Tundra,34,Rested
+282,Jungle,19,Hunted Animal
+283,Cave,18,Lost in Terrain
+284,Savannah,35,Rested
+285,Forest,12,Found Shelter
+286,Tundra,42,Lost in Terrain
+287,Jungle,20,Rested
+288,Tundra,3,Found Shelter
+289,Tundra,25,Found Shelter
+290,Swamp,10,Found Shelter
+291,Tundra,5,Hunted Animal
+292,Arctic,31,Hunted Animal
+293,Desert,13,Lost in Terrain
+294,Tundra,33,Lost in Terrain
+295,Mountain,30,Lost in Terrain
+296,Arctic,16,Hunted Animal
+297,Mountain,39,Lost in Terrain
+298,Mountain,35,Rested
+299,Cave,8,Found Shelter
+300,Jungle,10,Found Shelter
+301,Cave,6,Lost in Terrain
+302,Plains,1,Lost in Terrain
+303,Forest,29,Rested
+304,Arctic,2,Rested
+305,Mountain,46,Lost in Terrain
+306,Swamp,35,Rested
+307,Plains,19,Lost in Terrain
+308,Savannah,2,Hunted Animal
+309,Mountain,47,Lost in Terrain
+310,Forest,34,Rested
+311,Swamp,4,Found Shelter
+312,Mountain,12,Lost in Terrain
+313,Swamp,26,Hunted Animal
+314,Jungle,40,Rested
+315,Plains,20,Hunted Animal
+316,Swamp,46,Found Shelter
+317,Savannah,42,Rested
+318,Mountain,14,Found Shelter
+319,Cave,12,Found Shelter
+320,Arctic,30,Rested
+321,Jungle,24,Lost in Terrain
+322,Arctic,33,Lost in Terrain
+323,Mountain,8,Found Shelter
+324,Swamp,26,Hunted Animal
+325,Jungle,35,Lost in Terrain
+326,Cave,44,Found Shelter
+327,Jungle,39,Rested
+328,Jungle,4,Hunted Animal
+329,Desert,20,Lost in Terrain
+330,Swamp,29,Found Shelter
+331,Forest,33,Rested
+332,Arctic,25,Lost in Terrain
+333,Jungle,42,Hunted Animal
+334,Tundra,26,Hunted Animal
+335,Swamp,41,Rested
+336,Arctic,30,Found Shelter
+337,Swamp,38,Rested
+338,Forest,47,Hunted Animal
+339,Mountain,18,Hunted Animal
+340,Tundra,17,Rested
+341,Mountain,25,Hunted Animal
+342,Cave,26,Hunted Animal
+343,Cave,42,Hunted Animal
+344,Tundra,50,Lost in Terrain
+345,Mountain,26,Hunted Animal
+346,Forest,27,Found Shelter
+347,Mountain,24,Found Shelter
+348,Tundra,43,Rested
+349,Jungle,3,Hunted Animal
+350,Arctic,34,Rested
+351,Tundra,32,Lost in Terrain
+352,Jungle,24,Found Shelter
+353,Jungle,38,Lost in Terrain
+354,Arctic,36,Rested
+355,Plains,23,Lost in Terrain
+356,Swamp,43,Rested
+357,Mountain,46,Lost in Terrain
+358,Mountain,5,Rested
+359,Forest,7,Found Shelter
+360,Tundra,23,Rested
+361,Tundra,8,Found Shelter
+362,Mountain,21,Lost in Terrain
+363,Savannah,40,Hunted Animal
+364,Tundra,6,Lost in Terrain
+365,Arctic,38,Rested
+366,Desert,14,Found Shelter
+367,Forest,25,Hunted Animal
+368,Mountain,37,Lost in Terrain
+369,Desert,35,Hunted Animal
+370,Cave,1,Rested
+371,Plains,26,Hunted Animal
+372,Savannah,34,Lost in Terrain
+373,Arctic,31,Hunted Animal
+374,Plains,9,Found Shelter
+375,Arctic,46,Found Shelter
+376,Forest,34,Hunted Animal
+377,Savannah,41,Lost in Terrain
+378,Plains,5,Rested
+379,Savannah,45,Rested
+380,Arctic,45,Hunted Animal
+381,Forest,34,Found Shelter
+382,Savannah,11,Found Shelter
+383,Arctic,33,Lost in Terrain
+384,Cave,24,Found Shelter
+385,Cave,26,Lost in Terrain
+386,Cave,36,Found Shelter
+387,Savannah,25,Lost in Terrain
+388,Plains,49,Hunted Animal
+389,Arctic,32,Rested
+390,Desert,17,Found Shelter
+391,Arctic,3,Hunted Animal
+392,Mountain,21,Rested
+393,Savannah,48,Rested
+394,Cave,26,Lost in Terrain
+395,Arctic,36,Rested
+396,Savannah,19,Rested
+397,Cave,18,Found Shelter
+398,Forest,2,Found Shelter
+399,Desert,20,Rested
+400,Arctic,22,Rested
+401,Plains,23,Hunted Animal
+402,Jungle,42,Hunted Animal
+403,Cave,50,Found Shelter
+404,Forest,13,Lost in Terrain
+405,Mountain,49,Rested
+406,Swamp,7,Found Shelter
+407,Cave,49,Found Shelter
+408,Swamp,13,Found Shelter
+409,Plains,7,Rested
+410,Desert,24,Found Shelter
+411,Jungle,48,Lost in Terrain
+412,Tundra,36,Found Shelter
+413,Desert,2,Lost in Terrain
+414,Plains,1,Hunted Animal
+415,Plains,31,Rested
+416,Desert,39,Lost in Terrain
+417,Cave,32,Hunted Animal
+418,Savannah,32,Found Shelter
+419,Tundra,24,Found Shelter
+420,Mountain,31,Found Shelter
+421,Forest,30,Lost in Terrain
+422,Tundra,8,Lost in Terrain
+423,Plains,47,Rested
+424,Cave,25,Hunted Animal
+425,Arctic,27,Hunted Animal
+426,Jungle,45,Lost in Terrain
+427,Tundra,30,Rested
+428,Tundra,31,Hunted Animal
+429,Cave,31,Hunted Animal
+430,Desert,45,Found Shelter
+431,Swamp,2,Hunted Animal
+432,Tundra,37,Hunted Animal
+433,Forest,42,Rested
+434,Desert,10,Hunted Animal
+435,Forest,15,Rested
+436,Mountain,22,Rested
+437,Swamp,44,Found Shelter
+438,Plains,37,Rested
+439,Cave,21,Rested
+440,Arctic,48,Hunted Animal
+441,Cave,1,Found Shelter
+442,Forest,21,Found Shelter
+443,Swamp,14,Found Shelter
+444,Forest,38,Rested
+445,Mountain,50,Lost in Terrain
+446,Desert,48,Hunted Animal
+447,Plains,29,Found Shelter
+448,Tundra,46,Hunted Animal
+449,Arctic,44,Lost in Terrain
+450,Mountain,12,Found Shelter
+451,Cave,22,Found Shelter
+452,Cave,16,Found Shelter
+453,Mountain,10,Rested
+454,Jungle,25,Lost in Terrain
+455,Mountain,3,Found Shelter
+456,Savannah,44,Rested
+457,Arctic,18,Found Shelter
+458,Arctic,22,Found Shelter
+459,Savannah,37,Lost in Terrain
+460,Cave,29,Lost in Terrain
+461,Savannah,18,Hunted Animal
+462,Savannah,46,Found Shelter
+463,Desert,1,Lost in Terrain
+464,Mountain,31,Hunted Animal
+465,Swamp,37,Hunted Animal
+466,Mountain,25,Found Shelter
+467,Desert,27,Hunted Animal
+468,Swamp,14,Lost in Terrain
+469,Tundra,34,Lost in Terrain
+470,Forest,38,Hunted Animal
+471,Arctic,31,Hunted Animal
+472,Swamp,36,Found Shelter
+473,Forest,10,Lost in Terrain
+474,Mountain,14,Found Shelter
+475,Mountain,27,Lost in Terrain
+476,Swamp,30,Found Shelter
+477,Mountain,14,Hunted Animal
+478,Plains,3,Rested
+479,Savannah,39,Hunted Animal
+480,Savannah,47,Rested
+481,Jungle,44,Found Shelter
+482,Arctic,5,Found Shelter
+483,Arctic,17,Hunted Animal
+484,Cave,33,Found Shelter
+485,Jungle,34,Found Shelter
+486,Plains,26,Hunted Animal
+487,Desert,45,Hunted Animal
+488,Tundra,19,Hunted Animal
+489,Cave,33,Found Shelter
+490,Forest,23,Hunted Animal
+491,Swamp,9,Rested
+492,Savannah,32,Hunted Animal
+493,Cave,34,Found Shelter
+494,Savannah,21,Rested
+495,Desert,2,Lost in Terrain
+496,Savannah,35,Lost in Terrain
+497,Cave,3,Lost in Terrain
+498,Swamp,45,Rested
+499,Arctic,26,Found Shelter
+500,Cave,9,Lost in Terrain
+501,Plains,25,Hunted Animal
+502,Jungle,44,Found Shelter
+503,Mountain,29,Found Shelter
+504,Savannah,14,Hunted Animal
+505,Cave,24,Rested
+506,Arctic,6,Rested
+507,Mountain,18,Rested
+508,Savannah,13,Hunted Animal
+509,Forest,48,Lost in Terrain
+510,Arctic,31,Lost in Terrain
+511,Cave,43,Lost in Terrain
+512,Mountain,26,Rested
+513,Mountain,23,Hunted Animal
+514,Arctic,39,Rested
+515,Savannah,35,Found Shelter
+516,Arctic,2,Rested
+517,Tundra,45,Lost in Terrain
+518,Jungle,26,Rested
+519,Desert,35,Rested
+520,Mountain,23,Hunted Animal
+521,Savannah,21,Lost in Terrain
+522,Desert,29,Rested
+523,Plains,18,Rested
+524,Tundra,3,Lost in Terrain
+525,Arctic,24,Lost in Terrain
+526,Savannah,5,Lost in Terrain
+527,Plains,43,Found Shelter
+528,Mountain,27,Lost in Terrain
+529,Mountain,19,Lost in Terrain
+530,Mountain,31,Rested
+531,Jungle,16,Rested
+532,Cave,8,Rested
+533,Desert,8,Found Shelter
+534,Swamp,44,Found Shelter
+535,Swamp,25,Lost in Terrain
+536,Arctic,10,Hunted Animal
+537,Plains,10,Lost in Terrain
+538,Tundra,28,Hunted Animal
+539,Savannah,21,Lost in Terrain
+540,Plains,42,Lost in Terrain
+541,Tundra,11,Lost in Terrain
+542,Arctic,21,Lost in Terrain
+543,Jungle,46,Found Shelter
+544,Savannah,3,Lost in Terrain
+545,Cave,32,Hunted Animal
+546,Plains,27,Found Shelter
+547,Cave,11,Lost in Terrain
+548,Swamp,1,Hunted Animal
+549,Forest,36,Hunted Animal
+550,Swamp,5,Rested
+551,Cave,5,Rested
+552,Jungle,42,Rested
+553,Jungle,34,Hunted Animal
+554,Jungle,2,Rested
+555,Savannah,13,Found Shelter
+556,Tundra,19,Lost in Terrain
+557,Plains,6,Found Shelter
+558,Savannah,43,Lost in Terrain
+559,Mountain,41,Found Shelter
+560,Jungle,22,Rested
+561,Forest,15,Rested
+562,Desert,50,Lost in Terrain
+563,Arctic,29,Hunted Animal
+564,Cave,3,Rested
+565,Cave,17,Found Shelter
+566,Forest,41,Found Shelter
+567,Desert,21,Found Shelter
+568,Forest,49,Rested
+569,Cave,12,Rested
+570,Jungle,7,Hunted Animal
+571,Tundra,8,Lost in Terrain
+572,Forest,8,Rested
+573,Swamp,35,Lost in Terrain
+574,Cave,29,Lost in Terrain
+575,Arctic,5,Rested
+576,Arctic,34,Found Shelter
+577,Plains,22,Rested
+578,Tundra,1,Rested
+579,Forest,19,Lost in Terrain
+580,Swamp,20,Lost in Terrain
+581,Savannah,11,Rested
+582,Jungle,12,Hunted Animal
+583,Desert,34,Hunted Animal
+584,Cave,27,Hunted Animal
+585,Cave,5,Lost in Terrain
+586,Desert,21,Hunted Animal
+587,Jungle,20,Rested
+588,Plains,24,Rested
+589,Jungle,33,Found Shelter
+590,Jungle,31,Found Shelter
+591,Forest,11,Found Shelter
+592,Plains,20,Rested
+593,Tundra,23,Lost in Terrain
+594,Mountain,45,Rested
+595,Plains,17,Hunted Animal
+596,Savannah,10,Hunted Animal
+597,Forest,47,Lost in Terrain
+598,Arctic,23,Hunted Animal
+599,Savannah,22,Hunted Animal
+600,Forest,33,Lost in Terrain
+601,Arctic,39,Hunted Animal
+602,Swamp,48,Rested
+603,Plains,48,Rested
+604,Swamp,39,Hunted Animal
+605,Mountain,3,Found Shelter
+606,Swamp,12,Rested
+607,Plains,50,Lost in Terrain
+608,Jungle,6,Lost in Terrain
+609,Tundra,2,Found Shelter
+610,Swamp,44,Hunted Animal
+611,Cave,28,Lost in Terrain
+612,Arctic,33,Found Shelter
+613,Tundra,36,Lost in Terrain
+614,Plains,13,Found Shelter
+615,Savannah,32,Rested
+616,Arctic,18,Lost in Terrain
+617,Swamp,15,Rested
+618,Jungle,37,Hunted Animal
+619,Mountain,38,Lost in Terrain
+620,Mountain,12,Found Shelter
+621,Tundra,31,Hunted Animal
+622,Jungle,25,Hunted Animal
+623,Cave,3,Lost in Terrain
+624,Desert,33,Rested
+625,Tundra,18,Found Shelter
+626,Swamp,20,Lost in Terrain
+627,Jungle,36,Rested
+628,Arctic,7,Rested
+629,Arctic,34,Hunted Animal
+630,Arctic,47,Rested
+631,Forest,8,Hunted Animal
+632,Savannah,24,Rested
+633,Desert,22,Found Shelter
+634,Jungle,17,Lost in Terrain
+635,Swamp,50,Rested
+636,Mountain,7,Rested
+637,Forest,5,Found Shelter
+638,Plains,9,Rested
+639,Swamp,16,Found Shelter
+640,Jungle,32,Found Shelter
+641,Tundra,13,Found Shelter
+642,Forest,25,Hunted Animal
+643,Mountain,6,Found Shelter
+644,Arctic,24,Lost in Terrain
+645,Cave,40,Hunted Animal
+646,Desert,9,Rested
+647,Jungle,4,Lost in Terrain
+648,Cave,30,Lost in Terrain
+649,Mountain,12,Lost in Terrain
+650,Tundra,24,Rested
+651,Plains,38,Hunted Animal
+652,Forest,12,Rested
+653,Cave,14,Lost in Terrain
+654,Cave,44,Rested
+655,Swamp,23,Hunted Animal
+656,Cave,46,Rested
+657,Mountain,38,Hunted Animal
+658,Desert,33,Found Shelter
+659,Tundra,8,Hunted Animal
+660,Jungle,48,Rested
+661,Jungle,49,Found Shelter
+662,Arctic,37,Rested
+663,Cave,37,Lost in Terrain
+664,Swamp,5,Lost in Terrain
+665,Arctic,38,Found Shelter
+666,Tundra,22,Rested
+667,Savannah,38,Lost in Terrain
+668,Savannah,35,Hunted Animal
+669,Forest,35,Found Shelter
+670,Jungle,39,Found Shelter
+671,Arctic,27,Lost in Terrain
+672,Desert,13,Lost in Terrain
+673,Forest,24,Rested
+674,Swamp,24,Found Shelter
+675,Forest,44,Found Shelter
+676,Jungle,16,Lost in Terrain
+677,Savannah,42,Found Shelter
+678,Cave,46,Found Shelter
+679,Plains,9,Rested
+680,Tundra,30,Hunted Animal
+681,Swamp,20,Rested
+682,Plains,33,Lost in Terrain
+683,Tundra,46,Hunted Animal
+684,Cave,21,Found Shelter
+685,Cave,41,Rested
+686,Swamp,38,Found Shelter
+687,Forest,16,Hunted Animal
+688,Tundra,8,Lost in Terrain
+689,Cave,50,Hunted Animal
+690,Plains,9,Hunted Animal
+691,Jungle,6,Hunted Animal
+692,Savannah,28,Rested
+693,Plains,40,Lost in Terrain
+694,Plains,23,Lost in Terrain
+695,Arctic,19,Rested
+696,Mountain,19,Rested
+697,Forest,24,Rested
+698,Desert,21,Lost in Terrain
+699,Jungle,28,Hunted Animal
+700,Jungle,45,Rested
+701,Jungle,43,Hunted Animal
+702,Jungle,3,Found Shelter
+703,Savannah,2,Hunted Animal
+704,Tundra,4,Lost in Terrain
+705,Cave,47,Rested
+706,Desert,31,Lost in Terrain
+707,Cave,38,Found Shelter
+708,Arctic,31,Rested
+709,Desert,48,Lost in Terrain
+710,Swamp,9,Rested
+711,Arctic,26,Hunted Animal
+712,Mountain,16,Hunted Animal
+713,Savannah,40,Found Shelter
+714,Tundra,39,Hunted Animal
+715,Jungle,47,Hunted Animal
+716,Forest,37,Found Shelter
+717,Arctic,28,Rested
+718,Arctic,46,Lost in Terrain
+719,Savannah,49,Rested
+720,Cave,14,Found Shelter
+721,Cave,5,Rested
+722,Savannah,28,Hunted Animal
+723,Forest,1,Lost in Terrain
+724,Cave,22,Found Shelter
+725,Mountain,44,Lost in Terrain
+726,Tundra,35,Lost in Terrain
+727,Forest,15,Hunted Animal
+728,Swamp,2,Hunted Animal
+729,Forest,35,Rested
+730,Jungle,42,Rested
+731,Plains,26,Lost in Terrain
+732,Swamp,9,Found Shelter
+733,Forest,45,Found Shelter
+734,Tundra,40,Hunted Animal
+735,Cave,6,Hunted Animal
+736,Mountain,39,Hunted Animal
+737,Arctic,44,Rested
+738,Tundra,8,Rested
+739,Swamp,4,Rested
+740,Tundra,48,Found Shelter
+741,Jungle,30,Rested
+742,Arctic,1,Lost in Terrain
+743,Swamp,20,Hunted Animal
+744,Desert,46,Rested
+745,Cave,13,Rested
+746,Jungle,9,Hunted Animal
+747,Cave,34,Found Shelter
+748,Jungle,20,Found Shelter
+749,Swamp,22,Found Shelter
+750,Jungle,5,Rested
+751,Desert,39,Found Shelter
+752,Cave,18,Lost in Terrain
+753,Forest,36,Rested
+754,Mountain,37,Lost in Terrain
+755,Savannah,39,Lost in Terrain
+756,Desert,44,Found Shelter
+757,Cave,48,Lost in Terrain
+758,Desert,46,Rested
+759,Jungle,28,Found Shelter
+760,Savannah,49,Rested
+761,Swamp,15,Hunted Animal
+762,Swamp,24,Rested
+763,Arctic,36,Lost in Terrain
+764,Plains,35,Hunted Animal
+765,Swamp,25,Lost in Terrain
+766,Jungle,9,Rested
+767,Arctic,38,Rested
+768,Forest,41,Hunted Animal
+769,Cave,27,Rested
+770,Jungle,46,Rested
+771,Tundra,35,Rested
+772,Forest,11,Found Shelter
+773,Savannah,9,Found Shelter
+774,Savannah,40,Hunted Animal
+775,Tundra,4,Found Shelter
+776,Plains,30,Lost in Terrain
+777,Mountain,50,Hunted Animal
+778,Plains,33,Found Shelter
+779,Mountain,21,Found Shelter
+780,Tundra,21,Hunted Animal
+781,Cave,37,Rested
+782,Cave,24,Rested
+783,Savannah,45,Rested
+784,Swamp,46,Hunted Animal
+785,Jungle,2,Lost in Terrain
+786,Arctic,5,Found Shelter
+787,Savannah,26,Found Shelter
+788,Jungle,19,Found Shelter
+789,Arctic,6,Rested
+790,Swamp,10,Rested
+791,Arctic,1,Found Shelter
+792,Arctic,23,Lost in Terrain
+793,Swamp,5,Lost in Terrain
+794,Mountain,1,Rested
+795,Savannah,5,Lost in Terrain
+796,Plains,24,Lost in Terrain
+797,Swamp,16,Found Shelter
+798,Cave,7,Lost in Terrain
+799,Desert,48,Found Shelter
+800,Desert,29,Rested
+801,Savannah,4,Found Shelter
+802,Swamp,28,Hunted Animal
+803,Forest,40,Hunted Animal
+804,Tundra,3,Lost in Terrain
+805,Swamp,22,Lost in Terrain
+806,Desert,4,Rested
+807,Forest,10,Lost in Terrain
+808,Jungle,19,Lost in Terrain
+809,Cave,47,Rested
+810,Tundra,27,Lost in Terrain
+811,Swamp,32,Hunted Animal
+812,Mountain,33,Lost in Terrain
+813,Arctic,48,Found Shelter
+814,Mountain,20,Found Shelter
+815,Swamp,41,Lost in Terrain
+816,Cave,13,Found Shelter
+817,Cave,50,Found Shelter
+818,Swamp,32,Found Shelter
+819,Savannah,41,Hunted Animal
+820,Savannah,19,Rested
+821,Cave,22,Found Shelter
+822,Savannah,41,Rested
+823,Plains,49,Hunted Animal
+824,Mountain,43,Rested
+825,Forest,22,Found Shelter
+826,Tundra,29,Found Shelter
+827,Tundra,33,Rested
+828,Mountain,42,Rested
+829,Mountain,48,Found Shelter
+830,Swamp,33,Found Shelter
+831,Cave,2,Rested
+832,Savannah,1,Found Shelter
+833,Cave,8,Found Shelter
+834,Savannah,40,Lost in Terrain
+835,Cave,29,Found Shelter
+836,Tundra,13,Found Shelter
+837,Jungle,17,Lost in Terrain
+838,Plains,32,Rested
+839,Plains,22,Rested
+840,Swamp,17,Rested
+841,Savannah,22,Lost in Terrain
+842,Jungle,24,Hunted Animal
+843,Arctic,24,Hunted Animal
+844,Tundra,17,Rested
+845,Swamp,33,Found Shelter
+846,Mountain,24,Found Shelter
+847,Jungle,32,Found Shelter
+848,Tundra,32,Hunted Animal
+849,Desert,6,Rested
+850,Forest,44,Rested
+851,Jungle,8,Found Shelter
+852,Mountain,34,Hunted Animal
+853,Desert,44,Rested
+854,Desert,50,Found Shelter
+855,Forest,1,Lost in Terrain
+856,Tundra,30,Found Shelter
+857,Desert,38,Found Shelter
+858,Jungle,6,Lost in Terrain
+859,Mountain,24,Lost in Terrain
+860,Forest,3,Rested
+861,Savannah,40,Found Shelter
+862,Savannah,15,Lost in Terrain
+863,Desert,15,Lost in Terrain
+864,Arctic,38,Rested
+865,Savannah,19,Found Shelter
+866,Mountain,20,Hunted Animal
+867,Mountain,48,Found Shelter
+868,Tundra,48,Hunted Animal
+869,Savannah,17,Rested
+870,Plains,44,Found Shelter
+871,Cave,38,Found Shelter
+872,Arctic,25,Rested
+873,Jungle,6,Hunted Animal
+874,Mountain,22,Hunted Animal
+875,Desert,30,Rested
+876,Jungle,17,Rested
+877,Desert,50,Lost in Terrain
+878,Swamp,42,Rested
+879,Tundra,46,Rested
+880,Savannah,31,Found Shelter
+881,Forest,25,Lost in Terrain
+882,Desert,30,Lost in Terrain
+883,Plains,8,Found Shelter
+884,Tundra,33,Found Shelter
+885,Arctic,19,Rested
+886,Swamp,27,Lost in Terrain
+887,Jungle,12,Hunted Animal
+888,Forest,32,Lost in Terrain
+889,Mountain,45,Found Shelter
+890,Tundra,22,Found Shelter
+891,Tundra,8,Lost in Terrain
+892,Jungle,33,Found Shelter
+893,Forest,6,Found Shelter
+894,Savannah,41,Hunted Animal
+895,Tundra,17,Found Shelter
+896,Plains,34,Rested
+897,Savannah,27,Lost in Terrain
+898,Cave,9,Hunted Animal
+899,Savannah,6,Rested
+900,Jungle,21,Hunted Animal
+901,Jungle,46,Hunted Animal
+902,Desert,21,Lost in Terrain
+903,Plains,17,Rested
+904,Cave,6,Found Shelter
+905,Forest,40,Rested
+906,Savannah,40,Lost in Terrain
+907,Swamp,25,Found Shelter
+908,Jungle,23,Lost in Terrain
+909,Plains,18,Hunted Animal
+910,Savannah,32,Lost in Terrain
+911,Cave,6,Hunted Animal
+912,Tundra,46,Rested
+913,Arctic,46,Hunted Animal
+914,Plains,50,Rested
+915,Desert,50,Found Shelter
+916,Forest,18,Lost in Terrain
+917,Cave,24,Lost in Terrain
+918,Forest,13,Rested
+919,Savannah,23,Rested
+920,Forest,45,Found Shelter
+921,Tundra,8,Found Shelter
+922,Swamp,7,Hunted Animal
+923,Jungle,21,Hunted Animal
+924,Tundra,8,Found Shelter
+925,Swamp,20,Rested
+926,Plains,46,Rested
+927,Tundra,2,Found Shelter
+928,Jungle,42,Rested
+929,Arctic,21,Rested
+930,Forest,3,Rested
+931,Desert,11,Found Shelter
+932,Desert,6,Rested
+933,Mountain,12,Lost in Terrain
+934,Jungle,22,Lost in Terrain
+935,Plains,8,Hunted Animal
+936,Mountain,31,Found Shelter
+937,Swamp,35,Lost in Terrain
+938,Swamp,48,Found Shelter
+939,Savannah,2,Found Shelter
+940,Tundra,2,Rested
+941,Arctic,28,Hunted Animal
+942,Tundra,25,Rested
+943,Cave,41,Lost in Terrain
+944,Savannah,42,Found Shelter
+945,Savannah,16,Found Shelter
+946,Cave,23,Found Shelter
+947,Desert,17,Lost in Terrain
+948,Plains,41,Rested
+949,Cave,18,Rested
+950,Cave,45,Found Shelter
+951,Swamp,29,Found Shelter
+952,Forest,47,Rested
+953,Arctic,50,Found Shelter
+954,Mountain,34,Lost in Terrain
+955,Plains,35,Hunted Animal
+956,Mountain,31,Hunted Animal
+957,Arctic,25,Found Shelter
+958,Plains,43,Rested
+959,Forest,17,Lost in Terrain
+960,Desert,21,Lost in Terrain
+961,Swamp,25,Found Shelter
+962,Forest,12,Found Shelter
+963,Plains,15,Found Shelter
+964,Swamp,2,Lost in Terrain
+965,Swamp,30,Hunted Animal
+966,Desert,49,Lost in Terrain
+967,Forest,31,Lost in Terrain
+968,Savannah,26,Hunted Animal
+969,Savannah,48,Found Shelter
+970,Mountain,18,Lost in Terrain
+971,Tundra,23,Hunted Animal
+972,Savannah,9,Hunted Animal
+973,Tundra,22,Lost in Terrain
+974,Tundra,35,Lost in Terrain
+975,Tundra,11,Lost in Terrain
+976,Arctic,11,Hunted Animal
+977,Desert,4,Lost in Terrain
+978,Mountain,4,Lost in Terrain
+979,Jungle,37,Lost in Terrain
+980,Mountain,41,Rested
+981,Jungle,28,Found Shelter
+982,Plains,24,Hunted Animal
+983,Forest,45,Hunted Animal
+984,Swamp,12,Rested
+985,Cave,12,Rested
+986,Jungle,12,Hunted Animal
+987,Plains,17,Lost in Terrain
+988,Swamp,44,Lost in Terrain
+989,Tundra,36,Hunted Animal
+990,Swamp,37,Hunted Animal
+991,Tundra,28,Hunted Animal
+992,Swamp,5,Hunted Animal
+993,Arctic,25,Found Shelter
+994,Arctic,22,Hunted Animal
+995,Desert,37,Lost in Terrain
+996,Tundra,29,Rested
+997,Jungle,6,Lost in Terrain
+998,Cave,2,Hunted Animal
+999,Mountain,13,Rested
+1000,Savannah,50,Found Shelter
