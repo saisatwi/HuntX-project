@@ -50,6 +50,12 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 - Wrote `generate_hunter_data.py` to automate the creation of hunter stats linked to terrains.
 - Created **hunting logs** data.
 
+### ✅ Day 8 – Implemented Realms & Travel Logs
+- **Created realms data** with attributes like realm name, difficulty, climate, and special features.
+- **Generated travel logs** for hunters as they travel between realms. Each log contains travel details like distance, timestamp, and realm info.
+- **Saved the data** into `realms.csv` and `travel_logs.csv` in the `data/processed/` folder.
+- **Simulated travel events** for hunters to test the data generation.
+
 ---
 
 ## 🚀 Coming Next
