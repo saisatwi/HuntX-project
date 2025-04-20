@@ -1,0 +1,1001 @@
+id,name_x,species,breed,type,danger_level_x,variety,hunter_id_x,terrain_name,name_y,level,experience,terrain_visited,total_animals_hunted,hunter_id_y,climate,danger_level_y,rarity_factor,description
+1,Raven,Cheetah,Bengal,Omnivore,High,Rare,H097,Canyon,Dev,8,1256,Desert,9,9,Hot,Medium,1.4,Narrow passages with ambush threats
+2,Gregory,Giraffe,Asian,Omnivore,High,Uncommon,H092,Desert,Tara,7,1246,Forest,6,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+3,James,Cheetah,Mountain,Predator,Medium,Rare,H016,Tundra,Dev,4,2499,Jungle,11,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+4,William,Tiger,African,Predator,Low,Uncommon,H097,Desert,Dev,8,1256,Desert,9,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+5,Brandy,Zebra,Sumatran,Herbivore,High,Common,H049,Desert,Zara,4,200,Forest,20,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+6,Allison,Cheetah,Bengal,Omnivore,Medium,Common,H061,Desert,Zara,10,2525,Volcano,27,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+7,Tracy,Tiger,Mountain,Predator,High,Rare,H060,Desert,Dev,3,1162,Mountain,50,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+8,Robert,Elephant,Indochinese,Omnivore,High,Uncommon,H086,Volcanic Zone,Zara,6,457,Ruins,32,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+9,Nicole,Elephant,Bengal,Predator,Medium,Rare,H100,Jungle,Nikhil,1,611,Ice Fields,48,1,Humid,High,1.5,Dense forest with dangerous wild predators
+10,Jeffrey,Tiger,Sumatran,Herbivore,Low,Uncommon,H069,Canyon,Reva,7,321,Mountain,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+11,Suzanne,Cheetah,Indochinese,Predator,Medium,Uncommon,H018,Savanna,Kaira,8,2257,Desert,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+12,Sonia,Giraffe,Snow,Predator,High,Common,H077,Mountains,Liam,7,1283,Swamp,42,5,Cold,Medium,1.3,Rocky regions with agile animals
+13,Courtney,Wolf,Indian,Predator,Medium,Rare,H033,Tundra,Meera,9,761,Desert,50,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+14,Bradley,Cheetah,Siberian,Omnivore,Low,Uncommon,H095,Tundra,Tara,4,991,Mountain,41,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+15,Jacqueline,Bear,Indochinese,Predator,High,Rare,H091,Tundra,Reva,8,2781,Mountain,22,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+16,William,Leopard,Mountain,Predator,Low,Common,H066,Tundra,Dev,6,2668,Volcano,5,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+17,Ricky,Giraffe,Indian,Omnivore,Medium,Common,H036,Canyon,Dev,10,1402,Mountain,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+18,Mary,Lion,Bengal,Herbivore,Low,Common,H002,Canyon,Liam,8,380,Forest,12,9,Hot,Medium,1.4,Narrow passages with ambush threats
+19,Edward,Wolf,Siberian,Omnivore,Medium,Common,H021,Jungle,Reva,2,580,Desert,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+20,Jeffrey,Lion,Snow,Omnivore,High,Rare,H015,Jungle,Dev,4,600,Jungle,19,1,Humid,High,1.5,Dense forest with dangerous wild predators
+21,Juan,Tiger,Indian,Herbivore,Medium,Uncommon,H044,Forest,Arjun,7,1338,Ruins,10,3,Mild,Low,1.0,Balanced area with common animals
+22,Todd,Leopard,Sumatran,Omnivore,Medium,Rare,H065,Tundra,Meera,8,206,Swamp,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+23,Allison,Tiger,Sumatran,Omnivore,Low,Rare,H032,Tundra,Zara,10,1525,Desert,15,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+24,Charlotte,Lion,Bengal,Predator,Medium,Uncommon,H041,Jungle,Liam,5,1059,Volcano,39,1,Humid,High,1.5,Dense forest with dangerous wild predators
+25,Eric,Elephant,Sumatran,Predator,Medium,Uncommon,H095,Desert,Tara,4,991,Mountain,41,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+26,Deborah,Rhino,Asian,Herbivore,High,Uncommon,H037,Tundra,Tara,7,1073,Desert,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+27,Alexander,Rhino,Bengal,Herbivore,Low,Common,H091,Savanna,Reva,8,2781,Mountain,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+28,Jason,Rhino,Mountain,Herbivore,High,Common,H013,Forest,Arjun,3,2868,Canyon,26,3,Mild,Low,1.0,Balanced area with common animals
+29,Holly,Leopard,Indochinese,Herbivore,Medium,Rare,H002,Volcanic Zone,Liam,8,380,Forest,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+30,Rodney,Zebra,Sumatran,Herbivore,Low,Common,H006,Forest,Arjun,3,2950,Ruins,45,3,Mild,Low,1.0,Balanced area with common animals
+31,Julie,Bear,Mountain,Predator,Low,Uncommon,H040,Swamp,Ravi,1,850,Ruins,28,4,Wet,High,1.6,Murky lands with hidden threats
+32,Jody,Leopard,Arctic,Herbivore,Low,Uncommon,H052,Savanna,Ravi,5,683,Forest,46,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+33,Jennifer,Lion,Snow,Herbivore,Medium,Common,H042,Forest,Zara,7,2471,Desert,48,3,Mild,Low,1.0,Balanced area with common animals
+34,Michelle,Cheetah,Arctic,Predator,Low,Common,H075,Jungle,Arjun,7,2244,Jungle,40,1,Humid,High,1.5,Dense forest with dangerous wild predators
+35,Michelle,Wolf,Bengal,Herbivore,Medium,Rare,H069,Canyon,Reva,7,321,Mountain,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+36,Charles,Giraffe,Bengal,Herbivore,High,Uncommon,H002,Jungle,Liam,8,380,Forest,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+37,Andrea,Tiger,Bengal,Herbivore,Medium,Rare,H029,Desert,Zara,5,1641,Canyon,48,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+38,Sarah,Zebra,Bengal,Predator,High,Rare,H047,Desert,Meera,9,541,Ice Fields,36,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+39,Emily,Rhino,Snow,Omnivore,Medium,Common,H037,Swamp,Tara,7,1073,Desert,36,4,Wet,High,1.6,Murky lands with hidden threats
+40,Sally,Wolf,Sumatran,Predator,High,Rare,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+41,Cassidy,Lion,Arctic,Omnivore,High,Uncommon,H075,Savanna,Arjun,7,2244,Jungle,40,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+42,Ashley,Elephant,Bengal,Omnivore,Low,Uncommon,H038,Volcanic Zone,Liam,9,2014,Swamp,36,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+43,Mary,Leopard,Indian,Herbivore,Medium,Uncommon,H010,Canyon,Kaira,2,2495,Canyon,38,9,Hot,Medium,1.4,Narrow passages with ambush threats
+44,Kyle,Leopard,Mountain,Omnivore,Medium,Common,H094,Forest,Ravi,8,627,Riverlands,46,3,Mild,Low,1.0,Balanced area with common animals
+45,Gary,Leopard,Sumatran,Herbivore,High,Common,H051,Forest,Reva,8,1830,Riverlands,11,3,Mild,Low,1.0,Balanced area with common animals
+46,Aimee,Tiger,Siberian,Omnivore,High,Common,H080,Jungle,Nikhil,5,1228,Forest,40,1,Humid,High,1.5,Dense forest with dangerous wild predators
+47,Jose,Bear,Sumatran,Predator,Medium,Rare,H006,Savanna,Arjun,3,2950,Ruins,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+48,Monica,Leopard,Siberian,Predator,Low,Uncommon,H089,Volcanic Zone,Ravi,9,334,Volcano,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+49,Patricia,Wolf,Asian,Predator,Low,Uncommon,H016,Forest,Dev,4,2499,Jungle,11,3,Mild,Low,1.0,Balanced area with common animals
+50,Holly,Giraffe,Sumatran,Predator,Low,Common,H050,Swamp,Tara,6,831,Canyon,44,4,Wet,High,1.6,Murky lands with hidden threats
+51,Michelle,Cheetah,Mountain,Herbivore,High,Uncommon,H092,Desert,Tara,7,1246,Forest,6,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+52,Cole,Leopard,African,Herbivore,Low,Uncommon,H055,Swamp,Kaira,8,518,Volcano,15,4,Wet,High,1.6,Murky lands with hidden threats
+53,David,Rhino,Sumatran,Predator,High,Common,H035,Canyon,Ravi,4,792,Canyon,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+54,Christopher,Rhino,African,Omnivore,Medium,Uncommon,H024,Savanna,Zara,9,1405,Ice Fields,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+55,Calvin,Bear,Mountain,Omnivore,Medium,Uncommon,H094,Volcanic Zone,Ravi,8,627,Riverlands,46,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+56,Melissa,Wolf,Arctic,Herbivore,Medium,Rare,H090,Swamp,Zara,2,2327,Riverlands,22,4,Wet,High,1.6,Murky lands with hidden threats
+57,Laurie,Bear,Siberian,Predator,Low,Uncommon,H006,Savanna,Arjun,3,2950,Ruins,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+58,Jeffrey,Rhino,Siberian,Omnivore,Medium,Common,H041,City Ruins,Liam,5,1059,Volcano,39,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+59,Michelle,Bear,Indochinese,Herbivore,Low,Uncommon,H022,Desert,Zara,4,2500,Ruins,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+60,Steven,Leopard,Indochinese,Herbivore,High,Uncommon,H018,Volcanic Zone,Kaira,8,2257,Desert,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+61,Michael,Cheetah,Arctic,Omnivore,High,Rare,H057,Desert,Dev,7,1761,Ice Fields,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+62,Latasha,Bear,Siberian,Herbivore,High,Rare,H044,Savanna,Arjun,7,1338,Ruins,10,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+63,Natasha,Lion,Indochinese,Predator,High,Rare,H023,Volcanic Zone,Zara,5,2278,Volcano,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+64,Adam,Bear,Sumatran,Omnivore,Low,Common,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+65,Ricardo,Bear,Arctic,Herbivore,Low,Common,H010,Forest,Kaira,2,2495,Canyon,38,3,Mild,Low,1.0,Balanced area with common animals
+66,Stephanie,Cheetah,Asian,Predator,Low,Rare,H006,Mountains,Arjun,3,2950,Ruins,45,5,Cold,Medium,1.3,Rocky regions with agile animals
+67,Deborah,Bear,Indochinese,Herbivore,Low,Uncommon,H021,City Ruins,Reva,2,580,Desert,45,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+68,Laurie,Bear,Indochinese,Herbivore,Medium,Rare,H057,Mountains,Dev,7,1761,Ice Fields,26,5,Cold,Medium,1.3,Rocky regions with agile animals
+69,Andrea,Giraffe,Mountain,Omnivore,High,Uncommon,H043,Canyon,Zara,5,964,Volcano,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+70,Dalton,Giraffe,Siberian,Omnivore,High,Rare,H099,Swamp,Tara,9,2822,Ruins,31,4,Wet,High,1.6,Murky lands with hidden threats
+71,Daniel,Rhino,African,Herbivore,High,Common,H098,Forest,Reva,2,2266,Mountain,8,3,Mild,Low,1.0,Balanced area with common animals
+72,Rebecca,Cheetah,Snow,Herbivore,High,Uncommon,H047,Tundra,Meera,9,541,Ice Fields,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+73,Timothy,Giraffe,African,Omnivore,Low,Common,H058,Desert,Nikhil,9,1316,Volcano,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+74,Jamie,Tiger,Indochinese,Herbivore,High,Common,H072,Savanna,Tara,4,2685,Jungle,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+75,Steven,Tiger,Mountain,Predator,High,Uncommon,H050,Mountains,Tara,6,831,Canyon,44,5,Cold,Medium,1.3,Rocky regions with agile animals
+76,Kelsey,Giraffe,Sumatran,Omnivore,Medium,Uncommon,H038,Canyon,Liam,9,2014,Swamp,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+77,Sarah,Cheetah,Siberian,Omnivore,Low,Common,H034,Forest,Dev,6,1404,Swamp,24,3,Mild,Low,1.0,Balanced area with common animals
+78,Cameron,Leopard,Asian,Herbivore,Medium,Rare,H047,Forest,Meera,9,541,Ice Fields,36,3,Mild,Low,1.0,Balanced area with common animals
+79,Regina,Elephant,Mountain,Omnivore,High,Uncommon,H046,Swamp,Zara,5,923,Desert,34,4,Wet,High,1.6,Murky lands with hidden threats
+80,Lori,Bear,Sumatran,Herbivore,High,Uncommon,H018,Desert,Kaira,8,2257,Desert,22,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+81,Lori,Giraffe,Siberian,Omnivore,Low,Uncommon,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+82,Janet,Bear,Snow,Predator,Medium,Common,H053,Canyon,Ravi,7,1120,Ice Fields,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+83,Paul,Lion,Asian,Herbivore,High,Uncommon,H030,Savanna,Reva,3,524,Jungle,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+84,David,Cheetah,Sumatran,Herbivore,Medium,Rare,H043,Mountains,Zara,5,964,Volcano,11,5,Cold,Medium,1.3,Rocky regions with agile animals
+85,David,Giraffe,African,Omnivore,Low,Rare,H058,Mountains,Nikhil,9,1316,Volcano,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+86,Danny,Tiger,Arctic,Predator,Medium,Rare,H045,Mountains,Zara,10,1016,Ruins,27,5,Cold,Medium,1.3,Rocky regions with agile animals
+87,Susan,Bear,Indian,Omnivore,Low,Common,H093,Canyon,Reva,7,311,Canyon,25,9,Hot,Medium,1.4,Narrow passages with ambush threats
+88,Kari,Tiger,Asian,Omnivore,Low,Common,H079,City Ruins,Reva,2,1179,Desert,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+89,Anne,Lion,Arctic,Herbivore,Low,Rare,H046,Savanna,Zara,5,923,Desert,34,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+90,Jeffery,Zebra,Arctic,Omnivore,Low,Uncommon,H024,Savanna,Zara,9,1405,Ice Fields,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+91,Katelyn,Leopard,African,Herbivore,Medium,Rare,H065,Forest,Meera,8,206,Swamp,26,3,Mild,Low,1.0,Balanced area with common animals
+92,Joseph,Lion,Siberian,Predator,High,Common,H084,Mountains,Liam,7,1509,Forest,34,5,Cold,Medium,1.3,Rocky regions with agile animals
+93,Ethan,Tiger,Snow,Omnivore,Low,Common,H046,Canyon,Zara,5,923,Desert,34,9,Hot,Medium,1.4,Narrow passages with ambush threats
+94,Michael,Tiger,Bengal,Omnivore,High,Common,H071,Jungle,Reva,6,2104,Ice Fields,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+95,David,Bear,Indochinese,Predator,High,Rare,H010,City Ruins,Kaira,2,2495,Canyon,38,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+96,Leslie,Cheetah,Sumatran,Omnivore,High,Common,H031,Canyon,Ravi,7,2982,Volcano,43,9,Hot,Medium,1.4,Narrow passages with ambush threats
+97,Angelica,Lion,African,Herbivore,Medium,Rare,H046,Mountains,Zara,5,923,Desert,34,5,Cold,Medium,1.3,Rocky regions with agile animals
+98,Nancy,Tiger,Indochinese,Herbivore,Medium,Rare,H032,Volcanic Zone,Zara,10,1525,Desert,15,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+99,John,Tiger,Asian,Predator,Low,Common,H016,Savanna,Dev,4,2499,Jungle,11,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+100,Daniel,Lion,Bengal,Herbivore,Medium,Uncommon,H045,Savanna,Zara,10,1016,Ruins,27,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+101,Amy,Rhino,Bengal,Predator,Medium,Uncommon,H022,Canyon,Zara,4,2500,Ruins,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+102,Brandy,Bear,Sumatran,Predator,Medium,Uncommon,H042,Savanna,Zara,7,2471,Desert,48,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+103,Todd,Zebra,African,Predator,High,Uncommon,H040,Desert,Ravi,1,850,Ruins,28,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+104,Jason,Wolf,Snow,Predator,High,Uncommon,H044,Swamp,Arjun,7,1338,Ruins,10,4,Wet,High,1.6,Murky lands with hidden threats
+105,Seth,Elephant,Mountain,Omnivore,Low,Rare,H031,Swamp,Ravi,7,2982,Volcano,43,4,Wet,High,1.6,Murky lands with hidden threats
+106,Jessica,Leopard,Bengal,Predator,Medium,Common,H070,Tundra,Dev,1,1776,Volcano,38,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+107,Alexander,Bear,Indian,Omnivore,Medium,Common,H048,Canyon,Nikhil,7,2229,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+108,Ashley,Bear,Bengal,Herbivore,High,Rare,H076,City Ruins,Dev,1,315,Forest,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+109,Ashley,Wolf,African,Herbivore,Medium,Rare,H050,City Ruins,Tara,6,831,Canyon,44,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+110,Daniel,Giraffe,Indochinese,Predator,Medium,Uncommon,H008,Volcanic Zone,Liam,6,2972,Riverlands,14,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+111,Adam,Tiger,Sumatran,Herbivore,Low,Common,H054,City Ruins,Kaira,6,1775,Volcano,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+112,Tracey,Elephant,Arctic,Omnivore,High,Uncommon,H061,Forest,Zara,10,2525,Volcano,27,3,Mild,Low,1.0,Balanced area with common animals
+113,Jamie,Lion,African,Predator,Low,Uncommon,H067,Savanna,Nikhil,1,2618,Riverlands,16,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+114,Margaret,Cheetah,Indochinese,Herbivore,High,Rare,H089,Jungle,Ravi,9,334,Volcano,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+115,Victor,Lion,Indochinese,Predator,Low,Uncommon,H055,Desert,Kaira,8,518,Volcano,15,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+116,William,Rhino,Indian,Omnivore,High,Common,H097,Mountains,Dev,8,1256,Desert,9,5,Cold,Medium,1.3,Rocky regions with agile animals
+117,Crystal,Lion,Sumatran,Omnivore,Low,Uncommon,H091,Savanna,Reva,8,2781,Mountain,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+118,Rose,Leopard,Snow,Predator,High,Uncommon,H061,Savanna,Zara,10,2525,Volcano,27,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+119,Leah,Leopard,Siberian,Predator,Low,Uncommon,H061,Canyon,Zara,10,2525,Volcano,27,9,Hot,Medium,1.4,Narrow passages with ambush threats
+120,Melissa,Leopard,Asian,Omnivore,Medium,Uncommon,H049,Mountains,Zara,4,200,Forest,20,5,Cold,Medium,1.3,Rocky regions with agile animals
+121,Andrea,Elephant,Sumatran,Omnivore,Medium,Uncommon,H064,Canyon,Nikhil,3,1385,Desert,32,9,Hot,Medium,1.4,Narrow passages with ambush threats
+122,Lindsey,Tiger,African,Predator,Low,Uncommon,H034,City Ruins,Dev,6,1404,Swamp,24,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+123,Richard,Wolf,Arctic,Herbivore,High,Rare,H095,Savanna,Tara,4,991,Mountain,41,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+124,Richard,Bear,Siberian,Omnivore,High,Common,H073,Swamp,Ravi,6,709,Canyon,25,4,Wet,High,1.6,Murky lands with hidden threats
+125,Sean,Rhino,Asian,Predator,Low,Common,H029,Savanna,Zara,5,1641,Canyon,48,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+126,Raven,Rhino,Sumatran,Herbivore,Low,Rare,H069,Canyon,Reva,7,321,Mountain,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+127,Edward,Leopard,Mountain,Herbivore,Low,Uncommon,H017,Tundra,Liam,9,2480,Forest,23,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+128,Leslie,Tiger,African,Herbivore,High,Rare,H056,City Ruins,Arjun,9,1920,Ruins,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+129,Jake,Zebra,Indian,Omnivore,Low,Common,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+130,Mark,Elephant,Mountain,Herbivore,Medium,Common,H074,Tundra,Liam,5,473,Ruins,10,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+131,Ariana,Wolf,Arctic,Herbivore,High,Uncommon,H070,Tundra,Dev,1,1776,Volcano,38,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+132,Matthew,Elephant,Sumatran,Herbivore,High,Common,H100,Desert,Nikhil,1,611,Ice Fields,48,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+133,Danielle,Bear,Indochinese,Predator,High,Common,H076,Volcanic Zone,Dev,1,315,Forest,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+134,Candace,Lion,Bengal,Predator,Medium,Common,H069,Canyon,Reva,7,321,Mountain,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+135,Jesse,Elephant,Snow,Omnivore,Low,Uncommon,H057,Mountains,Dev,7,1761,Ice Fields,26,5,Cold,Medium,1.3,Rocky regions with agile animals
+136,Christine,Rhino,Indian,Herbivore,High,Rare,H026,Mountains,Arjun,2,983,Riverlands,33,5,Cold,Medium,1.3,Rocky regions with agile animals
+137,James,Wolf,Asian,Omnivore,Low,Rare,H097,Canyon,Dev,8,1256,Desert,9,9,Hot,Medium,1.4,Narrow passages with ambush threats
+138,Cheryl,Cheetah,Mountain,Predator,Medium,Uncommon,H071,City Ruins,Reva,6,2104,Ice Fields,16,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+139,Scott,Tiger,Snow,Herbivore,High,Uncommon,H073,Volcanic Zone,Ravi,6,709,Canyon,25,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+140,Sheri,Leopard,Mountain,Herbivore,High,Uncommon,H099,Mountains,Tara,9,2822,Ruins,31,5,Cold,Medium,1.3,Rocky regions with agile animals
+141,Kathryn,Giraffe,Arctic,Predator,Medium,Rare,H074,Desert,Liam,5,473,Ruins,10,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+142,Jennifer,Leopard,Indian,Omnivore,High,Uncommon,H020,Mountains,Kaira,1,2637,Ice Fields,28,5,Cold,Medium,1.3,Rocky regions with agile animals
+143,Kathleen,Bear,Asian,Omnivore,High,Common,H064,Jungle,Nikhil,3,1385,Desert,32,1,Humid,High,1.5,Dense forest with dangerous wild predators
+144,Cameron,Zebra,Sumatran,Predator,Medium,Common,H100,Tundra,Nikhil,1,611,Ice Fields,48,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+145,Victoria,Leopard,African,Omnivore,Low,Uncommon,H088,City Ruins,Liam,4,959,Canyon,17,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+146,Michael,Wolf,Mountain,Herbivore,High,Rare,H052,Jungle,Ravi,5,683,Forest,46,1,Humid,High,1.5,Dense forest with dangerous wild predators
+147,David,Elephant,Snow,Omnivore,Medium,Uncommon,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+148,Jacob,Giraffe,Mountain,Herbivore,Medium,Common,H042,Tundra,Zara,7,2471,Desert,48,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+149,David,Cheetah,Arctic,Omnivore,Medium,Common,H052,Forest,Ravi,5,683,Forest,46,3,Mild,Low,1.0,Balanced area with common animals
+150,Sara,Rhino,Asian,Herbivore,Medium,Rare,H098,Mountains,Reva,2,2266,Mountain,8,5,Cold,Medium,1.3,Rocky regions with agile animals
+151,Lawrence,Tiger,African,Herbivore,Medium,Rare,H092,Canyon,Tara,7,1246,Forest,6,9,Hot,Medium,1.4,Narrow passages with ambush threats
+152,Shannon,Wolf,Arctic,Herbivore,High,Common,H077,Jungle,Liam,7,1283,Swamp,42,1,Humid,High,1.5,Dense forest with dangerous wild predators
+153,Tyler,Bear,Mountain,Predator,Low,Rare,H002,Canyon,Liam,8,380,Forest,12,9,Hot,Medium,1.4,Narrow passages with ambush threats
+154,Ronald,Bear,Snow,Predator,Medium,Common,H083,Savanna,Arjun,10,391,Volcano,23,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+155,Chelsea,Lion,Siberian,Omnivore,Low,Common,H093,City Ruins,Reva,7,311,Canyon,25,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+156,Angel,Tiger,Indochinese,Omnivore,High,Common,H089,Mountains,Ravi,9,334,Volcano,12,5,Cold,Medium,1.3,Rocky regions with agile animals
+157,Daniel,Bear,Snow,Omnivore,Medium,Common,H009,Mountains,Ravi,2,2615,Desert,31,5,Cold,Medium,1.3,Rocky regions with agile animals
+158,Andrea,Wolf,Siberian,Omnivore,Low,Common,H014,Tundra,Zara,2,1239,Desert,27,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+159,Sergio,Lion,Indian,Omnivore,High,Uncommon,H080,Tundra,Nikhil,5,1228,Forest,40,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+160,Cassandra,Cheetah,Indian,Herbivore,Medium,Uncommon,H048,Mountains,Nikhil,7,2229,Mountain,8,5,Cold,Medium,1.3,Rocky regions with agile animals
+161,Tina,Lion,Mountain,Herbivore,Medium,Common,H055,Canyon,Kaira,8,518,Volcano,15,9,Hot,Medium,1.4,Narrow passages with ambush threats
+162,Lisa,Lion,Sumatran,Omnivore,High,Common,H080,Tundra,Nikhil,5,1228,Forest,40,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+163,Michael,Lion,Bengal,Predator,High,Common,H007,City Ruins,Zara,4,994,Riverlands,44,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+164,Carol,Bear,Indochinese,Omnivore,Low,Uncommon,H015,Savanna,Dev,4,600,Jungle,19,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+165,Tracy,Giraffe,Mountain,Predator,Medium,Rare,H079,Jungle,Reva,2,1179,Desert,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+166,Mark,Cheetah,Snow,Predator,High,Common,H049,Forest,Zara,4,200,Forest,20,3,Mild,Low,1.0,Balanced area with common animals
+167,Andrea,Elephant,Arctic,Herbivore,Low,Rare,H049,Swamp,Zara,4,200,Forest,20,4,Wet,High,1.6,Murky lands with hidden threats
+168,Laurie,Wolf,Bengal,Predator,Medium,Common,H008,Jungle,Liam,6,2972,Riverlands,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+169,Patrick,Tiger,Arctic,Herbivore,Medium,Uncommon,H030,Jungle,Reva,3,524,Jungle,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+170,Jennifer,Bear,Indochinese,Herbivore,High,Rare,H031,Tundra,Ravi,7,2982,Volcano,43,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+171,John,Cheetah,Bengal,Predator,Medium,Rare,H013,Desert,Arjun,3,2868,Canyon,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+172,Gary,Rhino,Asian,Omnivore,Medium,Common,H027,Swamp,Ravi,10,1674,Forest,37,4,Wet,High,1.6,Murky lands with hidden threats
+173,Courtney,Wolf,Asian,Omnivore,Low,Common,H034,Jungle,Dev,6,1404,Swamp,24,1,Humid,High,1.5,Dense forest with dangerous wild predators
+174,Nicole,Tiger,Bengal,Herbivore,Medium,Rare,H088,City Ruins,Liam,4,959,Canyon,17,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+175,Janet,Elephant,Mountain,Omnivore,Low,Rare,H051,Forest,Reva,8,1830,Riverlands,11,3,Mild,Low,1.0,Balanced area with common animals
+176,Anne,Leopard,African,Omnivore,Low,Common,H032,Canyon,Zara,10,1525,Desert,15,9,Hot,Medium,1.4,Narrow passages with ambush threats
+177,James,Rhino,Bengal,Omnivore,High,Common,H009,Desert,Ravi,2,2615,Desert,31,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+178,Jesse,Elephant,Arctic,Herbivore,Low,Uncommon,H059,Desert,Meera,8,2418,Swamp,7,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+179,David,Zebra,Arctic,Herbivore,High,Uncommon,H045,Savanna,Zara,10,1016,Ruins,27,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+180,Alex,Cheetah,Asian,Herbivore,Medium,Uncommon,H083,Mountains,Arjun,10,391,Volcano,23,5,Cold,Medium,1.3,Rocky regions with agile animals
+181,Jodi,Rhino,Mountain,Predator,Medium,Common,H039,Forest,Reva,1,1756,Ice Fields,6,3,Mild,Low,1.0,Balanced area with common animals
+182,Megan,Tiger,Indochinese,Herbivore,Low,Uncommon,H095,Savanna,Tara,4,991,Mountain,41,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+183,Judith,Elephant,African,Herbivore,Medium,Rare,H009,Volcanic Zone,Ravi,2,2615,Desert,31,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+184,Darrell,Zebra,Bengal,Omnivore,Low,Rare,H054,Swamp,Kaira,6,1775,Volcano,48,4,Wet,High,1.6,Murky lands with hidden threats
+185,Melvin,Lion,Sumatran,Omnivore,Medium,Uncommon,H053,Forest,Ravi,7,1120,Ice Fields,36,3,Mild,Low,1.0,Balanced area with common animals
+186,Angela,Wolf,Asian,Herbivore,Medium,Common,H087,Mountains,Ravi,10,1093,Swamp,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+187,Megan,Rhino,Indian,Predator,Low,Common,H034,Volcanic Zone,Dev,6,1404,Swamp,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+188,Maurice,Elephant,Indian,Omnivore,Low,Common,H077,Forest,Liam,7,1283,Swamp,42,3,Mild,Low,1.0,Balanced area with common animals
+189,Samantha,Zebra,Sumatran,Omnivore,High,Rare,H073,Tundra,Ravi,6,709,Canyon,25,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+190,Alejandro,Zebra,Bengal,Predator,Low,Uncommon,H097,Swamp,Dev,8,1256,Desert,9,4,Wet,High,1.6,Murky lands with hidden threats
+191,Jonathan,Zebra,African,Predator,High,Uncommon,H030,Forest,Reva,3,524,Jungle,45,3,Mild,Low,1.0,Balanced area with common animals
+192,Mark,Lion,Mountain,Omnivore,High,Rare,H038,Forest,Liam,9,2014,Swamp,36,3,Mild,Low,1.0,Balanced area with common animals
+193,Anthony,Tiger,Siberian,Herbivore,Medium,Rare,H077,City Ruins,Liam,7,1283,Swamp,42,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+194,Fred,Tiger,African,Predator,Low,Rare,H057,City Ruins,Dev,7,1761,Ice Fields,26,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+195,Lisa,Lion,Indochinese,Predator,Low,Common,H043,City Ruins,Zara,5,964,Volcano,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+196,Michael,Cheetah,Arctic,Herbivore,Medium,Rare,H058,Mountains,Nikhil,9,1316,Volcano,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+197,David,Zebra,Siberian,Omnivore,Low,Common,H007,Tundra,Zara,4,994,Riverlands,44,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+198,Diane,Elephant,Indochinese,Omnivore,High,Rare,H036,Savanna,Dev,10,1402,Mountain,19,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+199,Ryan,Lion,Siberian,Omnivore,High,Rare,H029,City Ruins,Zara,5,1641,Canyon,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+200,William,Cheetah,Arctic,Omnivore,Low,Rare,H060,Tundra,Dev,3,1162,Mountain,50,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+201,Jeffrey,Leopard,Indian,Predator,High,Uncommon,H094,City Ruins,Ravi,8,627,Riverlands,46,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+202,Jose,Tiger,Arctic,Omnivore,High,Uncommon,H056,Volcanic Zone,Arjun,9,1920,Ruins,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+203,Christine,Rhino,Mountain,Predator,Low,Rare,H070,Mountains,Dev,1,1776,Volcano,38,5,Cold,Medium,1.3,Rocky regions with agile animals
+204,Andrew,Rhino,Siberian,Herbivore,Low,Uncommon,H015,Desert,Dev,4,600,Jungle,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+205,Christine,Wolf,Indian,Herbivore,Low,Rare,H044,Canyon,Arjun,7,1338,Ruins,10,9,Hot,Medium,1.4,Narrow passages with ambush threats
+206,Crystal,Elephant,Arctic,Herbivore,Medium,Rare,H004,Canyon,Liam,9,1375,Riverlands,41,9,Hot,Medium,1.4,Narrow passages with ambush threats
+207,Levi,Giraffe,Siberian,Omnivore,Medium,Common,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+208,Ryan,Lion,African,Omnivore,High,Rare,H091,Jungle,Reva,8,2781,Mountain,22,1,Humid,High,1.5,Dense forest with dangerous wild predators
+209,Chad,Elephant,Asian,Omnivore,Low,Uncommon,H079,City Ruins,Reva,2,1179,Desert,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+210,Kevin,Leopard,Bengal,Herbivore,High,Rare,H031,Swamp,Ravi,7,2982,Volcano,43,4,Wet,High,1.6,Murky lands with hidden threats
+211,Christina,Giraffe,Indochinese,Predator,High,Uncommon,H032,Tundra,Zara,10,1525,Desert,15,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+212,Amber,Zebra,Bengal,Predator,Medium,Rare,H077,Tundra,Liam,7,1283,Swamp,42,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+213,Kevin,Leopard,Bengal,Herbivore,High,Uncommon,H053,Savanna,Ravi,7,1120,Ice Fields,36,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+214,Cindy,Leopard,Snow,Predator,High,Rare,H011,Forest,Kaira,3,1009,Ice Fields,14,3,Mild,Low,1.0,Balanced area with common animals
+215,Zachary,Lion,Snow,Omnivore,Low,Rare,H069,Mountains,Reva,7,321,Mountain,40,5,Cold,Medium,1.3,Rocky regions with agile animals
+216,Brian,Lion,Mountain,Predator,Low,Rare,H051,Canyon,Reva,8,1830,Riverlands,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+217,Brad,Elephant,Arctic,Omnivore,Medium,Rare,H098,Volcanic Zone,Reva,2,2266,Mountain,8,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+218,Robert,Elephant,Bengal,Herbivore,High,Common,H077,Swamp,Liam,7,1283,Swamp,42,4,Wet,High,1.6,Murky lands with hidden threats
+219,Scott,Rhino,Snow,Herbivore,High,Uncommon,H014,City Ruins,Zara,2,1239,Desert,27,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+220,Kara,Leopard,Indian,Omnivore,Medium,Uncommon,H008,Desert,Liam,6,2972,Riverlands,14,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+221,Steven,Lion,Indian,Predator,Medium,Uncommon,H088,Tundra,Liam,4,959,Canyon,17,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+222,Michael,Tiger,Indochinese,Omnivore,Low,Common,H079,Savanna,Reva,2,1179,Desert,12,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+223,Christopher,Wolf,Arctic,Omnivore,High,Common,H074,Mountains,Liam,5,473,Ruins,10,5,Cold,Medium,1.3,Rocky regions with agile animals
+224,Joseph,Leopard,Mountain,Predator,Medium,Uncommon,H025,Desert,Reva,3,1677,Swamp,50,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+225,Grant,Wolf,Asian,Herbivore,High,Rare,H040,City Ruins,Ravi,1,850,Ruins,28,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+226,Bryan,Giraffe,Indian,Predator,Medium,Uncommon,H056,Mountains,Arjun,9,1920,Ruins,12,5,Cold,Medium,1.3,Rocky regions with agile animals
+227,Tammy,Wolf,Snow,Herbivore,High,Uncommon,H074,Mountains,Liam,5,473,Ruins,10,5,Cold,Medium,1.3,Rocky regions with agile animals
+228,Megan,Elephant,Indochinese,Omnivore,Medium,Uncommon,H095,Tundra,Tara,4,991,Mountain,41,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+229,Crystal,Cheetah,Mountain,Predator,Medium,Rare,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+230,Kathryn,Tiger,Arctic,Omnivore,Low,Rare,H041,Volcanic Zone,Liam,5,1059,Volcano,39,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+231,Ariel,Giraffe,Sumatran,Omnivore,Low,Common,H022,Savanna,Zara,4,2500,Ruins,19,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+232,Mike,Bear,African,Predator,Medium,Common,H059,Swamp,Meera,8,2418,Swamp,7,4,Wet,High,1.6,Murky lands with hidden threats
+233,George,Bear,Indian,Omnivore,Medium,Common,H066,Savanna,Dev,6,2668,Volcano,5,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+234,Ebony,Rhino,Mountain,Omnivore,Medium,Common,H012,Mountains,Dev,5,572,Canyon,5,5,Cold,Medium,1.3,Rocky regions with agile animals
+235,Tammy,Giraffe,Indochinese,Herbivore,High,Common,H085,Canyon,Arjun,5,442,Ice Fields,49,9,Hot,Medium,1.4,Narrow passages with ambush threats
+236,Kayla,Bear,Asian,Omnivore,Low,Rare,H067,Desert,Nikhil,1,2618,Riverlands,16,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+237,Ashley,Bear,Arctic,Predator,Medium,Rare,H076,Savanna,Dev,1,315,Forest,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+238,Darrell,Zebra,Siberian,Omnivore,Medium,Rare,H016,Savanna,Dev,4,2499,Jungle,11,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+239,Jean,Rhino,Bengal,Predator,High,Uncommon,H018,Canyon,Kaira,8,2257,Desert,22,9,Hot,Medium,1.4,Narrow passages with ambush threats
+240,Daniel,Cheetah,Siberian,Herbivore,High,Common,H095,Forest,Tara,4,991,Mountain,41,3,Mild,Low,1.0,Balanced area with common animals
+241,Aaron,Giraffe,Bengal,Herbivore,High,Rare,H021,Volcanic Zone,Reva,2,580,Desert,45,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+242,Lauren,Leopard,Mountain,Herbivore,High,Common,H033,Forest,Meera,9,761,Desert,50,3,Mild,Low,1.0,Balanced area with common animals
+243,Raymond,Elephant,Arctic,Predator,Low,Rare,H016,Volcanic Zone,Dev,4,2499,Jungle,11,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+244,Karen,Bear,Sumatran,Omnivore,Medium,Rare,H017,Mountains,Liam,9,2480,Forest,23,5,Cold,Medium,1.3,Rocky regions with agile animals
+245,Jerry,Leopard,Arctic,Predator,High,Uncommon,H062,Jungle,Tara,1,1900,Riverlands,50,1,Humid,High,1.5,Dense forest with dangerous wild predators
+246,Linda,Cheetah,Asian,Omnivore,Medium,Rare,H020,City Ruins,Kaira,1,2637,Ice Fields,28,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+247,Levi,Elephant,African,Herbivore,Medium,Common,H044,City Ruins,Arjun,7,1338,Ruins,10,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+248,Brian,Leopard,Indian,Herbivore,Medium,Common,H091,Volcanic Zone,Reva,8,2781,Mountain,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+249,Nathan,Zebra,Sumatran,Predator,High,Rare,H064,City Ruins,Nikhil,3,1385,Desert,32,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+250,Carl,Lion,Mountain,Predator,Low,Uncommon,H005,Tundra,Kaira,4,1498,Mountain,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+251,Cheryl,Cheetah,Indian,Omnivore,Medium,Uncommon,H003,Volcanic Zone,Meera,3,1787,Volcano,42,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+252,Tina,Elephant,Siberian,Predator,Medium,Common,H012,Canyon,Dev,5,572,Canyon,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+253,James,Tiger,Snow,Omnivore,Medium,Common,H067,Volcanic Zone,Nikhil,1,2618,Riverlands,16,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+254,Mitchell,Bear,Bengal,Predator,High,Uncommon,H078,Forest,Tara,3,1969,Desert,49,3,Mild,Low,1.0,Balanced area with common animals
+255,Jessica,Leopard,African,Omnivore,High,Uncommon,H035,Tundra,Ravi,4,792,Canyon,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+256,Laura,Leopard,Indochinese,Predator,High,Common,H053,Forest,Ravi,7,1120,Ice Fields,36,3,Mild,Low,1.0,Balanced area with common animals
+257,Emily,Leopard,Bengal,Omnivore,High,Rare,H048,Savanna,Nikhil,7,2229,Mountain,8,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+258,Elizabeth,Bear,Sumatran,Predator,High,Common,H087,Forest,Ravi,10,1093,Swamp,19,3,Mild,Low,1.0,Balanced area with common animals
+259,Victor,Wolf,Snow,Predator,High,Rare,H011,Forest,Kaira,3,1009,Ice Fields,14,3,Mild,Low,1.0,Balanced area with common animals
+260,Crystal,Elephant,African,Omnivore,Medium,Uncommon,H074,Jungle,Liam,5,473,Ruins,10,1,Humid,High,1.5,Dense forest with dangerous wild predators
+261,Jeffrey,Lion,Mountain,Omnivore,High,Uncommon,H044,Jungle,Arjun,7,1338,Ruins,10,1,Humid,High,1.5,Dense forest with dangerous wild predators
+262,Pamela,Tiger,Asian,Herbivore,Medium,Rare,H065,Volcanic Zone,Meera,8,206,Swamp,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+263,Kenneth,Zebra,Sumatran,Predator,Low,Common,H034,Volcanic Zone,Dev,6,1404,Swamp,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+264,Jacqueline,Bear,African,Predator,High,Common,H085,Volcanic Zone,Arjun,5,442,Ice Fields,49,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+265,Melvin,Cheetah,Bengal,Predator,Medium,Rare,H047,Tundra,Meera,9,541,Ice Fields,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+266,Melissa,Lion,African,Predator,Low,Uncommon,H011,Jungle,Kaira,3,1009,Ice Fields,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+267,George,Cheetah,Snow,Omnivore,Medium,Rare,H044,Jungle,Arjun,7,1338,Ruins,10,1,Humid,High,1.5,Dense forest with dangerous wild predators
+268,Douglas,Elephant,Indochinese,Predator,Low,Uncommon,H013,City Ruins,Arjun,3,2868,Canyon,26,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+269,Michael,Cheetah,Siberian,Omnivore,High,Rare,H082,Canyon,Dev,2,2294,Desert,6,9,Hot,Medium,1.4,Narrow passages with ambush threats
+270,Jennifer,Elephant,Siberian,Herbivore,Low,Common,H003,Savanna,Meera,3,1787,Volcano,42,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+271,David,Elephant,Indochinese,Omnivore,Medium,Uncommon,H053,Jungle,Ravi,7,1120,Ice Fields,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+272,Jennifer,Elephant,Snow,Predator,Low,Uncommon,H009,Savanna,Ravi,2,2615,Desert,31,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+273,Michelle,Lion,Bengal,Omnivore,Low,Uncommon,H037,Tundra,Tara,7,1073,Desert,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+274,Adam,Elephant,Indian,Herbivore,Low,Uncommon,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+275,Michelle,Giraffe,Asian,Predator,High,Rare,H069,Volcanic Zone,Reva,7,321,Mountain,40,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+276,Manuel,Tiger,Arctic,Omnivore,High,Uncommon,H073,Desert,Ravi,6,709,Canyon,25,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+277,Erica,Rhino,Siberian,Herbivore,Low,Common,H068,Jungle,Dev,4,2020,Ruins,5,1,Humid,High,1.5,Dense forest with dangerous wild predators
+278,Ronnie,Rhino,Snow,Omnivore,Low,Rare,H010,Canyon,Kaira,2,2495,Canyon,38,9,Hot,Medium,1.4,Narrow passages with ambush threats
+279,Daniel,Cheetah,Bengal,Herbivore,Medium,Rare,H040,City Ruins,Ravi,1,850,Ruins,28,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+280,Veronica,Elephant,Indian,Omnivore,Medium,Rare,H099,City Ruins,Tara,9,2822,Ruins,31,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+281,Jeremy,Giraffe,Arctic,Omnivore,High,Common,H074,Tundra,Liam,5,473,Ruins,10,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+282,Janet,Cheetah,Sumatran,Predator,High,Rare,H025,Jungle,Reva,3,1677,Swamp,50,1,Humid,High,1.5,Dense forest with dangerous wild predators
+283,Jessica,Lion,Bengal,Omnivore,Medium,Rare,H063,Jungle,Tara,2,1285,Swamp,43,1,Humid,High,1.5,Dense forest with dangerous wild predators
+284,Dustin,Zebra,Indian,Omnivore,High,Common,H053,Canyon,Ravi,7,1120,Ice Fields,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+285,Joshua,Tiger,African,Omnivore,Medium,Rare,H086,Desert,Zara,6,457,Ruins,32,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+286,Jason,Leopard,Asian,Predator,Medium,Common,H044,Forest,Arjun,7,1338,Ruins,10,3,Mild,Low,1.0,Balanced area with common animals
+287,Brian,Elephant,Asian,Omnivore,Medium,Rare,H094,Forest,Ravi,8,627,Riverlands,46,3,Mild,Low,1.0,Balanced area with common animals
+288,John,Zebra,Asian,Herbivore,High,Uncommon,H100,Tundra,Nikhil,1,611,Ice Fields,48,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+289,Katrina,Lion,Indian,Herbivore,Low,Rare,H036,Tundra,Dev,10,1402,Mountain,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+290,Amber,Leopard,Bengal,Herbivore,Low,Common,H072,Tundra,Tara,4,2685,Jungle,14,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+291,Christopher,Tiger,African,Predator,Medium,Uncommon,H041,Swamp,Liam,5,1059,Volcano,39,4,Wet,High,1.6,Murky lands with hidden threats
+292,Evan,Zebra,Siberian,Omnivore,High,Common,H092,Savanna,Tara,7,1246,Forest,6,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+293,Donna,Elephant,Arctic,Predator,Low,Rare,H016,Tundra,Dev,4,2499,Jungle,11,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+294,Amy,Cheetah,Arctic,Omnivore,Low,Rare,H029,City Ruins,Zara,5,1641,Canyon,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+295,Sarah,Zebra,Siberian,Predator,Low,Common,H078,Savanna,Tara,3,1969,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+296,Joseph,Elephant,Indian,Predator,Medium,Rare,H019,Forest,Zara,4,1759,Canyon,14,3,Mild,Low,1.0,Balanced area with common animals
+297,Joshua,Giraffe,Bengal,Predator,Low,Uncommon,H096,Desert,Arjun,5,228,Forest,42,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+298,Jeff,Rhino,Sumatran,Herbivore,High,Rare,H024,Canyon,Zara,9,1405,Ice Fields,45,9,Hot,Medium,1.4,Narrow passages with ambush threats
+299,Joseph,Cheetah,Asian,Predator,High,Uncommon,H100,Canyon,Nikhil,1,611,Ice Fields,48,9,Hot,Medium,1.4,Narrow passages with ambush threats
+300,David,Cheetah,Siberian,Herbivore,Low,Uncommon,H081,City Ruins,Dev,9,558,Ruins,16,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+301,Keith,Bear,Siberian,Herbivore,Low,Common,H017,Jungle,Liam,9,2480,Forest,23,1,Humid,High,1.5,Dense forest with dangerous wild predators
+302,Michael,Lion,Sumatran,Herbivore,Low,Common,H057,Tundra,Dev,7,1761,Ice Fields,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+303,Corey,Wolf,Snow,Predator,Low,Rare,H063,Tundra,Tara,2,1285,Swamp,43,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+304,Jennifer,Lion,Arctic,Omnivore,Low,Common,H037,Jungle,Tara,7,1073,Desert,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+305,Kathryn,Cheetah,Indochinese,Predator,Medium,Rare,H079,Swamp,Reva,2,1179,Desert,12,4,Wet,High,1.6,Murky lands with hidden threats
+306,Ryan,Zebra,Bengal,Herbivore,Medium,Uncommon,H087,Mountains,Ravi,10,1093,Swamp,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+307,Frank,Cheetah,Siberian,Herbivore,Medium,Rare,H044,Tundra,Arjun,7,1338,Ruins,10,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+308,Mark,Zebra,Arctic,Predator,Medium,Common,H074,Mountains,Liam,5,473,Ruins,10,5,Cold,Medium,1.3,Rocky regions with agile animals
+309,Diane,Leopard,Indochinese,Herbivore,High,Rare,H088,Volcanic Zone,Liam,4,959,Canyon,17,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+310,Denise,Tiger,Mountain,Omnivore,Low,Common,H058,Savanna,Nikhil,9,1316,Volcano,19,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+311,Stephen,Rhino,Mountain,Predator,Medium,Common,H032,Savanna,Zara,10,1525,Desert,15,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+312,Jose,Lion,Bengal,Omnivore,High,Common,H087,Mountains,Ravi,10,1093,Swamp,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+313,Christine,Zebra,Indian,Predator,High,Uncommon,H020,Volcanic Zone,Kaira,1,2637,Ice Fields,28,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+314,Raven,Lion,Mountain,Omnivore,High,Uncommon,H012,Swamp,Dev,5,572,Canyon,5,4,Wet,High,1.6,Murky lands with hidden threats
+315,Jason,Zebra,Siberian,Predator,High,Uncommon,H008,Forest,Liam,6,2972,Riverlands,14,3,Mild,Low,1.0,Balanced area with common animals
+316,Jonathan,Elephant,Indochinese,Predator,Low,Uncommon,H012,Canyon,Dev,5,572,Canyon,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+317,Kimberly,Elephant,Asian,Predator,Low,Rare,H016,Mountains,Dev,4,2499,Jungle,11,5,Cold,Medium,1.3,Rocky regions with agile animals
+318,Katherine,Cheetah,Asian,Predator,High,Common,H042,Savanna,Zara,7,2471,Desert,48,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+319,Melissa,Lion,Snow,Omnivore,Low,Uncommon,H099,Savanna,Tara,9,2822,Ruins,31,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+320,Brent,Leopard,African,Omnivore,High,Rare,H017,Swamp,Liam,9,2480,Forest,23,4,Wet,High,1.6,Murky lands with hidden threats
+321,Tina,Tiger,Bengal,Herbivore,High,Rare,H081,City Ruins,Dev,9,558,Ruins,16,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+322,Nicole,Leopard,Bengal,Omnivore,Medium,Rare,H063,City Ruins,Tara,2,1285,Swamp,43,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+323,Nancy,Giraffe,Asian,Predator,Medium,Rare,H048,Volcanic Zone,Nikhil,7,2229,Mountain,8,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+324,Alicia,Leopard,Siberian,Predator,Medium,Uncommon,H030,Forest,Reva,3,524,Jungle,45,3,Mild,Low,1.0,Balanced area with common animals
+325,Andrew,Rhino,Mountain,Herbivore,High,Rare,H033,Desert,Meera,9,761,Desert,50,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+326,David,Rhino,Mountain,Omnivore,Medium,Common,H051,Mountains,Reva,8,1830,Riverlands,11,5,Cold,Medium,1.3,Rocky regions with agile animals
+327,Emily,Lion,Bengal,Omnivore,Low,Rare,H084,Swamp,Liam,7,1509,Forest,34,4,Wet,High,1.6,Murky lands with hidden threats
+328,Jason,Elephant,Asian,Herbivore,High,Rare,H005,City Ruins,Kaira,4,1498,Mountain,19,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+329,Ruth,Tiger,Sumatran,Predator,Low,Common,H017,Forest,Liam,9,2480,Forest,23,3,Mild,Low,1.0,Balanced area with common animals
+330,Larry,Lion,Arctic,Predator,Low,Common,H062,City Ruins,Tara,1,1900,Riverlands,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+331,Ryan,Leopard,Indian,Herbivore,Medium,Uncommon,H003,Canyon,Meera,3,1787,Volcano,42,9,Hot,Medium,1.4,Narrow passages with ambush threats
+332,Julia,Lion,Snow,Predator,Low,Rare,H094,Canyon,Ravi,8,627,Riverlands,46,9,Hot,Medium,1.4,Narrow passages with ambush threats
+333,Frederick,Rhino,Mountain,Omnivore,Low,Rare,H097,Savanna,Dev,8,1256,Desert,9,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+334,Karen,Giraffe,Indochinese,Herbivore,Low,Common,H097,City Ruins,Dev,8,1256,Desert,9,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+335,John,Zebra,Mountain,Herbivore,Medium,Rare,H065,Savanna,Meera,8,206,Swamp,26,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+336,Shawn,Tiger,Asian,Omnivore,High,Uncommon,H082,Forest,Dev,2,2294,Desert,6,3,Mild,Low,1.0,Balanced area with common animals
+337,Hayley,Wolf,Sumatran,Omnivore,High,Uncommon,H025,Savanna,Reva,3,1677,Swamp,50,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+338,Cody,Giraffe,Asian,Herbivore,Low,Rare,H089,Swamp,Ravi,9,334,Volcano,12,4,Wet,High,1.6,Murky lands with hidden threats
+339,Brittany,Zebra,Asian,Herbivore,Medium,Rare,H035,Swamp,Ravi,4,792,Canyon,26,4,Wet,High,1.6,Murky lands with hidden threats
+340,Aaron,Lion,Asian,Omnivore,High,Rare,H070,Jungle,Dev,1,1776,Volcano,38,1,Humid,High,1.5,Dense forest with dangerous wild predators
+341,Marvin,Lion,Indian,Predator,Low,Common,H052,Volcanic Zone,Ravi,5,683,Forest,46,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+342,Henry,Cheetah,Siberian,Omnivore,Low,Common,H029,Swamp,Zara,5,1641,Canyon,48,4,Wet,High,1.6,Murky lands with hidden threats
+343,Michelle,Giraffe,Indian,Omnivore,Medium,Common,H071,Tundra,Reva,6,2104,Ice Fields,16,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+344,Carrie,Tiger,Asian,Herbivore,Low,Uncommon,H073,Volcanic Zone,Ravi,6,709,Canyon,25,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+345,Ana,Giraffe,Arctic,Predator,Medium,Uncommon,H006,Jungle,Arjun,3,2950,Ruins,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+346,Nancy,Giraffe,Indian,Herbivore,Medium,Rare,H007,Canyon,Zara,4,994,Riverlands,44,9,Hot,Medium,1.4,Narrow passages with ambush threats
+347,Candace,Wolf,Bengal,Omnivore,Low,Rare,H090,City Ruins,Zara,2,2327,Riverlands,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+348,Jacqueline,Bear,African,Omnivore,Low,Common,H022,Desert,Zara,4,2500,Ruins,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+349,Gregory,Bear,Mountain,Omnivore,Medium,Rare,H001,Forest,Nikhil,5,2028,Riverlands,20,3,Mild,Low,1.0,Balanced area with common animals
+350,Natalie,Elephant,Siberian,Herbivore,High,Uncommon,H084,Swamp,Liam,7,1509,Forest,34,4,Wet,High,1.6,Murky lands with hidden threats
+351,Laura,Rhino,Snow,Predator,High,Rare,H004,Forest,Liam,9,1375,Riverlands,41,3,Mild,Low,1.0,Balanced area with common animals
+352,Nancy,Bear,Bengal,Predator,Medium,Uncommon,H079,Savanna,Reva,2,1179,Desert,12,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+353,Paula,Lion,Bengal,Omnivore,Low,Rare,H078,Forest,Tara,3,1969,Desert,49,3,Mild,Low,1.0,Balanced area with common animals
+354,Melissa,Rhino,Siberian,Omnivore,Medium,Rare,H100,Mountains,Nikhil,1,611,Ice Fields,48,5,Cold,Medium,1.3,Rocky regions with agile animals
+355,Lisa,Bear,African,Herbivore,High,Common,H069,Tundra,Reva,7,321,Mountain,40,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+356,Kevin,Elephant,Mountain,Predator,High,Rare,H090,Volcanic Zone,Zara,2,2327,Riverlands,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+357,Randy,Giraffe,Mountain,Predator,High,Common,H059,Volcanic Zone,Meera,8,2418,Swamp,7,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+358,Chase,Leopard,Indian,Omnivore,High,Rare,H099,Savanna,Tara,9,2822,Ruins,31,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+359,Richard,Elephant,Snow,Omnivore,High,Uncommon,H090,Mountains,Zara,2,2327,Riverlands,22,5,Cold,Medium,1.3,Rocky regions with agile animals
+360,Kevin,Zebra,Indochinese,Herbivore,Low,Uncommon,H041,Swamp,Liam,5,1059,Volcano,39,4,Wet,High,1.6,Murky lands with hidden threats
+361,Jessica,Rhino,Bengal,Predator,Medium,Rare,H075,Canyon,Arjun,7,2244,Jungle,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+362,Terri,Elephant,Bengal,Predator,Low,Common,H055,Mountains,Kaira,8,518,Volcano,15,5,Cold,Medium,1.3,Rocky regions with agile animals
+363,Michael,Elephant,Indochinese,Herbivore,Low,Common,H064,Canyon,Nikhil,3,1385,Desert,32,9,Hot,Medium,1.4,Narrow passages with ambush threats
+364,Brian,Wolf,Sumatran,Omnivore,Low,Common,H028,Tundra,Liam,5,2836,Desert,49,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+365,Sarah,Wolf,Arctic,Herbivore,Medium,Common,H079,Jungle,Reva,2,1179,Desert,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+366,Melissa,Zebra,Snow,Herbivore,Low,Uncommon,H026,Forest,Arjun,2,983,Riverlands,33,3,Mild,Low,1.0,Balanced area with common animals
+367,Kyle,Zebra,Siberian,Omnivore,Low,Uncommon,H040,Savanna,Ravi,1,850,Ruins,28,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+368,Deborah,Leopard,Asian,Herbivore,High,Uncommon,H093,Mountains,Reva,7,311,Canyon,25,5,Cold,Medium,1.3,Rocky regions with agile animals
+369,Miranda,Elephant,Mountain,Herbivore,Medium,Rare,H081,Canyon,Dev,9,558,Ruins,16,9,Hot,Medium,1.4,Narrow passages with ambush threats
+370,Katherine,Giraffe,Arctic,Omnivore,High,Rare,H088,Forest,Liam,4,959,Canyon,17,3,Mild,Low,1.0,Balanced area with common animals
+371,Tina,Giraffe,Siberian,Herbivore,Low,Uncommon,H078,Swamp,Tara,3,1969,Desert,49,4,Wet,High,1.6,Murky lands with hidden threats
+372,Sandra,Zebra,Snow,Omnivore,Medium,Common,H061,Swamp,Zara,10,2525,Volcano,27,4,Wet,High,1.6,Murky lands with hidden threats
+373,Victoria,Elephant,Siberian,Herbivore,Low,Common,H068,Forest,Dev,4,2020,Ruins,5,3,Mild,Low,1.0,Balanced area with common animals
+374,John,Cheetah,Arctic,Predator,High,Uncommon,H048,Volcanic Zone,Nikhil,7,2229,Mountain,8,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+375,Annette,Wolf,Sumatran,Herbivore,Low,Uncommon,H035,Desert,Ravi,4,792,Canyon,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+376,Beverly,Giraffe,Bengal,Predator,High,Rare,H053,Desert,Ravi,7,1120,Ice Fields,36,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+377,Patrick,Giraffe,Siberian,Herbivore,High,Rare,H035,Desert,Ravi,4,792,Canyon,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+378,James,Zebra,Siberian,Herbivore,Medium,Common,H048,Mountains,Nikhil,7,2229,Mountain,8,5,Cold,Medium,1.3,Rocky regions with agile animals
+379,John,Leopard,Snow,Omnivore,Medium,Uncommon,H026,Tundra,Arjun,2,983,Riverlands,33,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+380,Krista,Zebra,Arctic,Herbivore,Low,Common,H012,Swamp,Dev,5,572,Canyon,5,4,Wet,High,1.6,Murky lands with hidden threats
+381,Amy,Leopard,Asian,Predator,Low,Common,H022,Forest,Zara,4,2500,Ruins,19,3,Mild,Low,1.0,Balanced area with common animals
+382,Krystal,Rhino,Arctic,Omnivore,High,Rare,H080,Savanna,Nikhil,5,1228,Forest,40,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+383,Adam,Bear,Siberian,Omnivore,Low,Common,H020,Savanna,Kaira,1,2637,Ice Fields,28,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+384,Alejandra,Rhino,Arctic,Omnivore,Medium,Uncommon,H022,Canyon,Zara,4,2500,Ruins,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+385,Anthony,Lion,Siberian,Herbivore,Medium,Common,H096,Mountains,Arjun,5,228,Forest,42,5,Cold,Medium,1.3,Rocky regions with agile animals
+386,Travis,Cheetah,African,Herbivore,High,Uncommon,H082,City Ruins,Dev,2,2294,Desert,6,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+387,Madison,Cheetah,Indochinese,Omnivore,Medium,Common,H045,Canyon,Zara,10,1016,Ruins,27,9,Hot,Medium,1.4,Narrow passages with ambush threats
+388,Christopher,Wolf,Bengal,Omnivore,High,Rare,H089,Swamp,Ravi,9,334,Volcano,12,4,Wet,High,1.6,Murky lands with hidden threats
+389,Jennifer,Wolf,Siberian,Herbivore,Low,Common,H087,Jungle,Ravi,10,1093,Swamp,19,1,Humid,High,1.5,Dense forest with dangerous wild predators
+390,Amber,Zebra,Indian,Herbivore,Low,Common,H015,Tundra,Dev,4,600,Jungle,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+391,Thomas,Lion,Snow,Herbivore,Low,Uncommon,H063,Mountains,Tara,2,1285,Swamp,43,5,Cold,Medium,1.3,Rocky regions with agile animals
+392,Christine,Lion,African,Omnivore,Medium,Uncommon,H067,Mountains,Nikhil,1,2618,Riverlands,16,5,Cold,Medium,1.3,Rocky regions with agile animals
+393,Jeffrey,Tiger,Indian,Omnivore,Low,Uncommon,H024,Desert,Zara,9,1405,Ice Fields,45,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+394,Kristen,Cheetah,African,Predator,High,Common,H072,Canyon,Tara,4,2685,Jungle,14,9,Hot,Medium,1.4,Narrow passages with ambush threats
+395,Denise,Lion,Mountain,Herbivore,Low,Uncommon,H070,Mountains,Dev,1,1776,Volcano,38,5,Cold,Medium,1.3,Rocky regions with agile animals
+396,Daniel,Cheetah,African,Omnivore,High,Rare,H016,Mountains,Dev,4,2499,Jungle,11,5,Cold,Medium,1.3,Rocky regions with agile animals
+397,Jason,Cheetah,Arctic,Omnivore,Low,Rare,H035,Forest,Ravi,4,792,Canyon,26,3,Mild,Low,1.0,Balanced area with common animals
+398,Edward,Lion,Bengal,Herbivore,Low,Rare,H073,Savanna,Ravi,6,709,Canyon,25,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+399,Angela,Lion,Indochinese,Omnivore,Medium,Rare,H087,Swamp,Ravi,10,1093,Swamp,19,4,Wet,High,1.6,Murky lands with hidden threats
+400,Christina,Lion,Indian,Predator,High,Common,H010,Mountains,Kaira,2,2495,Canyon,38,5,Cold,Medium,1.3,Rocky regions with agile animals
+401,Don,Bear,Asian,Herbivore,High,Common,H056,Swamp,Arjun,9,1920,Ruins,12,4,Wet,High,1.6,Murky lands with hidden threats
+402,Zachary,Leopard,Snow,Omnivore,Medium,Common,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+403,Michael,Giraffe,Indian,Omnivore,Medium,Rare,H060,Volcanic Zone,Dev,3,1162,Mountain,50,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+404,Todd,Wolf,Mountain,Herbivore,Low,Rare,H076,Desert,Dev,1,315,Forest,22,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+405,Dale,Tiger,Sumatran,Herbivore,Medium,Rare,H028,Canyon,Liam,5,2836,Desert,49,9,Hot,Medium,1.4,Narrow passages with ambush threats
+406,Paul,Rhino,Asian,Omnivore,High,Uncommon,H061,Tundra,Zara,10,2525,Volcano,27,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+407,Bonnie,Lion,Indochinese,Omnivore,Low,Rare,H047,Savanna,Meera,9,541,Ice Fields,36,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+408,Kim,Bear,African,Herbivore,Medium,Common,H086,Savanna,Zara,6,457,Ruins,32,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+409,Mark,Zebra,Indian,Herbivore,Low,Uncommon,H094,Jungle,Ravi,8,627,Riverlands,46,1,Humid,High,1.5,Dense forest with dangerous wild predators
+410,Jonathan,Giraffe,Sumatran,Predator,Low,Uncommon,H014,Canyon,Zara,2,1239,Desert,27,9,Hot,Medium,1.4,Narrow passages with ambush threats
+411,Katie,Elephant,Sumatran,Omnivore,High,Uncommon,H010,Canyon,Kaira,2,2495,Canyon,38,9,Hot,Medium,1.4,Narrow passages with ambush threats
+412,Amanda,Giraffe,Indochinese,Herbivore,Low,Common,H072,City Ruins,Tara,4,2685,Jungle,14,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+413,Shelly,Cheetah,Snow,Omnivore,High,Uncommon,H006,Jungle,Arjun,3,2950,Ruins,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+414,Johnny,Wolf,Bengal,Herbivore,High,Rare,H015,Volcanic Zone,Dev,4,600,Jungle,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+415,Brittany,Zebra,Snow,Omnivore,High,Rare,H017,Tundra,Liam,9,2480,Forest,23,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+416,Sabrina,Rhino,Sumatran,Omnivore,Medium,Rare,H085,Tundra,Arjun,5,442,Ice Fields,49,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+417,Denise,Cheetah,Indochinese,Predator,Low,Common,H066,Mountains,Dev,6,2668,Volcano,5,5,Cold,Medium,1.3,Rocky regions with agile animals
+418,John,Giraffe,Siberian,Predator,Medium,Rare,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+419,Raymond,Wolf,African,Herbivore,High,Rare,H084,Canyon,Liam,7,1509,Forest,34,9,Hot,Medium,1.4,Narrow passages with ambush threats
+420,Janice,Giraffe,African,Herbivore,High,Rare,H073,Jungle,Ravi,6,709,Canyon,25,1,Humid,High,1.5,Dense forest with dangerous wild predators
+421,Jenny,Giraffe,Siberian,Predator,Medium,Uncommon,H034,Mountains,Dev,6,1404,Swamp,24,5,Cold,Medium,1.3,Rocky regions with agile animals
+422,David,Zebra,African,Omnivore,Medium,Rare,H043,Forest,Zara,5,964,Volcano,11,3,Mild,Low,1.0,Balanced area with common animals
+423,Linda,Rhino,Sumatran,Omnivore,High,Rare,H002,City Ruins,Liam,8,380,Forest,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+424,John,Wolf,Indian,Herbivore,Low,Rare,H066,Jungle,Dev,6,2668,Volcano,5,1,Humid,High,1.5,Dense forest with dangerous wild predators
+425,Maria,Zebra,African,Omnivore,Medium,Rare,H053,Tundra,Ravi,7,1120,Ice Fields,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+426,Victor,Cheetah,Snow,Omnivore,Medium,Uncommon,H079,Volcanic Zone,Reva,2,1179,Desert,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+427,Kristen,Cheetah,Indochinese,Predator,Medium,Rare,H018,Volcanic Zone,Kaira,8,2257,Desert,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+428,John,Bear,Sumatran,Herbivore,High,Rare,H017,Volcanic Zone,Liam,9,2480,Forest,23,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+429,Catherine,Lion,Indian,Herbivore,Medium,Rare,H083,City Ruins,Arjun,10,391,Volcano,23,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+430,Cynthia,Cheetah,Bengal,Omnivore,High,Uncommon,H064,Swamp,Nikhil,3,1385,Desert,32,4,Wet,High,1.6,Murky lands with hidden threats
+431,Tina,Tiger,Siberian,Herbivore,High,Uncommon,H070,Tundra,Dev,1,1776,Volcano,38,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+432,Bryan,Leopard,Asian,Herbivore,Low,Rare,H086,Savanna,Zara,6,457,Ruins,32,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+433,Mary,Wolf,Siberian,Herbivore,Medium,Uncommon,H038,City Ruins,Liam,9,2014,Swamp,36,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+434,Richard,Zebra,Asian,Omnivore,Medium,Rare,H092,Desert,Tara,7,1246,Forest,6,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+435,Kyle,Zebra,Snow,Omnivore,Low,Rare,H080,City Ruins,Nikhil,5,1228,Forest,40,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+436,Curtis,Bear,Snow,Omnivore,Low,Common,H062,Forest,Tara,1,1900,Riverlands,50,3,Mild,Low,1.0,Balanced area with common animals
+437,Brian,Rhino,Siberian,Omnivore,Low,Rare,H050,Mountains,Tara,6,831,Canyon,44,5,Cold,Medium,1.3,Rocky regions with agile animals
+438,Jessica,Cheetah,Sumatran,Predator,Medium,Uncommon,H051,Desert,Reva,8,1830,Riverlands,11,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+439,Stephanie,Cheetah,Arctic,Omnivore,Low,Common,H071,Swamp,Reva,6,2104,Ice Fields,16,4,Wet,High,1.6,Murky lands with hidden threats
+440,Joseph,Leopard,Mountain,Predator,High,Rare,H004,Canyon,Liam,9,1375,Riverlands,41,9,Hot,Medium,1.4,Narrow passages with ambush threats
+441,Alexis,Rhino,African,Herbivore,Low,Rare,H007,Forest,Zara,4,994,Riverlands,44,3,Mild,Low,1.0,Balanced area with common animals
+442,Richard,Bear,Arctic,Predator,High,Rare,H043,City Ruins,Zara,5,964,Volcano,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+443,Katherine,Elephant,Asian,Predator,High,Rare,H031,Jungle,Ravi,7,2982,Volcano,43,1,Humid,High,1.5,Dense forest with dangerous wild predators
+444,Lee,Giraffe,Bengal,Omnivore,High,Uncommon,H007,Canyon,Zara,4,994,Riverlands,44,9,Hot,Medium,1.4,Narrow passages with ambush threats
+445,Brian,Lion,Mountain,Predator,Medium,Rare,H057,Swamp,Dev,7,1761,Ice Fields,26,4,Wet,High,1.6,Murky lands with hidden threats
+446,Wyatt,Elephant,African,Herbivore,High,Common,H098,Desert,Reva,2,2266,Mountain,8,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+447,Lauren,Elephant,Indian,Herbivore,High,Rare,H085,Savanna,Arjun,5,442,Ice Fields,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+448,Shelly,Lion,Indochinese,Predator,High,Uncommon,H036,Mountains,Dev,10,1402,Mountain,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+449,Julian,Bear,Snow,Omnivore,Low,Rare,H096,Swamp,Arjun,5,228,Forest,42,4,Wet,High,1.6,Murky lands with hidden threats
+450,Sheila,Elephant,Siberian,Herbivore,Low,Rare,H088,City Ruins,Liam,4,959,Canyon,17,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+451,Lori,Zebra,African,Herbivore,Low,Common,H074,City Ruins,Liam,5,473,Ruins,10,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+452,Jennifer,Cheetah,Asian,Herbivore,Low,Rare,H010,Desert,Kaira,2,2495,Canyon,38,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+453,Christopher,Tiger,Asian,Herbivore,High,Uncommon,H062,Swamp,Tara,1,1900,Riverlands,50,4,Wet,High,1.6,Murky lands with hidden threats
+454,Mitchell,Zebra,Snow,Omnivore,Low,Rare,H061,Savanna,Zara,10,2525,Volcano,27,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+455,Kelly,Zebra,Sumatran,Predator,High,Rare,H057,City Ruins,Dev,7,1761,Ice Fields,26,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+456,Christopher,Lion,Indochinese,Predator,Low,Rare,H078,Tundra,Tara,3,1969,Desert,49,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+457,Elizabeth,Zebra,Siberian,Omnivore,Low,Uncommon,H087,Mountains,Ravi,10,1093,Swamp,19,5,Cold,Medium,1.3,Rocky regions with agile animals
+458,Leslie,Wolf,African,Predator,Low,Common,H098,Jungle,Reva,2,2266,Mountain,8,1,Humid,High,1.5,Dense forest with dangerous wild predators
+459,Nicholas,Zebra,Siberian,Herbivore,Low,Uncommon,H066,Canyon,Dev,6,2668,Volcano,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+460,Courtney,Lion,Indian,Omnivore,Low,Rare,H057,Canyon,Dev,7,1761,Ice Fields,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+461,Keith,Tiger,Asian,Omnivore,Medium,Rare,H032,City Ruins,Zara,10,1525,Desert,15,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+462,Oscar,Giraffe,Asian,Predator,Low,Uncommon,H046,Desert,Zara,5,923,Desert,34,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+463,Steven,Lion,Siberian,Omnivore,Medium,Uncommon,H087,Jungle,Ravi,10,1093,Swamp,19,1,Humid,High,1.5,Dense forest with dangerous wild predators
+464,Joshua,Cheetah,Arctic,Herbivore,High,Rare,H052,Canyon,Ravi,5,683,Forest,46,9,Hot,Medium,1.4,Narrow passages with ambush threats
+465,Mark,Giraffe,Siberian,Predator,Low,Common,H052,Savanna,Ravi,5,683,Forest,46,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+466,Michelle,Leopard,Indian,Omnivore,Medium,Uncommon,H091,Swamp,Reva,8,2781,Mountain,22,4,Wet,High,1.6,Murky lands with hidden threats
+467,John,Cheetah,Sumatran,Predator,Low,Rare,H011,Desert,Kaira,3,1009,Ice Fields,14,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+468,Alison,Elephant,Bengal,Herbivore,High,Common,H065,Savanna,Meera,8,206,Swamp,26,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+469,Suzanne,Leopard,Mountain,Predator,Medium,Common,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+470,James,Wolf,Indian,Herbivore,High,Common,H013,Desert,Arjun,3,2868,Canyon,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+471,Nicholas,Tiger,Arctic,Predator,Low,Uncommon,H044,Canyon,Arjun,7,1338,Ruins,10,9,Hot,Medium,1.4,Narrow passages with ambush threats
+472,Anne,Rhino,Siberian,Predator,Low,Rare,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+473,Andrea,Zebra,African,Omnivore,Low,Rare,H041,Savanna,Liam,5,1059,Volcano,39,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+474,Amanda,Bear,Sumatran,Omnivore,Low,Common,H090,City Ruins,Zara,2,2327,Riverlands,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+475,Alexis,Giraffe,African,Omnivore,High,Rare,H029,City Ruins,Zara,5,1641,Canyon,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+476,Abigail,Cheetah,Siberian,Herbivore,Medium,Common,H005,Canyon,Kaira,4,1498,Mountain,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+477,April,Zebra,Mountain,Omnivore,Medium,Uncommon,H099,Forest,Tara,9,2822,Ruins,31,3,Mild,Low,1.0,Balanced area with common animals
+478,Melinda,Rhino,Asian,Herbivore,Medium,Rare,H062,Jungle,Tara,1,1900,Riverlands,50,1,Humid,High,1.5,Dense forest with dangerous wild predators
+479,Jennifer,Lion,African,Predator,High,Uncommon,H065,Tundra,Meera,8,206,Swamp,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+480,Jared,Elephant,Sumatran,Predator,Low,Common,H083,Jungle,Arjun,10,391,Volcano,23,1,Humid,High,1.5,Dense forest with dangerous wild predators
+481,Mark,Bear,Sumatran,Herbivore,Medium,Uncommon,H011,Mountains,Kaira,3,1009,Ice Fields,14,5,Cold,Medium,1.3,Rocky regions with agile animals
+482,Derrick,Cheetah,Asian,Herbivore,Medium,Common,H082,Jungle,Dev,2,2294,Desert,6,1,Humid,High,1.5,Dense forest with dangerous wild predators
+483,Amanda,Bear,Snow,Predator,Low,Common,H095,Mountains,Tara,4,991,Mountain,41,5,Cold,Medium,1.3,Rocky regions with agile animals
+484,Tamara,Bear,Asian,Predator,Low,Rare,H058,Tundra,Nikhil,9,1316,Volcano,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+485,Christina,Leopard,Mountain,Omnivore,Medium,Common,H088,Tundra,Liam,4,959,Canyon,17,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+486,Dennis,Wolf,Siberian,Omnivore,Low,Uncommon,H056,Forest,Arjun,9,1920,Ruins,12,3,Mild,Low,1.0,Balanced area with common animals
+487,Joe,Wolf,African,Omnivore,High,Uncommon,H086,Swamp,Zara,6,457,Ruins,32,4,Wet,High,1.6,Murky lands with hidden threats
+488,Joe,Lion,Indian,Predator,Medium,Common,H018,City Ruins,Kaira,8,2257,Desert,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+489,Lawrence,Elephant,Indian,Predator,Low,Rare,H076,Swamp,Dev,1,315,Forest,22,4,Wet,High,1.6,Murky lands with hidden threats
+490,Steven,Giraffe,Indian,Omnivore,High,Uncommon,H042,Swamp,Zara,7,2471,Desert,48,4,Wet,High,1.6,Murky lands with hidden threats
+491,Zachary,Giraffe,Indochinese,Predator,Low,Uncommon,H020,Mountains,Kaira,1,2637,Ice Fields,28,5,Cold,Medium,1.3,Rocky regions with agile animals
+492,Ariana,Cheetah,Snow,Herbivore,Medium,Rare,H031,Canyon,Ravi,7,2982,Volcano,43,9,Hot,Medium,1.4,Narrow passages with ambush threats
+493,Andrew,Tiger,Indian,Omnivore,High,Common,H022,Volcanic Zone,Zara,4,2500,Ruins,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+494,Joel,Lion,Asian,Herbivore,Low,Uncommon,H031,Swamp,Ravi,7,2982,Volcano,43,4,Wet,High,1.6,Murky lands with hidden threats
+495,Joshua,Cheetah,Indochinese,Predator,Low,Uncommon,H034,Volcanic Zone,Dev,6,1404,Swamp,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+496,Christopher,Lion,Asian,Predator,Medium,Uncommon,H051,Tundra,Reva,8,1830,Riverlands,11,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+497,Cody,Elephant,Indian,Herbivore,Low,Uncommon,H059,Canyon,Meera,8,2418,Swamp,7,9,Hot,Medium,1.4,Narrow passages with ambush threats
+498,Brian,Bear,Snow,Predator,Low,Uncommon,H094,Savanna,Ravi,8,627,Riverlands,46,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+499,Jennifer,Elephant,Asian,Omnivore,Medium,Rare,H016,Forest,Dev,4,2499,Jungle,11,3,Mild,Low,1.0,Balanced area with common animals
+500,Tiffany,Cheetah,Asian,Herbivore,High,Common,H018,Savanna,Kaira,8,2257,Desert,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+501,Emily,Tiger,Mountain,Omnivore,High,Rare,H064,Savanna,Nikhil,3,1385,Desert,32,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+502,Amber,Zebra,Mountain,Herbivore,High,Common,H001,Mountains,Nikhil,5,2028,Riverlands,20,5,Cold,Medium,1.3,Rocky regions with agile animals
+503,Rebecca,Cheetah,Indochinese,Predator,Low,Common,H090,Savanna,Zara,2,2327,Riverlands,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+504,Katie,Wolf,Asian,Herbivore,Medium,Rare,H096,Desert,Arjun,5,228,Forest,42,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+505,Kathleen,Cheetah,Mountain,Omnivore,High,Common,H096,Tundra,Arjun,5,228,Forest,42,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+506,Troy,Cheetah,Indian,Predator,Low,Rare,H054,Tundra,Kaira,6,1775,Volcano,48,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+507,David,Rhino,African,Predator,Medium,Common,H084,Jungle,Liam,7,1509,Forest,34,1,Humid,High,1.5,Dense forest with dangerous wild predators
+508,Julie,Bear,Indochinese,Herbivore,High,Common,H097,Tundra,Dev,8,1256,Desert,9,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+509,Kathryn,Giraffe,Bengal,Omnivore,Low,Common,H042,Forest,Zara,7,2471,Desert,48,3,Mild,Low,1.0,Balanced area with common animals
+510,Mary,Giraffe,Arctic,Omnivore,Low,Common,H037,Volcanic Zone,Tara,7,1073,Desert,36,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+511,Russell,Wolf,Mountain,Predator,Low,Common,H086,Swamp,Zara,6,457,Ruins,32,4,Wet,High,1.6,Murky lands with hidden threats
+512,Joshua,Rhino,Indochinese,Predator,Low,Uncommon,H098,Jungle,Reva,2,2266,Mountain,8,1,Humid,High,1.5,Dense forest with dangerous wild predators
+513,Gary,Lion,Mountain,Herbivore,High,Common,H049,Swamp,Zara,4,200,Forest,20,4,Wet,High,1.6,Murky lands with hidden threats
+514,Krystal,Zebra,Mountain,Omnivore,High,Common,H012,Mountains,Dev,5,572,Canyon,5,5,Cold,Medium,1.3,Rocky regions with agile animals
+515,Donna,Giraffe,Snow,Predator,Medium,Common,H029,Swamp,Zara,5,1641,Canyon,48,4,Wet,High,1.6,Murky lands with hidden threats
+516,Robert,Giraffe,Snow,Omnivore,Low,Uncommon,H043,Canyon,Zara,5,964,Volcano,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+517,Melinda,Elephant,Arctic,Omnivore,High,Rare,H098,Desert,Reva,2,2266,Mountain,8,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+518,Jeanette,Wolf,Indian,Predator,Low,Rare,H081,Tundra,Dev,9,558,Ruins,16,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+519,Amber,Zebra,Mountain,Predator,Low,Rare,H051,Desert,Reva,8,1830,Riverlands,11,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+520,Adam,Lion,Siberian,Predator,Low,Uncommon,H003,Canyon,Meera,3,1787,Volcano,42,9,Hot,Medium,1.4,Narrow passages with ambush threats
+521,Donna,Rhino,Asian,Omnivore,Medium,Common,H066,City Ruins,Dev,6,2668,Volcano,5,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+522,Heather,Giraffe,Arctic,Predator,High,Rare,H065,Tundra,Meera,8,206,Swamp,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+523,Janet,Tiger,Asian,Predator,Medium,Uncommon,H089,Swamp,Ravi,9,334,Volcano,12,4,Wet,High,1.6,Murky lands with hidden threats
+524,Shannon,Zebra,Indian,Herbivore,Low,Common,H082,City Ruins,Dev,2,2294,Desert,6,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+525,Leslie,Tiger,Sumatran,Omnivore,Medium,Common,H059,Tundra,Meera,8,2418,Swamp,7,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+526,Lucas,Cheetah,Snow,Omnivore,Medium,Common,H080,Forest,Nikhil,5,1228,Forest,40,3,Mild,Low,1.0,Balanced area with common animals
+527,Jennifer,Zebra,Mountain,Predator,High,Common,H035,Canyon,Ravi,4,792,Canyon,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+528,Wesley,Rhino,Asian,Omnivore,Low,Rare,H057,City Ruins,Dev,7,1761,Ice Fields,26,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+529,Katherine,Tiger,Mountain,Predator,High,Common,H073,Tundra,Ravi,6,709,Canyon,25,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+530,Amanda,Giraffe,Siberian,Herbivore,High,Rare,H043,City Ruins,Zara,5,964,Volcano,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+531,Joseph,Giraffe,Mountain,Omnivore,Low,Common,H060,Swamp,Dev,3,1162,Mountain,50,4,Wet,High,1.6,Murky lands with hidden threats
+532,Edward,Wolf,Mountain,Herbivore,High,Rare,H087,Tundra,Ravi,10,1093,Swamp,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+533,David,Zebra,Arctic,Predator,High,Uncommon,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+534,William,Elephant,Indian,Predator,Low,Rare,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+535,Cynthia,Zebra,Indian,Predator,High,Uncommon,H041,Canyon,Liam,5,1059,Volcano,39,9,Hot,Medium,1.4,Narrow passages with ambush threats
+536,Susan,Tiger,Mountain,Predator,High,Uncommon,H087,Desert,Ravi,10,1093,Swamp,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+537,Mark,Zebra,Indochinese,Omnivore,Low,Common,H011,Savanna,Kaira,3,1009,Ice Fields,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+538,John,Rhino,African,Predator,Medium,Rare,H090,Savanna,Zara,2,2327,Riverlands,22,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+539,Aaron,Leopard,Asian,Herbivore,Medium,Uncommon,H027,Canyon,Ravi,10,1674,Forest,37,9,Hot,Medium,1.4,Narrow passages with ambush threats
+540,Scott,Bear,Bengal,Predator,High,Rare,H089,Tundra,Ravi,9,334,Volcano,12,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+541,Jacqueline,Tiger,African,Predator,High,Rare,H089,Jungle,Ravi,9,334,Volcano,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+542,Erin,Cheetah,Mountain,Omnivore,Medium,Rare,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+543,Kevin,Giraffe,Sumatran,Omnivore,High,Common,H027,Savanna,Ravi,10,1674,Forest,37,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+544,Robert,Tiger,Indian,Omnivore,Low,Common,H023,Savanna,Zara,5,2278,Volcano,24,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+545,Tracey,Elephant,Arctic,Herbivore,Medium,Rare,H022,Volcanic Zone,Zara,4,2500,Ruins,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+546,Matthew,Wolf,Bengal,Omnivore,High,Uncommon,H037,Jungle,Tara,7,1073,Desert,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+547,Kimberly,Giraffe,Sumatran,Herbivore,High,Rare,H076,City Ruins,Dev,1,315,Forest,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+548,Brian,Zebra,Arctic,Omnivore,Low,Common,H063,City Ruins,Tara,2,1285,Swamp,43,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+549,Carolyn,Zebra,Indochinese,Predator,Low,Rare,H088,City Ruins,Liam,4,959,Canyon,17,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+550,Andrea,Elephant,Siberian,Herbivore,Low,Common,H003,Jungle,Meera,3,1787,Volcano,42,1,Humid,High,1.5,Dense forest with dangerous wild predators
+551,William,Zebra,Asian,Omnivore,Medium,Common,H030,Tundra,Reva,3,524,Jungle,45,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+552,Robert,Zebra,Sumatran,Herbivore,Medium,Rare,H047,Jungle,Meera,9,541,Ice Fields,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+553,John,Wolf,African,Omnivore,High,Common,H067,Canyon,Nikhil,1,2618,Riverlands,16,9,Hot,Medium,1.4,Narrow passages with ambush threats
+554,Stephanie,Tiger,African,Herbivore,Low,Common,H098,Tundra,Reva,2,2266,Mountain,8,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+555,Zachary,Lion,Mountain,Predator,Low,Uncommon,H066,Canyon,Dev,6,2668,Volcano,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+556,Jim,Wolf,Siberian,Omnivore,High,Common,H063,Volcanic Zone,Tara,2,1285,Swamp,43,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+557,Kathleen,Cheetah,Bengal,Omnivore,Low,Common,H075,City Ruins,Arjun,7,2244,Jungle,40,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+558,Barry,Giraffe,Indian,Omnivore,High,Uncommon,H077,Tundra,Liam,7,1283,Swamp,42,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+559,Elaine,Cheetah,Sumatran,Omnivore,High,Rare,H019,Desert,Zara,4,1759,Canyon,14,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+560,Christopher,Leopard,Siberian,Herbivore,Medium,Common,H071,Jungle,Reva,6,2104,Ice Fields,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+561,Timothy,Leopard,Asian,Herbivore,Low,Rare,H024,Savanna,Zara,9,1405,Ice Fields,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+562,Gloria,Bear,Mountain,Omnivore,Medium,Uncommon,H023,Tundra,Zara,5,2278,Volcano,24,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+563,Cody,Tiger,Indochinese,Omnivore,Medium,Common,H010,Desert,Kaira,2,2495,Canyon,38,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+564,Robert,Cheetah,Mountain,Omnivore,Low,Uncommon,H099,Forest,Tara,9,2822,Ruins,31,3,Mild,Low,1.0,Balanced area with common animals
+565,Aaron,Giraffe,Indian,Omnivore,High,Rare,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+566,Thomas,Leopard,Indochinese,Herbivore,Medium,Common,H096,Swamp,Arjun,5,228,Forest,42,4,Wet,High,1.6,Murky lands with hidden threats
+567,Daniel,Giraffe,Sumatran,Predator,Low,Uncommon,H071,Desert,Reva,6,2104,Ice Fields,16,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+568,Michele,Giraffe,Arctic,Predator,Low,Uncommon,H081,Swamp,Dev,9,558,Ruins,16,4,Wet,High,1.6,Murky lands with hidden threats
+569,William,Cheetah,Indian,Herbivore,High,Rare,H066,Swamp,Dev,6,2668,Volcano,5,4,Wet,High,1.6,Murky lands with hidden threats
+570,Elizabeth,Rhino,Indochinese,Herbivore,Low,Rare,H033,Forest,Meera,9,761,Desert,50,3,Mild,Low,1.0,Balanced area with common animals
+571,Jonathan,Rhino,Bengal,Herbivore,High,Uncommon,H051,Canyon,Reva,8,1830,Riverlands,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+572,Melissa,Bear,Indochinese,Omnivore,Medium,Common,H096,Volcanic Zone,Arjun,5,228,Forest,42,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+573,Thomas,Bear,Sumatran,Omnivore,Low,Rare,H018,Mountains,Kaira,8,2257,Desert,22,5,Cold,Medium,1.3,Rocky regions with agile animals
+574,Edward,Rhino,African,Herbivore,Medium,Common,H095,Tundra,Tara,4,991,Mountain,41,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+575,Miguel,Wolf,Arctic,Predator,Medium,Uncommon,H060,Canyon,Dev,3,1162,Mountain,50,9,Hot,Medium,1.4,Narrow passages with ambush threats
+576,Christina,Elephant,Mountain,Predator,Medium,Rare,H012,Tundra,Dev,5,572,Canyon,5,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+577,Robert,Leopard,Bengal,Predator,Low,Rare,H049,Desert,Zara,4,200,Forest,20,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+578,Nicole,Cheetah,Indian,Herbivore,Medium,Uncommon,H041,Savanna,Liam,5,1059,Volcano,39,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+579,Vanessa,Bear,Snow,Predator,High,Common,H072,Canyon,Tara,4,2685,Jungle,14,9,Hot,Medium,1.4,Narrow passages with ambush threats
+580,Deborah,Elephant,Indochinese,Predator,Medium,Uncommon,H071,Jungle,Reva,6,2104,Ice Fields,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+581,Adam,Wolf,Snow,Omnivore,Low,Rare,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+582,Stephen,Cheetah,Asian,Herbivore,Medium,Common,H004,Desert,Liam,9,1375,Riverlands,41,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+583,Christopher,Elephant,Siberian,Predator,Low,Common,H069,City Ruins,Reva,7,321,Mountain,40,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+584,Kathleen,Zebra,Indian,Omnivore,Medium,Common,H088,Desert,Liam,4,959,Canyon,17,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+585,Michael,Rhino,Asian,Herbivore,Medium,Rare,H029,City Ruins,Zara,5,1641,Canyon,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+586,Ruth,Tiger,Indian,Herbivore,Low,Common,H036,Canyon,Dev,10,1402,Mountain,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+587,Thomas,Leopard,Siberian,Omnivore,High,Uncommon,H084,Canyon,Liam,7,1509,Forest,34,9,Hot,Medium,1.4,Narrow passages with ambush threats
+588,Brian,Elephant,Snow,Omnivore,Low,Rare,H027,Jungle,Ravi,10,1674,Forest,37,1,Humid,High,1.5,Dense forest with dangerous wild predators
+589,Courtney,Cheetah,Snow,Omnivore,Medium,Rare,H054,Jungle,Kaira,6,1775,Volcano,48,1,Humid,High,1.5,Dense forest with dangerous wild predators
+590,Amanda,Tiger,Mountain,Predator,Low,Common,H061,Desert,Zara,10,2525,Volcano,27,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+591,Adam,Giraffe,African,Predator,Low,Common,H089,Forest,Ravi,9,334,Volcano,12,3,Mild,Low,1.0,Balanced area with common animals
+592,Ryan,Lion,Indochinese,Omnivore,High,Rare,H084,Desert,Liam,7,1509,Forest,34,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+593,Ralph,Zebra,Snow,Herbivore,Medium,Rare,H047,Jungle,Meera,9,541,Ice Fields,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+594,Andrew,Giraffe,Arctic,Herbivore,Medium,Rare,H061,Desert,Zara,10,2525,Volcano,27,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+595,Alyssa,Zebra,Arctic,Herbivore,Medium,Rare,H068,Canyon,Dev,4,2020,Ruins,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+596,Ronald,Zebra,Arctic,Herbivore,Low,Uncommon,H040,Swamp,Ravi,1,850,Ruins,28,4,Wet,High,1.6,Murky lands with hidden threats
+597,Jeffrey,Tiger,Siberian,Omnivore,Medium,Rare,H006,Jungle,Arjun,3,2950,Ruins,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+598,Diane,Tiger,Sumatran,Predator,Low,Common,H027,Volcanic Zone,Ravi,10,1674,Forest,37,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+599,Kristen,Rhino,Sumatran,Omnivore,Medium,Uncommon,H063,Canyon,Tara,2,1285,Swamp,43,9,Hot,Medium,1.4,Narrow passages with ambush threats
+600,Jason,Bear,Sumatran,Predator,Medium,Rare,H028,Jungle,Liam,5,2836,Desert,49,1,Humid,High,1.5,Dense forest with dangerous wild predators
+601,David,Rhino,Indochinese,Omnivore,Low,Uncommon,H074,Savanna,Liam,5,473,Ruins,10,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+602,Robert,Zebra,African,Omnivore,Medium,Common,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+603,Amanda,Elephant,Sumatran,Omnivore,High,Uncommon,H045,Volcanic Zone,Zara,10,1016,Ruins,27,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+604,Peter,Wolf,Siberian,Herbivore,Medium,Common,H096,Savanna,Arjun,5,228,Forest,42,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+605,Brandon,Zebra,Arctic,Predator,High,Common,H006,Savanna,Arjun,3,2950,Ruins,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+606,Melissa,Leopard,African,Predator,Low,Rare,H006,Volcanic Zone,Arjun,3,2950,Ruins,45,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+607,Natalie,Rhino,Mountain,Herbivore,Low,Uncommon,H090,City Ruins,Zara,2,2327,Riverlands,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+608,Brendan,Lion,Indian,Omnivore,Medium,Uncommon,H037,Canyon,Tara,7,1073,Desert,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+609,Jacqueline,Bear,Siberian,Omnivore,Medium,Uncommon,H096,Jungle,Arjun,5,228,Forest,42,1,Humid,High,1.5,Dense forest with dangerous wild predators
+610,Debbie,Giraffe,Indochinese,Omnivore,Medium,Uncommon,H004,Canyon,Liam,9,1375,Riverlands,41,9,Hot,Medium,1.4,Narrow passages with ambush threats
+611,James,Elephant,Sumatran,Herbivore,Medium,Rare,H024,Canyon,Zara,9,1405,Ice Fields,45,9,Hot,Medium,1.4,Narrow passages with ambush threats
+612,Sherri,Tiger,Indochinese,Predator,High,Uncommon,H067,Jungle,Nikhil,1,2618,Riverlands,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+613,Jeremy,Cheetah,African,Herbivore,Low,Common,H097,Savanna,Dev,8,1256,Desert,9,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+614,Bruce,Bear,Sumatran,Herbivore,Medium,Common,H043,Volcanic Zone,Zara,5,964,Volcano,11,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+615,Sarah,Zebra,Siberian,Herbivore,High,Common,H089,Volcanic Zone,Ravi,9,334,Volcano,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+616,Kyle,Tiger,Bengal,Omnivore,Medium,Common,H014,Jungle,Zara,2,1239,Desert,27,1,Humid,High,1.5,Dense forest with dangerous wild predators
+617,Peter,Wolf,Sumatran,Predator,High,Uncommon,H038,Mountains,Liam,9,2014,Swamp,36,5,Cold,Medium,1.3,Rocky regions with agile animals
+618,Emily,Zebra,Indian,Predator,High,Common,H013,Savanna,Arjun,3,2868,Canyon,26,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+619,Carlos,Giraffe,Siberian,Predator,Low,Common,H050,Desert,Tara,6,831,Canyon,44,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+620,John,Tiger,Siberian,Herbivore,High,Common,H027,Desert,Ravi,10,1674,Forest,37,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+621,Sean,Cheetah,African,Predator,High,Rare,H010,Mountains,Kaira,2,2495,Canyon,38,5,Cold,Medium,1.3,Rocky regions with agile animals
+622,Julia,Leopard,African,Predator,Medium,Common,H080,Swamp,Nikhil,5,1228,Forest,40,4,Wet,High,1.6,Murky lands with hidden threats
+623,Ryan,Rhino,Indian,Herbivore,Low,Uncommon,H003,Desert,Meera,3,1787,Volcano,42,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+624,Tina,Elephant,Sumatran,Herbivore,Medium,Rare,H080,Tundra,Nikhil,5,1228,Forest,40,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+625,Caleb,Lion,Indian,Herbivore,Medium,Uncommon,H031,Tundra,Ravi,7,2982,Volcano,43,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+626,Kathleen,Lion,African,Omnivore,High,Common,H035,Volcanic Zone,Ravi,4,792,Canyon,26,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+627,Gregory,Elephant,Arctic,Herbivore,High,Uncommon,H008,Jungle,Liam,6,2972,Riverlands,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+628,Wendy,Lion,Mountain,Predator,Low,Uncommon,H069,Canyon,Reva,7,321,Mountain,40,9,Hot,Medium,1.4,Narrow passages with ambush threats
+629,William,Lion,Mountain,Herbivore,Low,Common,H088,Volcanic Zone,Liam,4,959,Canyon,17,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+630,Robert,Wolf,Indian,Predator,Medium,Rare,H022,Swamp,Zara,4,2500,Ruins,19,4,Wet,High,1.6,Murky lands with hidden threats
+631,Marilyn,Zebra,Asian,Omnivore,Medium,Uncommon,H100,City Ruins,Nikhil,1,611,Ice Fields,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+632,Caroline,Cheetah,Mountain,Omnivore,Low,Rare,H039,Jungle,Reva,1,1756,Ice Fields,6,1,Humid,High,1.5,Dense forest with dangerous wild predators
+633,Carolyn,Cheetah,Mountain,Omnivore,High,Rare,H069,Forest,Reva,7,321,Mountain,40,3,Mild,Low,1.0,Balanced area with common animals
+634,Ryan,Bear,Mountain,Predator,Low,Uncommon,H081,Desert,Dev,9,558,Ruins,16,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+635,Deborah,Zebra,African,Herbivore,Medium,Common,H038,Mountains,Liam,9,2014,Swamp,36,5,Cold,Medium,1.3,Rocky regions with agile animals
+636,Sherry,Wolf,African,Predator,Medium,Common,H071,Tundra,Reva,6,2104,Ice Fields,16,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+637,Pamela,Wolf,Siberian,Herbivore,Low,Common,H045,City Ruins,Zara,10,1016,Ruins,27,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+638,Jason,Wolf,Indian,Herbivore,High,Uncommon,H049,Mountains,Zara,4,200,Forest,20,5,Cold,Medium,1.3,Rocky regions with agile animals
+639,Douglas,Giraffe,Bengal,Herbivore,Low,Common,H028,Canyon,Liam,5,2836,Desert,49,9,Hot,Medium,1.4,Narrow passages with ambush threats
+640,Amy,Tiger,Mountain,Omnivore,Medium,Uncommon,H063,Canyon,Tara,2,1285,Swamp,43,9,Hot,Medium,1.4,Narrow passages with ambush threats
+641,Nicole,Zebra,Sumatran,Omnivore,High,Common,H058,Savanna,Nikhil,9,1316,Volcano,19,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+642,Cheryl,Wolf,Siberian,Predator,Medium,Common,H093,Jungle,Reva,7,311,Canyon,25,1,Humid,High,1.5,Dense forest with dangerous wild predators
+643,Ricky,Zebra,Asian,Herbivore,Low,Uncommon,H077,Swamp,Liam,7,1283,Swamp,42,4,Wet,High,1.6,Murky lands with hidden threats
+644,Michelle,Bear,Sumatran,Omnivore,Low,Rare,H042,Canyon,Zara,7,2471,Desert,48,9,Hot,Medium,1.4,Narrow passages with ambush threats
+645,Pamela,Zebra,Asian,Omnivore,High,Common,H069,Jungle,Reva,7,321,Mountain,40,1,Humid,High,1.5,Dense forest with dangerous wild predators
+646,Michael,Cheetah,Arctic,Predator,Low,Uncommon,H015,Swamp,Dev,4,600,Jungle,19,4,Wet,High,1.6,Murky lands with hidden threats
+647,Ryan,Bear,Sumatran,Herbivore,Low,Common,H022,Swamp,Zara,4,2500,Ruins,19,4,Wet,High,1.6,Murky lands with hidden threats
+648,Tiffany,Lion,Sumatran,Predator,High,Uncommon,H064,Tundra,Nikhil,3,1385,Desert,32,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+649,Lindsay,Bear,Bengal,Omnivore,Medium,Uncommon,H061,Forest,Zara,10,2525,Volcano,27,3,Mild,Low,1.0,Balanced area with common animals
+650,Joseph,Zebra,Siberian,Predator,High,Common,H072,Savanna,Tara,4,2685,Jungle,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+651,Pamela,Tiger,Arctic,Omnivore,Low,Common,H084,Canyon,Liam,7,1509,Forest,34,9,Hot,Medium,1.4,Narrow passages with ambush threats
+652,Tracy,Zebra,Snow,Omnivore,Medium,Uncommon,H042,Desert,Zara,7,2471,Desert,48,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+653,Rebecca,Leopard,African,Omnivore,Medium,Rare,H049,Volcanic Zone,Zara,4,200,Forest,20,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+654,Kristen,Rhino,Asian,Omnivore,High,Common,H065,Savanna,Meera,8,206,Swamp,26,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+655,Robin,Giraffe,Asian,Predator,Low,Rare,H089,Desert,Ravi,9,334,Volcano,12,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+656,Sandra,Bear,Sumatran,Omnivore,Low,Common,H025,City Ruins,Reva,3,1677,Swamp,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+657,Jamie,Bear,Asian,Predator,High,Common,H008,Jungle,Liam,6,2972,Riverlands,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+658,Amber,Giraffe,African,Predator,Medium,Rare,H039,Volcanic Zone,Reva,1,1756,Ice Fields,6,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+659,Dana,Cheetah,Indian,Predator,Medium,Rare,H009,Swamp,Ravi,2,2615,Desert,31,4,Wet,High,1.6,Murky lands with hidden threats
+660,Amanda,Tiger,Mountain,Omnivore,Medium,Common,H054,Mountains,Kaira,6,1775,Volcano,48,5,Cold,Medium,1.3,Rocky regions with agile animals
+661,John,Leopard,Indian,Herbivore,Low,Uncommon,H035,Mountains,Ravi,4,792,Canyon,26,5,Cold,Medium,1.3,Rocky regions with agile animals
+662,Heather,Elephant,Asian,Herbivore,Medium,Rare,H027,Savanna,Ravi,10,1674,Forest,37,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+663,Gregory,Leopard,Arctic,Predator,Low,Common,H057,Canyon,Dev,7,1761,Ice Fields,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+664,Michele,Rhino,Bengal,Omnivore,High,Rare,H035,Tundra,Ravi,4,792,Canyon,26,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+665,Samuel,Giraffe,Indian,Herbivore,High,Rare,H013,Swamp,Arjun,3,2868,Canyon,26,4,Wet,High,1.6,Murky lands with hidden threats
+666,Jose,Rhino,Asian,Herbivore,Medium,Uncommon,H057,Desert,Dev,7,1761,Ice Fields,26,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+667,Jeffery,Cheetah,Arctic,Herbivore,High,Uncommon,H070,Tundra,Dev,1,1776,Volcano,38,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+668,James,Lion,Indian,Omnivore,Low,Common,H033,City Ruins,Meera,9,761,Desert,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+669,Marissa,Zebra,Asian,Omnivore,Medium,Common,H050,Canyon,Tara,6,831,Canyon,44,9,Hot,Medium,1.4,Narrow passages with ambush threats
+670,Andres,Elephant,Snow,Predator,Medium,Uncommon,H095,Desert,Tara,4,991,Mountain,41,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+671,David,Tiger,Snow,Predator,Low,Uncommon,H052,City Ruins,Ravi,5,683,Forest,46,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+672,Kathleen,Bear,Indian,Omnivore,Low,Common,H037,Volcanic Zone,Tara,7,1073,Desert,36,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+673,Randy,Tiger,Indochinese,Herbivore,Medium,Common,H024,Swamp,Zara,9,1405,Ice Fields,45,4,Wet,High,1.6,Murky lands with hidden threats
+674,Lori,Lion,Arctic,Predator,Medium,Uncommon,H066,Canyon,Dev,6,2668,Volcano,5,9,Hot,Medium,1.4,Narrow passages with ambush threats
+675,Gregory,Lion,Siberian,Herbivore,Medium,Common,H091,Forest,Reva,8,2781,Mountain,22,3,Mild,Low,1.0,Balanced area with common animals
+676,Jennifer,Bear,Arctic,Herbivore,High,Common,H087,Volcanic Zone,Ravi,10,1093,Swamp,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+677,Alicia,Giraffe,Arctic,Herbivore,Medium,Rare,H096,Mountains,Arjun,5,228,Forest,42,5,Cold,Medium,1.3,Rocky regions with agile animals
+678,Monica,Tiger,Siberian,Herbivore,High,Uncommon,H045,Canyon,Zara,10,1016,Ruins,27,9,Hot,Medium,1.4,Narrow passages with ambush threats
+679,Morgan,Lion,Sumatran,Omnivore,Medium,Common,H009,City Ruins,Ravi,2,2615,Desert,31,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+680,Jacqueline,Elephant,Sumatran,Predator,Low,Common,H016,Canyon,Dev,4,2499,Jungle,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+681,Joshua,Tiger,Mountain,Predator,Medium,Common,H085,City Ruins,Arjun,5,442,Ice Fields,49,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+682,Alicia,Wolf,Asian,Predator,High,Uncommon,H093,Tundra,Reva,7,311,Canyon,25,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+683,Teresa,Rhino,African,Omnivore,Low,Common,H024,Forest,Zara,9,1405,Ice Fields,45,3,Mild,Low,1.0,Balanced area with common animals
+684,Aaron,Rhino,African,Predator,High,Uncommon,H094,City Ruins,Ravi,8,627,Riverlands,46,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+685,John,Cheetah,Siberian,Herbivore,Low,Uncommon,H038,Swamp,Liam,9,2014,Swamp,36,4,Wet,High,1.6,Murky lands with hidden threats
+686,Brian,Tiger,Bengal,Predator,Medium,Uncommon,H017,City Ruins,Liam,9,2480,Forest,23,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+687,Brian,Cheetah,Snow,Omnivore,Low,Common,H002,Savanna,Liam,8,380,Forest,12,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+688,Tina,Elephant,Siberian,Predator,High,Rare,H011,Tundra,Kaira,3,1009,Ice Fields,14,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+689,Peter,Bear,Indochinese,Omnivore,Low,Rare,H099,Mountains,Tara,9,2822,Ruins,31,5,Cold,Medium,1.3,Rocky regions with agile animals
+690,Morgan,Giraffe,Indochinese,Omnivore,Medium,Uncommon,H052,Mountains,Ravi,5,683,Forest,46,5,Cold,Medium,1.3,Rocky regions with agile animals
+691,Elizabeth,Lion,Indian,Predator,Medium,Common,H084,Jungle,Liam,7,1509,Forest,34,1,Humid,High,1.5,Dense forest with dangerous wild predators
+692,Thomas,Wolf,Bengal,Omnivore,High,Uncommon,H043,Tundra,Zara,5,964,Volcano,11,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+693,Robert,Rhino,Sumatran,Omnivore,High,Uncommon,H028,Canyon,Liam,5,2836,Desert,49,9,Hot,Medium,1.4,Narrow passages with ambush threats
+694,George,Leopard,Indian,Predator,High,Uncommon,H043,Volcanic Zone,Zara,5,964,Volcano,11,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+695,Michael,Bear,Sumatran,Herbivore,Low,Rare,H093,Canyon,Reva,7,311,Canyon,25,9,Hot,Medium,1.4,Narrow passages with ambush threats
+696,Richard,Zebra,Indochinese,Herbivore,High,Rare,H091,Forest,Reva,8,2781,Mountain,22,3,Mild,Low,1.0,Balanced area with common animals
+697,Kyle,Bear,Indochinese,Omnivore,Low,Uncommon,H030,Forest,Reva,3,524,Jungle,45,3,Mild,Low,1.0,Balanced area with common animals
+698,Erik,Wolf,Snow,Omnivore,Medium,Uncommon,H030,Canyon,Reva,3,524,Jungle,45,9,Hot,Medium,1.4,Narrow passages with ambush threats
+699,Catherine,Rhino,Indian,Omnivore,Medium,Uncommon,H021,Savanna,Reva,2,580,Desert,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+700,Christopher,Rhino,Bengal,Herbivore,High,Uncommon,H060,Swamp,Dev,3,1162,Mountain,50,4,Wet,High,1.6,Murky lands with hidden threats
+701,Kevin,Zebra,Indochinese,Predator,High,Uncommon,H080,Swamp,Nikhil,5,1228,Forest,40,4,Wet,High,1.6,Murky lands with hidden threats
+702,Sonia,Giraffe,Arctic,Predator,High,Uncommon,H042,City Ruins,Zara,7,2471,Desert,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+703,Martin,Lion,African,Predator,Medium,Common,H032,Tundra,Zara,10,1525,Desert,15,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+704,James,Wolf,Indian,Herbivore,Medium,Uncommon,H052,Desert,Ravi,5,683,Forest,46,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+705,Pedro,Leopard,Mountain,Herbivore,Medium,Common,H005,Tundra,Kaira,4,1498,Mountain,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+706,Jeremy,Tiger,Arctic,Omnivore,High,Uncommon,H097,Canyon,Dev,8,1256,Desert,9,9,Hot,Medium,1.4,Narrow passages with ambush threats
+707,Cynthia,Leopard,Indian,Omnivore,High,Uncommon,H060,Swamp,Dev,3,1162,Mountain,50,4,Wet,High,1.6,Murky lands with hidden threats
+708,Vicki,Zebra,Mountain,Predator,High,Common,H061,Savanna,Zara,10,2525,Volcano,27,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+709,Richard,Leopard,Bengal,Omnivore,Low,Rare,H012,Savanna,Dev,5,572,Canyon,5,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+710,Gary,Rhino,Bengal,Herbivore,Low,Common,H021,Swamp,Reva,2,580,Desert,45,4,Wet,High,1.6,Murky lands with hidden threats
+711,Chad,Tiger,African,Omnivore,Low,Rare,H051,Volcanic Zone,Reva,8,1830,Riverlands,11,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+712,Danielle,Lion,Siberian,Predator,Low,Uncommon,H053,Desert,Ravi,7,1120,Ice Fields,36,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+713,Peter,Elephant,Indochinese,Herbivore,High,Rare,H073,Swamp,Ravi,6,709,Canyon,25,4,Wet,High,1.6,Murky lands with hidden threats
+714,Scott,Rhino,Asian,Omnivore,High,Rare,H019,Mountains,Zara,4,1759,Canyon,14,5,Cold,Medium,1.3,Rocky regions with agile animals
+715,Austin,Zebra,Asian,Herbivore,Low,Uncommon,H094,Forest,Ravi,8,627,Riverlands,46,3,Mild,Low,1.0,Balanced area with common animals
+716,Brittany,Lion,Siberian,Omnivore,High,Common,H047,Desert,Meera,9,541,Ice Fields,36,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+717,Christy,Elephant,Arctic,Predator,Low,Common,H043,Canyon,Zara,5,964,Volcano,11,9,Hot,Medium,1.4,Narrow passages with ambush threats
+718,Colleen,Giraffe,Asian,Herbivore,Medium,Common,H058,Desert,Nikhil,9,1316,Volcano,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+719,Michael,Giraffe,Indochinese,Predator,Low,Common,H066,Forest,Dev,6,2668,Volcano,5,3,Mild,Low,1.0,Balanced area with common animals
+720,Nicole,Bear,Snow,Herbivore,Low,Uncommon,H033,Desert,Meera,9,761,Desert,50,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+721,Jack,Bear,Bengal,Predator,Low,Common,H074,City Ruins,Liam,5,473,Ruins,10,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+722,Brittany,Rhino,Indian,Herbivore,Low,Common,H005,Jungle,Kaira,4,1498,Mountain,19,1,Humid,High,1.5,Dense forest with dangerous wild predators
+723,Linda,Wolf,Indochinese,Predator,Medium,Common,H029,Volcanic Zone,Zara,5,1641,Canyon,48,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+724,Dana,Bear,Asian,Herbivore,Medium,Common,H028,Desert,Liam,5,2836,Desert,49,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+725,Emily,Tiger,Mountain,Omnivore,Medium,Rare,H085,Volcanic Zone,Arjun,5,442,Ice Fields,49,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+726,Michelle,Zebra,Snow,Predator,Low,Rare,H056,Desert,Arjun,9,1920,Ruins,12,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+727,Kathleen,Giraffe,Mountain,Herbivore,High,Common,H085,Jungle,Arjun,5,442,Ice Fields,49,1,Humid,High,1.5,Dense forest with dangerous wild predators
+728,Kelly,Cheetah,African,Omnivore,High,Uncommon,H024,Jungle,Zara,9,1405,Ice Fields,45,1,Humid,High,1.5,Dense forest with dangerous wild predators
+729,Jodi,Tiger,Sumatran,Predator,Medium,Uncommon,H001,Savanna,Nikhil,5,2028,Riverlands,20,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+730,Sarah,Leopard,Sumatran,Omnivore,High,Rare,H041,Tundra,Liam,5,1059,Volcano,39,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+731,David,Wolf,Arctic,Omnivore,Medium,Uncommon,H093,Forest,Reva,7,311,Canyon,25,3,Mild,Low,1.0,Balanced area with common animals
+732,Micheal,Zebra,Indochinese,Omnivore,Medium,Uncommon,H050,Savanna,Tara,6,831,Canyon,44,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+733,Vanessa,Zebra,Bengal,Predator,Medium,Rare,H083,City Ruins,Arjun,10,391,Volcano,23,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+734,Donna,Leopard,Indochinese,Omnivore,High,Uncommon,H041,Canyon,Liam,5,1059,Volcano,39,9,Hot,Medium,1.4,Narrow passages with ambush threats
+735,Nancy,Lion,Indian,Herbivore,Medium,Uncommon,H004,Swamp,Liam,9,1375,Riverlands,41,4,Wet,High,1.6,Murky lands with hidden threats
+736,Joshua,Rhino,Sumatran,Herbivore,Medium,Rare,H074,Canyon,Liam,5,473,Ruins,10,9,Hot,Medium,1.4,Narrow passages with ambush threats
+737,Cameron,Leopard,Indochinese,Omnivore,High,Common,H033,Canyon,Meera,9,761,Desert,50,9,Hot,Medium,1.4,Narrow passages with ambush threats
+738,Melanie,Zebra,Siberian,Omnivore,Low,Rare,H021,Canyon,Reva,2,580,Desert,45,9,Hot,Medium,1.4,Narrow passages with ambush threats
+739,Emily,Wolf,African,Predator,Medium,Rare,H008,Savanna,Liam,6,2972,Riverlands,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+740,Tammy,Rhino,African,Omnivore,Medium,Rare,H048,Mountains,Nikhil,7,2229,Mountain,8,5,Cold,Medium,1.3,Rocky regions with agile animals
+741,Danny,Leopard,Mountain,Herbivore,Low,Common,H040,Swamp,Ravi,1,850,Ruins,28,4,Wet,High,1.6,Murky lands with hidden threats
+742,Erin,Lion,Bengal,Omnivore,Low,Uncommon,H029,City Ruins,Zara,5,1641,Canyon,48,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+743,Steve,Wolf,Siberian,Herbivore,Medium,Common,H097,Forest,Dev,8,1256,Desert,9,3,Mild,Low,1.0,Balanced area with common animals
+744,Tiffany,Giraffe,Arctic,Omnivore,Medium,Rare,H066,Mountains,Dev,6,2668,Volcano,5,5,Cold,Medium,1.3,Rocky regions with agile animals
+745,Taylor,Leopard,Indochinese,Predator,Medium,Uncommon,H006,Mountains,Arjun,3,2950,Ruins,45,5,Cold,Medium,1.3,Rocky regions with agile animals
+746,Kathryn,Leopard,Bengal,Herbivore,Medium,Rare,H018,Canyon,Kaira,8,2257,Desert,22,9,Hot,Medium,1.4,Narrow passages with ambush threats
+747,Sarah,Cheetah,Mountain,Herbivore,High,Rare,H060,City Ruins,Dev,3,1162,Mountain,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+748,Justin,Lion,Bengal,Omnivore,Medium,Rare,H072,City Ruins,Tara,4,2685,Jungle,14,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+749,Yolanda,Rhino,Snow,Omnivore,High,Common,H072,City Ruins,Tara,4,2685,Jungle,14,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+750,Elizabeth,Leopard,Indochinese,Predator,Low,Rare,H027,Jungle,Ravi,10,1674,Forest,37,1,Humid,High,1.5,Dense forest with dangerous wild predators
+751,Jane,Wolf,Siberian,Omnivore,Low,Uncommon,H094,Swamp,Ravi,8,627,Riverlands,46,4,Wet,High,1.6,Murky lands with hidden threats
+752,Amy,Zebra,Bengal,Herbivore,High,Common,H085,City Ruins,Arjun,5,442,Ice Fields,49,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+753,David,Wolf,Asian,Herbivore,Medium,Uncommon,H081,Tundra,Dev,9,558,Ruins,16,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+754,Brian,Giraffe,Sumatran,Omnivore,High,Rare,H082,Canyon,Dev,2,2294,Desert,6,9,Hot,Medium,1.4,Narrow passages with ambush threats
+755,Anita,Lion,Mountain,Herbivore,High,Uncommon,H086,Mountains,Zara,6,457,Ruins,32,5,Cold,Medium,1.3,Rocky regions with agile animals
+756,Garrett,Wolf,Sumatran,Omnivore,Medium,Common,H009,Desert,Ravi,2,2615,Desert,31,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+757,Terri,Tiger,Indochinese,Herbivore,High,Uncommon,H015,Swamp,Dev,4,600,Jungle,19,4,Wet,High,1.6,Murky lands with hidden threats
+758,Bonnie,Lion,Snow,Omnivore,Medium,Rare,H069,Tundra,Reva,7,321,Mountain,40,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+759,Alexander,Giraffe,Mountain,Omnivore,Medium,Common,H056,Volcanic Zone,Arjun,9,1920,Ruins,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+760,Jodi,Zebra,African,Predator,Medium,Common,H069,Savanna,Reva,7,321,Mountain,40,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+761,Timothy,Leopard,Mountain,Predator,High,Common,H090,Forest,Zara,2,2327,Riverlands,22,3,Mild,Low,1.0,Balanced area with common animals
+762,Jackson,Leopard,Indochinese,Predator,High,Common,H005,Tundra,Kaira,4,1498,Mountain,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+763,David,Rhino,Snow,Herbivore,High,Rare,H097,Forest,Dev,8,1256,Desert,9,3,Mild,Low,1.0,Balanced area with common animals
+764,Judy,Lion,Asian,Omnivore,High,Common,H032,Forest,Zara,10,1525,Desert,15,3,Mild,Low,1.0,Balanced area with common animals
+765,Jillian,Rhino,Siberian,Herbivore,Low,Rare,H054,Mountains,Kaira,6,1775,Volcano,48,5,Cold,Medium,1.3,Rocky regions with agile animals
+766,Brandon,Bear,Mountain,Omnivore,High,Common,H007,Forest,Zara,4,994,Riverlands,44,3,Mild,Low,1.0,Balanced area with common animals
+767,Ruth,Giraffe,Snow,Herbivore,Low,Rare,H025,Mountains,Reva,3,1677,Swamp,50,5,Cold,Medium,1.3,Rocky regions with agile animals
+768,Kyle,Zebra,Siberian,Predator,Low,Rare,H074,Savanna,Liam,5,473,Ruins,10,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+769,Trevor,Rhino,Mountain,Herbivore,High,Rare,H067,Savanna,Nikhil,1,2618,Riverlands,16,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+770,Travis,Rhino,Siberian,Herbivore,Low,Uncommon,H067,Savanna,Nikhil,1,2618,Riverlands,16,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+771,Laurie,Rhino,Sumatran,Herbivore,Medium,Uncommon,H085,Forest,Arjun,5,442,Ice Fields,49,3,Mild,Low,1.0,Balanced area with common animals
+772,Jennifer,Cheetah,Bengal,Omnivore,Medium,Uncommon,H027,City Ruins,Ravi,10,1674,Forest,37,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+773,Karen,Tiger,Indian,Herbivore,High,Uncommon,H005,Desert,Kaira,4,1498,Mountain,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+774,Amy,Elephant,Bengal,Omnivore,Low,Uncommon,H069,Desert,Reva,7,321,Mountain,40,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+775,Stacy,Wolf,African,Predator,Low,Uncommon,H089,Tundra,Ravi,9,334,Volcano,12,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+776,Robin,Giraffe,Mountain,Predator,Low,Uncommon,H014,Forest,Zara,2,1239,Desert,27,3,Mild,Low,1.0,Balanced area with common animals
+777,Vanessa,Cheetah,Sumatran,Herbivore,High,Common,H037,Jungle,Tara,7,1073,Desert,36,1,Humid,High,1.5,Dense forest with dangerous wild predators
+778,Jacob,Bear,Bengal,Herbivore,High,Uncommon,H059,Tundra,Meera,8,2418,Swamp,7,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+779,Robert,Lion,Indochinese,Predator,Low,Rare,H034,Desert,Dev,6,1404,Swamp,24,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+780,Teresa,Elephant,Arctic,Herbivore,High,Rare,H064,Volcanic Zone,Nikhil,3,1385,Desert,32,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+781,Jasmine,Giraffe,Indian,Omnivore,High,Rare,H058,Forest,Nikhil,9,1316,Volcano,19,3,Mild,Low,1.0,Balanced area with common animals
+782,Michael,Giraffe,Indian,Herbivore,Medium,Rare,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+783,Samantha,Elephant,Asian,Omnivore,Low,Common,H001,Swamp,Nikhil,5,2028,Riverlands,20,4,Wet,High,1.6,Murky lands with hidden threats
+784,Mikayla,Zebra,Bengal,Herbivore,High,Uncommon,H066,Mountains,Dev,6,2668,Volcano,5,5,Cold,Medium,1.3,Rocky regions with agile animals
+785,Shelley,Elephant,Indian,Predator,Low,Uncommon,H069,Swamp,Reva,7,321,Mountain,40,4,Wet,High,1.6,Murky lands with hidden threats
+786,Amanda,Elephant,Indochinese,Omnivore,Low,Rare,H079,City Ruins,Reva,2,1179,Desert,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+787,Eric,Lion,Mountain,Omnivore,High,Rare,H035,Mountains,Ravi,4,792,Canyon,26,5,Cold,Medium,1.3,Rocky regions with agile animals
+788,Laura,Lion,Mountain,Herbivore,Low,Common,H062,City Ruins,Tara,1,1900,Riverlands,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+789,Charles,Lion,Siberian,Herbivore,High,Common,H097,Canyon,Dev,8,1256,Desert,9,9,Hot,Medium,1.4,Narrow passages with ambush threats
+790,David,Zebra,African,Herbivore,High,Common,H021,Tundra,Reva,2,580,Desert,45,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+791,Richard,Leopard,Asian,Predator,Low,Common,H100,Forest,Nikhil,1,611,Ice Fields,48,3,Mild,Low,1.0,Balanced area with common animals
+792,Shawn,Zebra,Indochinese,Omnivore,Medium,Rare,H041,Desert,Liam,5,1059,Volcano,39,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+793,Paula,Cheetah,Indochinese,Predator,Medium,Common,H091,Canyon,Reva,8,2781,Mountain,22,9,Hot,Medium,1.4,Narrow passages with ambush threats
+794,Patricia,Cheetah,Sumatran,Predator,Low,Rare,H016,City Ruins,Dev,4,2499,Jungle,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+795,Lisa,Wolf,Asian,Omnivore,Low,Uncommon,H055,Desert,Kaira,8,518,Volcano,15,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+796,Christopher,Wolf,Indian,Herbivore,High,Uncommon,H038,Mountains,Liam,9,2014,Swamp,36,5,Cold,Medium,1.3,Rocky regions with agile animals
+797,Sarah,Elephant,Arctic,Omnivore,Low,Uncommon,H015,Volcanic Zone,Dev,4,600,Jungle,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+798,Troy,Giraffe,Sumatran,Omnivore,Low,Uncommon,H033,Tundra,Meera,9,761,Desert,50,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+799,Christy,Rhino,Asian,Omnivore,Medium,Rare,H054,Volcanic Zone,Kaira,6,1775,Volcano,48,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+800,Hannah,Cheetah,Indian,Omnivore,High,Common,H004,Jungle,Liam,9,1375,Riverlands,41,1,Humid,High,1.5,Dense forest with dangerous wild predators
+801,Stephen,Leopard,Siberian,Predator,Medium,Rare,H026,Forest,Arjun,2,983,Riverlands,33,3,Mild,Low,1.0,Balanced area with common animals
+802,Jenna,Rhino,Arctic,Herbivore,Low,Rare,H097,Desert,Dev,8,1256,Desert,9,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+803,Michael,Lion,African,Herbivore,Low,Rare,H026,Mountains,Arjun,2,983,Riverlands,33,5,Cold,Medium,1.3,Rocky regions with agile animals
+804,Brian,Wolf,Siberian,Predator,Medium,Uncommon,H030,Savanna,Reva,3,524,Jungle,45,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+805,Debbie,Zebra,Indochinese,Predator,Medium,Common,H090,Canyon,Zara,2,2327,Riverlands,22,9,Hot,Medium,1.4,Narrow passages with ambush threats
+806,Johnny,Cheetah,Arctic,Predator,Medium,Uncommon,H011,Canyon,Kaira,3,1009,Ice Fields,14,9,Hot,Medium,1.4,Narrow passages with ambush threats
+807,Gregory,Elephant,Snow,Predator,Low,Uncommon,H051,Mountains,Reva,8,1830,Riverlands,11,5,Cold,Medium,1.3,Rocky regions with agile animals
+808,David,Giraffe,Siberian,Herbivore,High,Common,H034,Volcanic Zone,Dev,6,1404,Swamp,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+809,Suzanne,Wolf,Arctic,Predator,High,Rare,H030,City Ruins,Reva,3,524,Jungle,45,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+810,Andrew,Cheetah,Indochinese,Omnivore,Low,Rare,H062,Canyon,Tara,1,1900,Riverlands,50,9,Hot,Medium,1.4,Narrow passages with ambush threats
+811,Beverly,Bear,African,Predator,Medium,Uncommon,H080,Jungle,Nikhil,5,1228,Forest,40,1,Humid,High,1.5,Dense forest with dangerous wild predators
+812,John,Lion,Arctic,Predator,High,Uncommon,H066,City Ruins,Dev,6,2668,Volcano,5,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+813,Brandon,Zebra,Asian,Predator,Low,Uncommon,H072,Mountains,Tara,4,2685,Jungle,14,5,Cold,Medium,1.3,Rocky regions with agile animals
+814,Kevin,Elephant,Arctic,Omnivore,Low,Uncommon,H071,Mountains,Reva,6,2104,Ice Fields,16,5,Cold,Medium,1.3,Rocky regions with agile animals
+815,Jessica,Zebra,Indochinese,Herbivore,Low,Rare,H039,Tundra,Reva,1,1756,Ice Fields,6,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+816,Jay,Tiger,African,Predator,High,Uncommon,H087,Volcanic Zone,Ravi,10,1093,Swamp,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+817,Willie,Wolf,Bengal,Herbivore,Medium,Common,H011,Jungle,Kaira,3,1009,Ice Fields,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+818,Patricia,Tiger,Asian,Predator,High,Uncommon,H026,Forest,Arjun,2,983,Riverlands,33,3,Mild,Low,1.0,Balanced area with common animals
+819,Alexandra,Lion,African,Herbivore,Low,Uncommon,H059,Tundra,Meera,8,2418,Swamp,7,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+820,Amy,Elephant,Indochinese,Predator,Low,Uncommon,H096,Swamp,Arjun,5,228,Forest,42,4,Wet,High,1.6,Murky lands with hidden threats
+821,Rita,Zebra,Indian,Omnivore,Medium,Common,H070,City Ruins,Dev,1,1776,Volcano,38,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+822,Patrick,Cheetah,Indochinese,Herbivore,High,Rare,H043,City Ruins,Zara,5,964,Volcano,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+823,Donna,Wolf,Indochinese,Omnivore,Low,Uncommon,H027,Canyon,Ravi,10,1674,Forest,37,9,Hot,Medium,1.4,Narrow passages with ambush threats
+824,Christian,Zebra,Asian,Herbivore,Low,Uncommon,H091,City Ruins,Reva,8,2781,Mountain,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+825,Mitchell,Zebra,Arctic,Predator,Low,Common,H054,Volcanic Zone,Kaira,6,1775,Volcano,48,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+826,Sarah,Elephant,Indian,Herbivore,High,Rare,H072,City Ruins,Tara,4,2685,Jungle,14,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+827,Melissa,Leopard,Bengal,Herbivore,Medium,Rare,H039,Desert,Reva,1,1756,Ice Fields,6,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+828,Jason,Cheetah,Mountain,Herbivore,Low,Rare,H028,Savanna,Liam,5,2836,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+829,Shannon,Giraffe,Snow,Herbivore,Medium,Uncommon,H083,City Ruins,Arjun,10,391,Volcano,23,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+830,Robin,Lion,Mountain,Omnivore,Medium,Uncommon,H020,Volcanic Zone,Kaira,1,2637,Ice Fields,28,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+831,Luke,Elephant,Snow,Herbivore,Low,Rare,H099,Forest,Tara,9,2822,Ruins,31,3,Mild,Low,1.0,Balanced area with common animals
+832,Kevin,Rhino,Snow,Omnivore,Low,Rare,H044,Forest,Arjun,7,1338,Ruins,10,3,Mild,Low,1.0,Balanced area with common animals
+833,Zachary,Wolf,Mountain,Omnivore,Medium,Uncommon,H088,City Ruins,Liam,4,959,Canyon,17,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+834,Karen,Leopard,Mountain,Omnivore,High,Uncommon,H100,Volcanic Zone,Nikhil,1,611,Ice Fields,48,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+835,Eric,Rhino,Sumatran,Predator,Low,Uncommon,H024,Mountains,Zara,9,1405,Ice Fields,45,5,Cold,Medium,1.3,Rocky regions with agile animals
+836,Sally,Giraffe,Sumatran,Predator,Low,Rare,H022,Tundra,Zara,4,2500,Ruins,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+837,Lawrence,Giraffe,Arctic,Predator,Medium,Common,H070,Volcanic Zone,Dev,1,1776,Volcano,38,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+838,Stephanie,Lion,Arctic,Predator,High,Rare,H015,City Ruins,Dev,4,600,Jungle,19,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+839,Patricia,Zebra,African,Omnivore,Low,Rare,H088,Mountains,Liam,4,959,Canyon,17,5,Cold,Medium,1.3,Rocky regions with agile animals
+840,Benjamin,Tiger,Indian,Omnivore,High,Uncommon,H043,Swamp,Zara,5,964,Volcano,11,4,Wet,High,1.6,Murky lands with hidden threats
+841,Carolyn,Lion,Sumatran,Omnivore,High,Uncommon,H005,Canyon,Kaira,4,1498,Mountain,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+842,Patrick,Tiger,Asian,Omnivore,Low,Common,H078,Desert,Tara,3,1969,Desert,49,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+843,Kimberly,Lion,African,Herbivore,Low,Rare,H021,Volcanic Zone,Reva,2,580,Desert,45,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+844,Karen,Leopard,Indian,Predator,Low,Rare,H070,Tundra,Dev,1,1776,Volcano,38,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+845,Lisa,Elephant,Asian,Omnivore,Medium,Rare,H073,Tundra,Ravi,6,709,Canyon,25,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+846,Christine,Wolf,Indian,Herbivore,High,Rare,H039,Savanna,Reva,1,1756,Ice Fields,6,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+847,Kenneth,Rhino,Siberian,Predator,Medium,Common,H042,Forest,Zara,7,2471,Desert,48,3,Mild,Low,1.0,Balanced area with common animals
+848,Becky,Lion,Indian,Omnivore,Medium,Uncommon,H022,Desert,Zara,4,2500,Ruins,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+849,Michelle,Tiger,Arctic,Omnivore,Medium,Common,H023,Mountains,Zara,5,2278,Volcano,24,5,Cold,Medium,1.3,Rocky regions with agile animals
+850,Scott,Rhino,African,Herbivore,Low,Common,H036,Volcanic Zone,Dev,10,1402,Mountain,19,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+851,John,Tiger,Indochinese,Predator,Low,Rare,H089,Desert,Ravi,9,334,Volcano,12,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+852,Julia,Giraffe,Indochinese,Omnivore,Medium,Rare,H073,Jungle,Ravi,6,709,Canyon,25,1,Humid,High,1.5,Dense forest with dangerous wild predators
+853,Yesenia,Wolf,Mountain,Herbivore,Low,Uncommon,H089,Volcanic Zone,Ravi,9,334,Volcano,12,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+854,Jill,Leopard,Siberian,Herbivore,High,Common,H031,Mountains,Ravi,7,2982,Volcano,43,5,Cold,Medium,1.3,Rocky regions with agile animals
+855,Amy,Giraffe,Bengal,Predator,Low,Rare,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+856,Steven,Elephant,Asian,Omnivore,Low,Rare,H031,Savanna,Ravi,7,2982,Volcano,43,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+857,Angela,Zebra,Siberian,Herbivore,High,Uncommon,H058,Tundra,Nikhil,9,1316,Volcano,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+858,Matthew,Lion,African,Omnivore,High,Uncommon,H003,Savanna,Meera,3,1787,Volcano,42,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+859,Sean,Lion,Mountain,Herbivore,Medium,Uncommon,H048,Tundra,Nikhil,7,2229,Mountain,8,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+860,Nathan,Giraffe,Mountain,Predator,High,Uncommon,H077,Canyon,Liam,7,1283,Swamp,42,9,Hot,Medium,1.4,Narrow passages with ambush threats
+861,Anthony,Elephant,Sumatran,Predator,Low,Common,H076,Volcanic Zone,Dev,1,315,Forest,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+862,Jonathan,Lion,Indochinese,Herbivore,Low,Rare,H090,Tundra,Zara,2,2327,Riverlands,22,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+863,Oscar,Zebra,Mountain,Predator,Medium,Common,H091,Forest,Reva,8,2781,Mountain,22,3,Mild,Low,1.0,Balanced area with common animals
+864,Oscar,Rhino,Mountain,Herbivore,Medium,Rare,H091,Jungle,Reva,8,2781,Mountain,22,1,Humid,High,1.5,Dense forest with dangerous wild predators
+865,Joseph,Bear,Bengal,Omnivore,High,Rare,H048,Savanna,Nikhil,7,2229,Mountain,8,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+866,William,Elephant,Mountain,Omnivore,High,Common,H061,Volcanic Zone,Zara,10,2525,Volcano,27,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+867,Vanessa,Wolf,Snow,Herbivore,Low,Uncommon,H007,Swamp,Zara,4,994,Riverlands,44,4,Wet,High,1.6,Murky lands with hidden threats
+868,Ian,Cheetah,African,Omnivore,Low,Common,H021,Desert,Reva,2,580,Desert,45,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+869,Kevin,Zebra,Siberian,Herbivore,High,Rare,H019,Volcanic Zone,Zara,4,1759,Canyon,14,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+870,Kimberly,Cheetah,Indian,Omnivore,Medium,Common,H073,Canyon,Ravi,6,709,Canyon,25,9,Hot,Medium,1.4,Narrow passages with ambush threats
+871,Nancy,Cheetah,Indochinese,Predator,Low,Rare,H080,Mountains,Nikhil,5,1228,Forest,40,5,Cold,Medium,1.3,Rocky regions with agile animals
+872,Jill,Bear,Mountain,Herbivore,High,Rare,H033,City Ruins,Meera,9,761,Desert,50,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+873,Ashley,Bear,African,Predator,High,Uncommon,H004,City Ruins,Liam,9,1375,Riverlands,41,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+874,Beth,Elephant,African,Omnivore,Medium,Common,H098,Forest,Reva,2,2266,Mountain,8,3,Mild,Low,1.0,Balanced area with common animals
+875,Emily,Elephant,Sumatran,Omnivore,Low,Common,H012,Forest,Dev,5,572,Canyon,5,3,Mild,Low,1.0,Balanced area with common animals
+876,Michael,Lion,Mountain,Predator,High,Common,H081,Jungle,Dev,9,558,Ruins,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+877,Lisa,Elephant,African,Omnivore,Low,Rare,H008,Savanna,Liam,6,2972,Riverlands,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+878,Vanessa,Wolf,Indian,Omnivore,High,Uncommon,H038,Canyon,Liam,9,2014,Swamp,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+879,John,Rhino,Sumatran,Predator,Low,Rare,H075,Desert,Arjun,7,2244,Jungle,40,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+880,Laura,Bear,Mountain,Omnivore,Medium,Rare,H056,Jungle,Arjun,9,1920,Ruins,12,1,Humid,High,1.5,Dense forest with dangerous wild predators
+881,Kyle,Elephant,Sumatran,Herbivore,Low,Common,H054,Mountains,Kaira,6,1775,Volcano,48,5,Cold,Medium,1.3,Rocky regions with agile animals
+882,Austin,Rhino,Indian,Predator,Medium,Common,H035,Canyon,Ravi,4,792,Canyon,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+883,James,Bear,Indian,Predator,Low,Uncommon,H022,Desert,Zara,4,2500,Ruins,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+884,Brian,Elephant,Snow,Herbivore,Low,Common,H025,Canyon,Reva,3,1677,Swamp,50,9,Hot,Medium,1.4,Narrow passages with ambush threats
+885,Jennifer,Lion,Asian,Predator,High,Common,H083,Swamp,Arjun,10,391,Volcano,23,4,Wet,High,1.6,Murky lands with hidden threats
+886,Chelsea,Rhino,Snow,Omnivore,Medium,Uncommon,H027,City Ruins,Ravi,10,1674,Forest,37,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+887,Russell,Zebra,Bengal,Herbivore,High,Uncommon,H019,Tundra,Zara,4,1759,Canyon,14,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+888,Gloria,Cheetah,Indochinese,Predator,High,Common,H031,Forest,Ravi,7,2982,Volcano,43,3,Mild,Low,1.0,Balanced area with common animals
+889,Courtney,Wolf,Bengal,Predator,Low,Rare,H099,Desert,Tara,9,2822,Ruins,31,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+890,Kimberly,Wolf,Snow,Predator,Low,Common,H064,Mountains,Nikhil,3,1385,Desert,32,5,Cold,Medium,1.3,Rocky regions with agile animals
+891,April,Leopard,Asian,Omnivore,High,Uncommon,H088,Volcanic Zone,Liam,4,959,Canyon,17,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+892,Whitney,Cheetah,Asian,Herbivore,High,Common,H018,Mountains,Kaira,8,2257,Desert,22,5,Cold,Medium,1.3,Rocky regions with agile animals
+893,Laura,Zebra,Indochinese,Herbivore,Low,Common,H065,Swamp,Meera,8,206,Swamp,26,4,Wet,High,1.6,Murky lands with hidden threats
+894,Rhonda,Lion,Siberian,Herbivore,High,Rare,H077,Volcanic Zone,Liam,7,1283,Swamp,42,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+895,Robin,Giraffe,Siberian,Omnivore,Low,Rare,H097,Canyon,Dev,8,1256,Desert,9,9,Hot,Medium,1.4,Narrow passages with ambush threats
+896,Thomas,Wolf,Indochinese,Herbivore,Medium,Uncommon,H005,Jungle,Kaira,4,1498,Mountain,19,1,Humid,High,1.5,Dense forest with dangerous wild predators
+897,Emily,Zebra,Indochinese,Herbivore,Low,Common,H050,Swamp,Tara,6,831,Canyon,44,4,Wet,High,1.6,Murky lands with hidden threats
+898,Matthew,Giraffe,Snow,Omnivore,High,Rare,H048,Swamp,Nikhil,7,2229,Mountain,8,4,Wet,High,1.6,Murky lands with hidden threats
+899,Alexandra,Elephant,Indochinese,Herbivore,Low,Rare,H076,Desert,Dev,1,315,Forest,22,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+900,Kyle,Elephant,Sumatran,Omnivore,Medium,Common,H072,Jungle,Tara,4,2685,Jungle,14,1,Humid,High,1.5,Dense forest with dangerous wild predators
+901,Roberto,Bear,Sumatran,Omnivore,Low,Uncommon,H023,Savanna,Zara,5,2278,Volcano,24,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+902,Lauren,Giraffe,Asian,Omnivore,High,Uncommon,H015,Tundra,Dev,4,600,Jungle,19,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+903,Adrian,Bear,Arctic,Omnivore,Medium,Common,H100,Canyon,Nikhil,1,611,Ice Fields,48,9,Hot,Medium,1.4,Narrow passages with ambush threats
+904,Melissa,Tiger,Asian,Herbivore,High,Uncommon,H084,Jungle,Liam,7,1509,Forest,34,1,Humid,High,1.5,Dense forest with dangerous wild predators
+905,Ronald,Leopard,Siberian,Omnivore,Low,Rare,H012,Savanna,Dev,5,572,Canyon,5,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+906,Douglas,Elephant,Indochinese,Predator,High,Rare,H003,Swamp,Meera,3,1787,Volcano,42,4,Wet,High,1.6,Murky lands with hidden threats
+907,Shannon,Elephant,African,Omnivore,Low,Common,H030,Volcanic Zone,Reva,3,524,Jungle,45,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+908,Matthew,Bear,Sumatran,Predator,Medium,Uncommon,H074,Swamp,Liam,5,473,Ruins,10,4,Wet,High,1.6,Murky lands with hidden threats
+909,Jeffrey,Giraffe,Indochinese,Predator,Low,Common,H018,City Ruins,Kaira,8,2257,Desert,22,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+910,Philip,Giraffe,Indochinese,Herbivore,Medium,Common,H046,Desert,Zara,5,923,Desert,34,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+911,Lee,Rhino,Indian,Herbivore,Medium,Common,H050,City Ruins,Tara,6,831,Canyon,44,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+912,April,Zebra,Indian,Omnivore,Low,Uncommon,H031,Canyon,Ravi,7,2982,Volcano,43,9,Hot,Medium,1.4,Narrow passages with ambush threats
+913,Robert,Rhino,Siberian,Herbivore,High,Rare,H075,Forest,Arjun,7,2244,Jungle,40,3,Mild,Low,1.0,Balanced area with common animals
+914,Sharon,Rhino,Arctic,Herbivore,High,Uncommon,H004,Forest,Liam,9,1375,Riverlands,41,3,Mild,Low,1.0,Balanced area with common animals
+915,Joel,Lion,Mountain,Predator,High,Common,H003,City Ruins,Meera,3,1787,Volcano,42,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+916,Gregory,Zebra,Indochinese,Predator,Medium,Rare,H039,Jungle,Reva,1,1756,Ice Fields,6,1,Humid,High,1.5,Dense forest with dangerous wild predators
+917,Maria,Elephant,Indian,Herbivore,Low,Common,H090,Volcanic Zone,Zara,2,2327,Riverlands,22,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+918,Gloria,Giraffe,Sumatran,Herbivore,Medium,Common,H007,Savanna,Zara,4,994,Riverlands,44,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+919,Kimberly,Wolf,Arctic,Omnivore,Low,Common,H069,Desert,Reva,7,321,Mountain,40,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+920,Virginia,Lion,Indian,Herbivore,Medium,Uncommon,H035,City Ruins,Ravi,4,792,Canyon,26,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+921,Debra,Zebra,Mountain,Predator,Medium,Uncommon,H031,Swamp,Ravi,7,2982,Volcano,43,4,Wet,High,1.6,Murky lands with hidden threats
+922,Tiffany,Bear,Indian,Omnivore,Medium,Uncommon,H090,Canyon,Zara,2,2327,Riverlands,22,9,Hot,Medium,1.4,Narrow passages with ambush threats
+923,Johnny,Giraffe,Indian,Omnivore,High,Uncommon,H026,Savanna,Arjun,2,983,Riverlands,33,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+924,Jason,Bear,Asian,Herbivore,High,Uncommon,H083,Canyon,Arjun,10,391,Volcano,23,9,Hot,Medium,1.4,Narrow passages with ambush threats
+925,Gregory,Zebra,Arctic,Herbivore,High,Common,H064,City Ruins,Nikhil,3,1385,Desert,32,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+926,Craig,Elephant,African,Predator,Medium,Rare,H065,Canyon,Meera,8,206,Swamp,26,9,Hot,Medium,1.4,Narrow passages with ambush threats
+927,Hannah,Tiger,Indochinese,Predator,Low,Uncommon,H004,Mountains,Liam,9,1375,Riverlands,41,5,Cold,Medium,1.3,Rocky regions with agile animals
+928,Meagan,Rhino,Indian,Predator,High,Rare,H093,Volcanic Zone,Reva,7,311,Canyon,25,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+929,Amy,Elephant,Bengal,Predator,Low,Rare,H017,Mountains,Liam,9,2480,Forest,23,5,Cold,Medium,1.3,Rocky regions with agile animals
+930,Jacqueline,Rhino,African,Predator,Medium,Common,H076,Swamp,Dev,1,315,Forest,22,4,Wet,High,1.6,Murky lands with hidden threats
+931,Stephanie,Bear,Mountain,Predator,Medium,Uncommon,H059,Savanna,Meera,8,2418,Swamp,7,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+932,Anthony,Leopard,Siberian,Omnivore,Low,Common,H054,Savanna,Kaira,6,1775,Volcano,48,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+933,Amanda,Giraffe,Snow,Herbivore,Medium,Rare,H007,Tundra,Zara,4,994,Riverlands,44,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+934,Melanie,Leopard,Sumatran,Omnivore,Medium,Common,H002,Savanna,Liam,8,380,Forest,12,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+935,Kurt,Elephant,Arctic,Herbivore,Low,Uncommon,H014,Volcanic Zone,Zara,2,1239,Desert,27,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+936,Wendy,Zebra,African,Omnivore,Low,Rare,H044,Forest,Arjun,7,1338,Ruins,10,3,Mild,Low,1.0,Balanced area with common animals
+937,David,Giraffe,Siberian,Herbivore,Low,Uncommon,H083,Savanna,Arjun,10,391,Volcano,23,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+938,Christopher,Cheetah,Sumatran,Omnivore,Medium,Rare,H057,Mountains,Dev,7,1761,Ice Fields,26,5,Cold,Medium,1.3,Rocky regions with agile animals
+939,Eric,Tiger,Sumatran,Predator,Medium,Common,H037,Canyon,Tara,7,1073,Desert,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+940,Matthew,Leopard,Sumatran,Herbivore,Medium,Uncommon,H082,Tundra,Dev,2,2294,Desert,6,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+941,John,Tiger,Indochinese,Omnivore,High,Common,H030,Mountains,Reva,3,524,Jungle,45,5,Cold,Medium,1.3,Rocky regions with agile animals
+942,Angela,Elephant,Siberian,Omnivore,High,Uncommon,H016,Jungle,Dev,4,2499,Jungle,11,1,Humid,High,1.5,Dense forest with dangerous wild predators
+943,Matthew,Wolf,Bengal,Herbivore,Medium,Uncommon,H058,Desert,Nikhil,9,1316,Volcano,19,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+944,Elizabeth,Elephant,Mountain,Herbivore,Low,Common,H074,Canyon,Liam,5,473,Ruins,10,9,Hot,Medium,1.4,Narrow passages with ambush threats
+945,Andrew,Rhino,Sumatran,Herbivore,Low,Uncommon,H004,Mountains,Liam,9,1375,Riverlands,41,5,Cold,Medium,1.3,Rocky regions with agile animals
+946,Jessica,Elephant,Indochinese,Omnivore,Low,Rare,H072,Savanna,Tara,4,2685,Jungle,14,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+947,Benjamin,Leopard,Arctic,Omnivore,Low,Common,H078,Savanna,Tara,3,1969,Desert,49,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+948,Richard,Leopard,Asian,Herbivore,Medium,Common,H052,Savanna,Ravi,5,683,Forest,46,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+949,Paul,Tiger,Bengal,Predator,Low,Rare,H047,Tundra,Meera,9,541,Ice Fields,36,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+950,Amy,Lion,Indochinese,Omnivore,Low,Common,H081,Swamp,Dev,9,558,Ruins,16,4,Wet,High,1.6,Murky lands with hidden threats
+951,Kimberly,Cheetah,Bengal,Herbivore,Medium,Uncommon,H019,Tundra,Zara,4,1759,Canyon,14,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+952,Michael,Bear,Asian,Herbivore,Low,Common,H079,Forest,Reva,2,1179,Desert,12,3,Mild,Low,1.0,Balanced area with common animals
+953,Christopher,Elephant,African,Omnivore,Low,Uncommon,H092,Jungle,Tara,7,1246,Forest,6,1,Humid,High,1.5,Dense forest with dangerous wild predators
+954,David,Wolf,Mountain,Omnivore,Low,Uncommon,H016,City Ruins,Dev,4,2499,Jungle,11,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+955,Samantha,Giraffe,African,Omnivore,High,Uncommon,H047,Canyon,Meera,9,541,Ice Fields,36,9,Hot,Medium,1.4,Narrow passages with ambush threats
+956,Jason,Wolf,Snow,Omnivore,Low,Common,H019,City Ruins,Zara,4,1759,Canyon,14,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+957,Emily,Giraffe,Asian,Omnivore,Medium,Rare,H044,Tundra,Arjun,7,1338,Ruins,10,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+958,Nicholas,Bear,Snow,Omnivore,Medium,Uncommon,H034,Tundra,Dev,6,1404,Swamp,24,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+959,Antonio,Lion,Arctic,Predator,Medium,Rare,H090,Jungle,Zara,2,2327,Riverlands,22,1,Humid,High,1.5,Dense forest with dangerous wild predators
+960,Melissa,Elephant,Arctic,Herbivore,Low,Rare,H014,Jungle,Zara,2,1239,Desert,27,1,Humid,High,1.5,Dense forest with dangerous wild predators
+961,Sandra,Zebra,Arctic,Omnivore,Medium,Common,H017,Mountains,Liam,9,2480,Forest,23,5,Cold,Medium,1.3,Rocky regions with agile animals
+962,Kevin,Wolf,Snow,Predator,High,Common,H007,Volcanic Zone,Zara,4,994,Riverlands,44,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+963,Courtney,Rhino,Snow,Omnivore,Low,Rare,H092,Swamp,Tara,7,1246,Forest,6,4,Wet,High,1.6,Murky lands with hidden threats
+964,Brooke,Wolf,Mountain,Herbivore,High,Common,H005,Canyon,Kaira,4,1498,Mountain,19,9,Hot,Medium,1.4,Narrow passages with ambush threats
+965,Antonio,Cheetah,Mountain,Herbivore,Low,Uncommon,H059,Canyon,Meera,8,2418,Swamp,7,9,Hot,Medium,1.4,Narrow passages with ambush threats
+966,Leslie,Tiger,Siberian,Predator,Low,Common,H098,Volcanic Zone,Reva,2,2266,Mountain,8,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+967,Diana,Wolf,Arctic,Omnivore,Low,Rare,H098,City Ruins,Reva,2,2266,Mountain,8,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+968,Samantha,Cheetah,African,Omnivore,Medium,Uncommon,H008,Mountains,Liam,6,2972,Riverlands,14,5,Cold,Medium,1.3,Rocky regions with agile animals
+969,Bonnie,Lion,Sumatran,Herbivore,Low,Uncommon,H032,Desert,Zara,10,1525,Desert,15,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+970,Jimmy,Giraffe,Bengal,Predator,High,Rare,H032,Tundra,Zara,10,1525,Desert,15,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+971,Zachary,Cheetah,Arctic,Herbivore,Low,Uncommon,H099,Desert,Tara,9,2822,Ruins,31,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+972,Bill,Lion,Sumatran,Omnivore,High,Common,H002,City Ruins,Liam,8,380,Forest,12,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+973,Joan,Leopard,Arctic,Omnivore,Low,Rare,H001,Desert,Nikhil,5,2028,Riverlands,20,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+974,Angelica,Elephant,Indochinese,Herbivore,High,Uncommon,H081,Volcanic Zone,Dev,9,558,Ruins,16,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+975,Lauren,Lion,Asian,Predator,Medium,Uncommon,H041,Desert,Liam,5,1059,Volcano,39,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+976,Michelle,Bear,Bengal,Herbivore,Medium,Common,H023,Volcanic Zone,Zara,5,2278,Volcano,24,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+977,Crystal,Elephant,Sumatran,Predator,High,Uncommon,H043,Forest,Zara,5,964,Volcano,11,3,Mild,Low,1.0,Balanced area with common animals
+978,Sharon,Leopard,Indian,Omnivore,Low,Common,H027,Jungle,Ravi,10,1674,Forest,37,1,Humid,High,1.5,Dense forest with dangerous wild predators
+979,Andrea,Tiger,African,Predator,Medium,Common,H040,Tundra,Ravi,1,850,Ruins,28,7,Freezing,High,1.7,"Frozen lands with rare, tough animals"
+980,Zachary,Wolf,Indian,Herbivore,High,Uncommon,H087,Swamp,Ravi,10,1093,Swamp,19,4,Wet,High,1.6,Murky lands with hidden threats
+981,Rodney,Giraffe,Sumatran,Herbivore,Low,Uncommon,H073,Jungle,Ravi,6,709,Canyon,25,1,Humid,High,1.5,Dense forest with dangerous wild predators
+982,Bianca,Tiger,Indochinese,Omnivore,Medium,Uncommon,H051,Volcanic Zone,Reva,8,1830,Riverlands,11,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+983,Patrick,Cheetah,Bengal,Herbivore,Low,Common,H045,City Ruins,Zara,10,1016,Ruins,27,8,Polluted,High,1.8,Post-apocalyptic zone with mutated species
+984,Robert,Lion,Arctic,Predator,Medium,Rare,H034,Swamp,Dev,6,1404,Swamp,24,4,Wet,High,1.6,Murky lands with hidden threats
+985,Mckenzie,Cheetah,Mountain,Omnivore,High,Rare,H096,Desert,Arjun,5,228,Forest,42,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+986,Robert,Rhino,Asian,Omnivore,Low,Common,H007,Volcanic Zone,Zara,4,994,Riverlands,44,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+987,Steve,Bear,Arctic,Omnivore,Medium,Common,H046,Canyon,Zara,5,923,Desert,34,9,Hot,Medium,1.4,Narrow passages with ambush threats
+988,Linda,Cheetah,Sumatran,Omnivore,Low,Common,H053,Swamp,Ravi,7,1120,Ice Fields,36,4,Wet,High,1.6,Murky lands with hidden threats
+989,Melissa,Bear,Bengal,Predator,High,Common,H081,Jungle,Dev,9,558,Ruins,16,1,Humid,High,1.5,Dense forest with dangerous wild predators
+990,Pamela,Giraffe,Siberian,Herbivore,Medium,Common,H049,Swamp,Zara,4,200,Forest,20,4,Wet,High,1.6,Murky lands with hidden threats
+991,Christopher,Lion,Bengal,Omnivore,High,Common,H097,Desert,Dev,8,1256,Desert,9,2,Arid,Medium,1.2,Hot and dry terrain with limited animal life
+992,Michael,Elephant,Snow,Omnivore,High,Rare,H098,Canyon,Reva,2,2266,Mountain,8,9,Hot,Medium,1.4,Narrow passages with ambush threats
+993,Victor,Lion,Siberian,Predator,High,Common,H071,Savanna,Reva,6,2104,Ice Fields,16,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+994,Lauren,Wolf,Asian,Herbivore,Low,Common,H095,Volcanic Zone,Tara,4,991,Mountain,41,10,Extreme,Very High,2.0,A deadly zone with rare beasts and fire-based challenges
+995,Stephanie,Bear,Siberian,Herbivore,Medium,Rare,H002,Mountains,Liam,8,380,Forest,12,5,Cold,Medium,1.3,Rocky regions with agile animals
+996,Michele,Zebra,Indochinese,Omnivore,High,Common,H085,Canyon,Arjun,5,442,Ice Fields,49,9,Hot,Medium,1.4,Narrow passages with ambush threats
+997,Carol,Giraffe,Siberian,Predator,Medium,Rare,H079,Savanna,Reva,2,1179,Desert,12,6,Dry,Medium,1.2,Open plains with a mix of herbivores and predators
+998,Lisa,Wolf,Mountain,Omnivore,High,Uncommon,H064,Canyon,Nikhil,3,1385,Desert,32,9,Hot,Medium,1.4,Narrow passages with ambush threats
+999,Gabriella,Leopard,Bengal,Herbivore,Low,Common,H029,Jungle,Zara,5,1641,Canyon,48,1,Humid,High,1.5,Dense forest with dangerous wild predators
+1000,Kristina,Leopard,Asian,Herbivore,Low,Uncommon,H072,Canyon,Tara,4,2685,Jungle,14,9,Hot,Medium,1.4,Narrow passages with ambush threats
