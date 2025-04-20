@@ -44,49 +44,39 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 - Integrated terrain and animal datasets.
 - Added `terrain_main.csv` to simulate game-world linkages.
 
-### ✅ Day 7 – Hunter Data Generation
-- Generated **1000 Hunter** records assigned to random terrains.
-- Created a `hunter_data.csv` with attributes like `hunter_id`, `XP`, `health`, `kills`, `terrain_type`, and `difficulty_level`.
-- Wrote `generate_hunter_data.py` to automate the creation of hunter stats linked to terrains.
-- Created **hunting logs** data.
+### ✅ Day 7 – Hunter Data & Encounter Logs
+- Created 1000 unique hunter profiles with XP, health, fame.
+- Generated random encounter logs for each hunter based on terrain and actions.
+- Saved data in `hunter_stats.csv` and `encounter_logs.csv`.
 
-### ✅ Day 8 – Implemented Realms & Travel Logs
-- **Created realms data** with attributes like realm name, difficulty, climate, and special features.
-- **Generated travel logs** for hunters as they travel between realms. Each log contains travel details like distance, timestamp, and realm info.
-- **Saved the data** into `realms.csv` and `travel_logs.csv` in the `data/processed/` folder.
-- **Simulated travel events** for hunters to test the data generation.
+### ✅ Day 8 – AI Interactions & Universal Travel Key Logs
+- Added AI interactions based on hunter actions (voice assistant tracking vitals).
+- Simulated usage of the Universal Travel Key to shift between realms.
+- Saved data in `ai_interactions.csv` and `travel_logs.csv`.
 
-### ✅ Day 9 – Universal Travel Key & Realm Shifting
-- Simulated the usage of the **Universal Travel Key** to shift the hunter between realms.
-- Created `universal_travel_log.csv` to track travel events with columns: hunter_id, travel_id, from_realm, to_realm, and timestamp.
-- Wrote `generate_universal_travel_log.py` to generate random travel events for 1000 hunters.
-- Integrated realm shifting data into the project.
+### ✅ Day 9 – Economy Data & Rewards System
+- Created simulated economy data: rewards, items, and hunter earnings.
+- Built a rewards system with data on money, fame, and items earned.
+- Saved data in `economy_data.csv`.
 
-## 📅 Progress Log
+### ✅ Day 10 – Hunter Achievements, Terrain Logs, AI Interactions
+- Generated `terrain_logs.csv` and tracked hunter’s interactions with terrains.
+- Saved hunter achievements (kill count, terrain difficulty) in `hunter_achievements.csv`.
+- Updated `ai_interactions.csv` for AI and hunter progress tracking.
 
-### ✅ Day 10 – Data Collection: Hunter Stats & Game Events
-- **Generated Hunter Stats**: Created a CSV file `hunter_stats.csv` (raw folder) that tracks XP, health, kills, and fame for 1000 hunters.
-- **Generated Game Events**: Created a CSV file `hunter_events.csv` (processed folder) that tracks random events (animal encounters, challenges, treasure found) for hunters.
-- **Combined Data**: Merged hunter stats (from raw) and events (from processed) into a single file `combined_hunter_data.csv` for further analysis.
-
-
-## 📅 Progress Log
-
-### ✅ Day 11 – AI Interactions & Economy Data
-- **AI Interactions**: Generated a CSV `ai_interactions.csv` (processed folder) that tracks the interactions between the hunter and the AI voice assistant & bike.
-- **Economy Data**: Created `economy_data.csv` (processed folder) that tracks the hunter’s money, fame, and items collected during the game.
+### ✅ Day 11 – Economy Data and Additional Hunter Stats
+- Generated `hunter_stats.csv` with hunter data, including experience points, kills, and earnings.
+- Completed terrain logs and achievements for hunters.
 
 ---
 
-### 🚀 Coming Next:
-- Start analyzing the collected data and build interactive dashboards to visualize the hunter's journey, economy, and AI interactions.
-
-
-
-## 🧠 Story Element
-The hunter is guided by his AI bike and a voice assistant (based on his mother) through dangerous realms. One day, he discovers a mysterious **Universal Travel Key** that sends him into unknown worlds—opening the gateway for advanced data scenarios and visual storytelling.
+## 🚀 Coming Next
+- Generate and visualize detailed dashboards and reports based on collected data.
+- Use AWS QuickSight for analysis and reporting.
+- Present a complete, data-driven story with visualizations.
 
 ---
 
 ## 📂 Folder Structure
+
 
