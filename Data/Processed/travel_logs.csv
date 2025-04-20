@@ -1,0 +1,4 @@
+hunter_id,start_realm_id,destination_realm_id,distance_traveled,timestamp
+1,2,2,179,2025-04-20 08:42:00
+2,3,2,102,2025-04-20 08:42:00
+3,5,3,81,2025-04-20 08:42:00
