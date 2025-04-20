@@ -70,6 +70,25 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
 
 ---
 
+### ✅ Day 12: Master Data Merging (April 20, 2025)
+
+- Verified column names and structure in:
+  - `animals.csv` from `data/raw/`
+  - `terrain.csv` from `data/raw/`
+  - `hunter.csv` from `data/processed/`
+- Standardized data types (e.g., `hunter_id` as string)
+- Removed references to missing files like `event.csv`
+- Successfully merged all datasets based on:
+  - `hunter_id` (animals ↔ hunter)
+  - `terrain_name` (animals ↔ terrain)
+- Created final enriched dataset `master_data.csv`
+- Saved combined output to `data/processed/master_data.csv`
+- Previewed sample rows and validated no missing values
+- Ready to use this for analytics, dashboards, and event generation
+
+✅ Status: Master data combined and cleaned
+
+
 ## 🚀 Coming Next
 - Generate and visualize detailed dashboards and reports based on collected data.
 - Use AWS QuickSight for analysis and reporting.
