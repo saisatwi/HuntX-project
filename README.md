@@ -96,6 +96,19 @@ A futuristic, story-driven data project where you play as a legendary hunter nav
   - Data saved in `hunter_progress.csv`.
 - Integrated with the overall game data pipeline.
 
+
+## 📊 Day 14: Power BI Dashboard Sample
+
+A sample dashboard created using the HUNTX master data.
+
+- File: [`HuntX.pbix`](./HuntX.pbix)
+- Tool: Power BI Desktop
+- Data Used: master_data.csv, hunter_progress.csv, terrain.csv, etc.
+- Focus: Game overview, player stats, economy, animal encounters
+
+> 🔍 This dashboard is the starting point for building a futuristic, AI-inspired visualization layer for HuntX.
+
+
 ### Files updated:
 - `pipeline/hunter_progress.py`
 - `data/hunter_progress.csv` (generated after running the script)
@@ -105,7 +118,7 @@ Next steps:
 
 
 ## 🚀 Coming Next
-- Generate and visualize detailed dashboards and reports based on collected data.
+- Generate and visualize more advanced realistic detailed dashboards and reports based on collected data.
 - Use AWS QuickSight for analysis and reporting.
 - Present a complete, data-driven story with visualizations.
 
